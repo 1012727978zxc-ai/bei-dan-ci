@@ -1,6 +1,6 @@
 {
-"files": 37724,
-"bytes": 710231089,
+"files": 37725,
+"bytes": 712177744,
 "items": [
 {
 "path": ".github/workflows/check.yml",
@@ -34,13 +34,13 @@
 },
 {
 "path": "README.en.md",
-"bytes": 4348,
-"sha256": "496a31413673c27707647346ac165c38443b163fc7f69edf3bb54262d7d20125"
+"bytes": 4436,
+"sha256": "1ab82133f602eeda1a3d916ff81e214881987cb6f66255239be736dcf8632e77"
 },
 {
 "path": "README.md",
-"bytes": 9300,
-"sha256": "2993cd29df536455e452fd7408fe6a081bad1732f7a7d98832c16dcaed47ece6"
+"bytes": 9336,
+"sha256": "7b829936c0874d6a3fd6ca402b3a7b7d71a69f9f94cdfcca2ac75c34add3d7e5"
 },
 {
 "path": "SECURITY.md",
@@ -91,6 +91,11 @@
 "path": "docs/assets/launch-poster.jpg",
 "bytes": 90117,
 "sha256": "515f63db82ac563bb0e86052b8a885fd08f6e8f2e491a43962a86faa71bbd8fe"
+},
+{
+"path": "docs/assets/launch-preview.webp",
+"bytes": 1946522,
+"sha256": "ed02ece1511082d1d602144313aa7733b7aaab187212ce6ca82a9058a1e51dfe"
 },
 {
 "path": "docs/assets/launch.mp4",
@@ -188374,8 +188379,8 @@
 },
 {
 "path": "scripts/package_public.py",
-"bytes": 5837,
-"sha256": "c904b05ac0f59d57054dac1355e2bf280fbc56ca823ea544ce042ee91a294727"
+"bytes": 5846,
+"sha256": "23190deee96362f8e3531d7efce872698b06f29ce3e4255a42c4ba98ebc76101"
 },
 {
 "path": "scripts/record-demo.mjs",

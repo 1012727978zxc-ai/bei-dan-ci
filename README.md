@@ -13,9 +13,9 @@
 
 ![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-7%2C298-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE) ![GitHub stars](https://img.shields.io/github/stars/designfuchen/word-atlas?style=flat&color=E8B65A)
 
-<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-poster.jpg" alt="词光宣传片：每本单词书都从 abandon 开始" width="100%"></a>
+<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="词光宣传片精华：每本单词书都从 abandon 开始" width="100%"></a>
 
-<sub>每本单词书都从 abandon 开始，也停在 abandon。点开看 48 秒宣传片。</sub>
+<sub>每本单词书都从 abandon 开始，也停在 abandon。▶ 点击画面看 48 秒完整宣传片（有声音）</sub>
 
 </div>
 

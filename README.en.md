@@ -9,7 +9,9 @@
 
 [**Open the app →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ Launch film](docs/assets/launch.mp4) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [中文](README.md)
 
-<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-poster.jpg" alt="Word Atlas launch film" width="100%"></a>
+<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="Word Atlas launch film highlights" width="100%"></a>
+
+<sub>▶ Click to watch the full 48-second launch film (with sound)</sub>
 
 </div>
 

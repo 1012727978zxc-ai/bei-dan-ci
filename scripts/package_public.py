@@ -48,7 +48,7 @@ def allowed(rel: Path) -> bool:
     if p[0] == "scripts":
         return (len(p) == 2 and p[1] in SCRIPTS) or (len(p) == 3 and p[1] == "atlas" and p[2] in ATLAS_SCRIPTS)
     if p[0] == "docs":
-        return (len(p) == 2 and rel.suffix == ".md") or (len(p) == 3 and p[1] == "assets" and rel.suffix in {".jpg", ".png", ".gif", ".mp4"})
+        return (len(p) == 2 and rel.suffix == ".md") or (len(p) == 3 and p[1] == "assets" and rel.suffix in {".jpg", ".png", ".gif", ".webp", ".mp4"})
     if p[0] == "data":
         return len(p) == 2 and p[1] in {"word-atlas.json", "word-atlas.csv", "README.md"}
     if name in {".github/workflows/check.yml", ".github/workflows/pages.yml"}:

@@ -41,6 +41,43 @@
 
 <img src="docs/assets/today-desktop.jpg" alt="今日页" width="100%">
 
+## 看一看，听一听
+
+7,298 幅插画、22,905 段录音、24 段界面声音，都是为词光专门做的。下面是一小部分。
+
+### 🖼 每个词一幅画
+
+画面讲的就是例句里的那件事，同一种复古图鉴画风贯穿全部 7,298 个词。
+
+<table>
+<tr><td align="center" width="25%"><img src="public/atlas/img/abandon.webp" alt="abandon" width="100%"><br><b>abandon</b> 遗弃；抛弃<br><sub><i>We had to abandon our car in the snow.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/volcano.webp" alt="volcano" width="100%"><br><b>volcano</b> 火山<br><sub><i>We watched steam rising from the volcano across the lake.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/orchestra.webp" alt="orchestra" width="100%"><br><b>orchestra</b> 管弦乐队<br><sub><i>The orchestra began playing as the lights dimmed.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/telescope.webp" alt="telescope" width="100%"><br><b>telescope</b> 望远镜<br><sub><i>We watched the moon through a telescope on the balcony.</i></sub></td></tr>
+<tr><td align="center" width="25%"><img src="public/atlas/img/migrate.webp" alt="migrate" width="100%"><br><b>migrate</b> 迁徙；移居<br><sub><i>These birds migrate south when the weather turns cold.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/festival.webp" alt="festival" width="100%"><br><b>festival</b> 节日；庆祝活动<br><sub><i>Our town holds a lantern festival every autumn.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/lighthouse.webp" alt="lighthouse" width="100%"><br><b>lighthouse</b> 灯塔<br><sub><i>The lighthouse beam swept across the dark sea.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/astronaut.webp" alt="astronaut" width="100%"><br><b>astronaut</b> 宇航员；航天员<br><sub><i>The astronaut floated gently through the small space station.</i></sub></td></tr>
+</table>
+
+### 🔊 每个词都会读
+
+拿 *abandon* 举例，点开就能听（在线播放）：
+
+| | |
+|---|---|
+| 🇬🇧 英音 | [abandon /əˈbændən/](https://0xlei.tech/words/atlas/audio/uk/abandon.mp3) |
+| 🇺🇸 美音 | [abandon /əˈbændən/](https://0xlei.tech/words/atlas/audio/us/abandon.mp3) |
+| 📖 例句朗读 | [We had to abandon our car in the snow.](https://0xlei.tech/words/atlas/audio/ex/abandon.mp3) |
+
+全部 7,298 个词都有英音、美音和例句朗读，还有 1,011 个重点词的第二条例句也配了朗读。
+
+### 🎧 整个应用都有声音
+
+| | |
+|---|---|
+| 🎙 **开屏配音** | [「欢迎打开雅思大门」](https://0xlei.tech/words/sfx/splash-voice.mp3)：星尘汇聚成“词光”，大门打开 |
+| 🌌 **星图配音** | [「这是你的词汇星图。每学会一个词，就点亮一颗星。」](https://0xlei.tech/words/sfx/voice-galaxy-hello.mp3) |
+| 🎵 **星空音乐** | [一段可无缝循环的原创配乐](https://0xlei.tech/words/sfx/amb-stars.mp3)，默认陪你背词 |
+| 🌧 **6 段环境声** | [雨天图书馆](https://0xlei.tech/words/sfx/amb-rain.mp3) · [清晨海岸](https://0xlei.tech/words/sfx/amb-sea.mp3) · [林间早晨](https://0xlei.tech/words/sfx/amb-forest.mp3) · [夜晚壁炉](https://0xlei.tech/words/sfx/amb-fire.mp3) · [远航船舱](https://0xlei.tech/words/sfx/amb-voyage.mp3) · [安静咖啡馆](https://0xlei.tech/words/sfx/amb-cafe.mp3) |
+| ✨ **界面音效** | 答对、答错、翻卡、打字、连胜、点亮星星……每个操作都有自己的声音；读单词时背景音会自动压低 |
+
+全部素材都在仓库里：插画在 `public/atlas/img/`，录音在 `public/atlas/audio/`，这两类按 CC BY 4.0 开放；界面声音和配乐在 `public/sfx/`，随应用一起提供。
+
 ## 每个词都有什么
 
 | | |

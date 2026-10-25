@@ -7,7 +7,9 @@
 **One word, one picture. Light up your IELTS vocabulary.**<br>
 7,298 core words · 14,596 original example sentences · 7,298 illustrations · UK & US audio · FSRS spaced repetition
 
-[**Open the app →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [中文](README.md)
+[**Open the app →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ Launch film](docs/assets/launch.mp4) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [中文](README.md)
+
+<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-poster.jpg" alt="Word Atlas launch film" width="100%"></a>
 
 </div>
 
@@ -15,7 +17,19 @@
 
 Word Atlas gives every word a picture, two sentences and a review rhythm that brings it back right before you forget. Every word you learn lights a star in your own word galaxy: 7,298 stars, one per word, rendered with custom WebGL2 shaders. It is free, needs no account, shows no ads and keeps your progress on your own device. The interface is in Chinese, built for Chinese-speaking IELTS learners; the dataset is useful to anyone.
 
-<p align="center"><a href="docs/assets/demo.mp4"><b>▶ Watch the 30-second demo</b></a></p>
+Every definition, sentence, illustration and recording was made new for this project, paid for by the author, and released for free.
+
+| | |
+|---:|---|
+| **7,298** | IELTS core entries, CEFR A1–C2, 19 topics |
+| **7,298** | original illustrations |
+| **14,596** | original example sentences with Chinese translations |
+| **22,905** | audio clips: UK and US pronunciation, narrated examples |
+| **0** | accounts, ads or trackers |
+
+<p align="center"><a href="docs/assets/demo.mp4"><b>▶ Watch the 30-second app demo</b></a></p>
+
+<img src="docs/assets/galaxy.jpg" alt="The word galaxy" width="100%">
 
 <img src="docs/assets/today-desktop.jpg" alt="Today" width="100%">
 

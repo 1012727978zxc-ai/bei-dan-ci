@@ -1,6 +1,6 @@
 {
-"files": 36974,
-"bytes": 661314658,
+"files": 37724,
+"bytes": 710231089,
 "items": [
 {
 "path": ".github/workflows/check.yml",
@@ -34,13 +34,13 @@
 },
 {
 "path": "README.en.md",
-"bytes": 3662,
-"sha256": "cc27f45094f5f16aa5c4c0102253fb424549e0ed62d2e4218fa5abc85de8ed18"
+"bytes": 4348,
+"sha256": "496a31413673c27707647346ac165c38443b163fc7f69edf3bb54262d7d20125"
 },
 {
 "path": "README.md",
-"bytes": 7524,
-"sha256": "f6ccb086a523ef58830351d1e527fcdbde556ee3864a7999f56d65cd401f41cc"
+"bytes": 9300,
+"sha256": "2993cd29df536455e452fd7408fe6a081bad1732f7a7d98832c16dcaed47ece6"
 },
 {
 "path": "SECURITY.md",
@@ -81,6 +81,21 @@
 "path": "docs/assets/demo.mp4",
 "bytes": 19922963,
 "sha256": "7dd85a2223e636b63256c0b813f2dcaf55d88363c6035e82e92178726f2ef70c"
+},
+{
+"path": "docs/assets/galaxy.jpg",
+"bytes": 124871,
+"sha256": "0a000bf792cbdf5511463f99c7b476cbac4ec2a47d708060c7f31fb8d0efaaba"
+},
+{
+"path": "docs/assets/launch-poster.jpg",
+"bytes": 90117,
+"sha256": "515f63db82ac563bb0e86052b8a885fd08f6e8f2e491a43962a86faa71bbd8fe"
+},
+{
+"path": "docs/assets/launch.mp4",
+"bytes": 7763099,
+"sha256": "4f0908300c67c17c73d5ad5f6338e8fd21c83ab6cc5139bfb1647ce0b6bba14d"
 },
 {
 "path": "docs/assets/mosaic.jpg",
@@ -129,8 +144,8 @@
 },
 {
 "path": "index.html",
-"bytes": 1526,
-"sha256": "212e82c721c6a89e07a2bff2aff3a9386bbc00c3dec8f04a281acff22a1a43bf"
+"bytes": 1919,
+"sha256": "70b2327c742a388347193280b4d2d50c43f0608ff483eb7f873b71ad1bed533a"
 },
 {
 "path": "package-lock.json",
@@ -36633,6 +36648,36 @@
 "sha256": "8b1b7eb1a06d3d23d74a1f8155a63cec9ae4d39e11b857ff936449096fdccac1"
 },
 {
+"path": "public/atlas/audio/ex2/a-m.mp3",
+"bytes": 48526,
+"sha256": "8a957381b69f3243085379231320012f66d958b3053518fc5383ba3f33d04c85"
+},
+{
+"path": "public/atlas/audio/ex2/ability.mp3",
+"bytes": 58139,
+"sha256": "44c9afed28d8df25de41156c777342fc857b820d80ea5d6613566bf07b9a7a77"
+},
+{
+"path": "public/atlas/audio/ex2/about.mp3",
+"bytes": 49780,
+"sha256": "d7d02d5443b2ab56349e8aec71917d66d9c6c7180cb3f2745e84eb9bf59db3bc"
+},
+{
+"path": "public/atlas/audio/ex2/above.mp3",
+"bytes": 51034,
+"sha256": "e5dd29f6ea6d4123825eb53a852064f77cfa87f129a1c54730ffb967a8cc48bd"
+},
+{
+"path": "public/atlas/audio/ex2/action.mp3",
+"bytes": 53750,
+"sha256": "fa1f47145b921f95b05c154c5ba5a8227ed5def2d9753a58b2e50ed233185f37"
+},
+{
+"path": "public/atlas/audio/ex2/active.mp3",
+"bytes": 50407,
+"sha256": "2aed3485b5bcd91a65eb6a7107ad25bf96eed852319bb1769ca9849249ad913d"
+},
+{
 "path": "public/atlas/audio/ex2/activity.mp3",
 "bytes": 51660,
 "sha256": "db66e486f298a3f8247a9ea324db234a3d668d9df53a3ad07f69b3ee20df0bfe"
@@ -36641,6 +36686,21 @@
 "path": "public/atlas/audio/ex2/actor.mp3",
 "bytes": 66498,
 "sha256": "9308940ab3b3971e94e6aa53a27cad022bbb1c7e21ff8a47161af9cb01def1a3"
+},
+{
+"path": "public/atlas/audio/ex2/add.mp3",
+"bytes": 57512,
+"sha256": "1a15140c05fa36c5a81773b5e2b86c0df131e8fcf571f83ca50eca39f58c0dd2"
+},
+{
+"path": "public/atlas/audio/ex2/address.mp3",
+"bytes": 57512,
+"sha256": "b28843955137a4b2bb063bccc5b139a7dd4c1373192aca4670d687aed699ddbd"
+},
+{
+"path": "public/atlas/audio/ex2/adult.mp3",
+"bytes": 51660,
+"sha256": "5318d75344496dbf8c2466a79f0da428f187e9bfcd57a54671a75903a57f77f8"
 },
 {
 "path": "public/atlas/audio/ex2/aeroplane.mp3",
@@ -36658,9 +36718,44 @@
 "sha256": "f10f43bd3d543acd1a4839546d8a9b582c0cddbd38939efef4dd0de8407ebc06"
 },
 {
+"path": "public/atlas/audio/ex2/african.mp3",
+"bytes": 58766,
+"sha256": "ca7cc3b568a5712478f9f424d49dcb2723e2f3f78c1b1a72f55389abcaa15298"
+},
+{
 "path": "public/atlas/audio/ex2/after.mp3",
 "bytes": 46645,
 "sha256": "f47dd60fbd5925699c51fc3c7f0c3673fba28155ef42e242176e4659253b778c"
+},
+{
+"path": "public/atlas/audio/ex2/afternoon.mp3",
+"bytes": 52496,
+"sha256": "647d4013fd5c158737d82fba0ae0ea2159402edbdd57625401b1ebdbff673bf8"
+},
+{
+"path": "public/atlas/audio/ex2/again.mp3",
+"bytes": 49153,
+"sha256": "9992ec94a909cf9408b57f712650bf8f9e26b4c8c448270044c0bb0e65bb13b2"
+},
+{
+"path": "public/atlas/audio/ex2/age.mp3",
+"bytes": 57512,
+"sha256": "d84d881a1d5d0d0910f6fa1ae598c15ad0eb3ce2d41d63d93246ea07e512d6a1"
+},
+{
+"path": "public/atlas/audio/ex2/ago.mp3",
+"bytes": 52496,
+"sha256": "23ad18c9fa772ffda1d0baa1577a0dd811419e73073899d7d2da99293ed87b59"
+},
+{
+"path": "public/atlas/audio/ex2/agree.mp3",
+"bytes": 56885,
+"sha256": "75a64e49da4aa2c29c1e0dda9f20814ba33a4faedd9cc1d9f96ce665db7f93fb"
+},
+{
+"path": "public/atlas/audio/ex2/air.mp3",
+"bytes": 55004,
+"sha256": "6729bad9a5bbdfaef57b54b5c9f67703b3e01f75f7e12978125e426708548864"
 },
 {
 "path": "public/atlas/audio/ex2/airplane.mp3",
@@ -36668,9 +36763,69 @@
 "sha256": "a9a4c1a25006d409d2bada13d663620a33525cf5a2f5d3c511a98e74383f3012"
 },
 {
+"path": "public/atlas/audio/ex2/airport.mp3",
+"bytes": 53123,
+"sha256": "ea138158131eee07408d681d1e534d0c68d81160f8f7b6aa053ac8650a6669f4"
+},
+{
+"path": "public/atlas/audio/ex2/album.mp3",
+"bytes": 55004,
+"sha256": "0efc78bb0a4b1f033d8a027e8e127fcc779511f2a03103ade7aeeaa1b7c21707"
+},
+{
+"path": "public/atlas/audio/ex2/alive.mp3",
+"bytes": 64617,
+"sha256": "f5da39d6208a351fe42f0c0a8b4ccad1101eacd59a66c01089ac76cc16a59e96"
+},
+{
+"path": "public/atlas/audio/ex2/all.mp3",
+"bytes": 52496,
+"sha256": "52bd3324a2040e0a97e2f7c3b8584528fe83f665c028c55811fb41b71b84724b"
+},
+{
+"path": "public/atlas/audio/ex2/alone.mp3",
+"bytes": 75484,
+"sha256": "238cbd48d3e30457de1b7a31fdcd3e4484aa399ce3fd965e9529ed9705e3cb4e"
+},
+{
+"path": "public/atlas/audio/ex2/along.mp3",
+"bytes": 53750,
+"sha256": "cf2397a6cceaff03e2f8c12b312b51ac18c63ded57f440b1be9189596ad79b86"
+},
+{
+"path": "public/atlas/audio/ex2/alphabet.mp3",
+"bytes": 59393,
+"sha256": "be7760faea3c3f83e7568c5d8c4ceb85e8d3e423b468b17dce7c774e19690415"
+},
+{
 "path": "public/atlas/audio/ex2/also.mp3",
 "bytes": 50407,
 "sha256": "f6b0a855206a622f772b38ef2664c0bea0cc36d00009c5d1e570140356995631"
+},
+{
+"path": "public/atlas/audio/ex2/always.mp3",
+"bytes": 47899,
+"sha256": "614d5ca3e47d08a35887d5a3aebf4ff3be09928dab40d04a576f0b2dcb22c9a1"
+},
+{
+"path": "public/atlas/audio/ex2/america.mp3",
+"bytes": 60647,
+"sha256": "660cedd1a13abed941c669ca50b378f43fd30c3ef41bda4b3ec27d2d491c194d"
+},
+{
+"path": "public/atlas/audio/ex2/american.mp3",
+"bytes": 71514,
+"sha256": "de69d2aaf1d15efb1b4d96da5ca0e294e0359bcbe5bc243bfb663feed58422a7"
+},
+{
+"path": "public/atlas/audio/ex2/among.mp3",
+"bytes": 49153,
+"sha256": "4ac5550e177bdf7407049b46a9beaab8a8f34cbd2a21950a3db3533f89938390"
+},
+{
+"path": "public/atlas/audio/ex2/and.mp3",
+"bytes": 53750,
+"sha256": "691e2ebc6433c01fcd158fbe9af0822516af49787ebb10b11afe8cb9eb2bf01a"
 },
 {
 "path": "public/atlas/audio/ex2/angry.mp3",
@@ -36683,9 +36838,74 @@
 "sha256": "8f3c662da5cfd37aae0440b964a495abd7faf1af1ab62aa4c61e8de0e1b35ec7"
 },
 {
+"path": "public/atlas/audio/ex2/ankle.mp3",
+"bytes": 53123,
+"sha256": "af62ef534d753246d9c7d37a343a94379e6fe697d541874644d96fec4ef14912"
+},
+{
+"path": "public/atlas/audio/ex2/another.mp3",
+"bytes": 46645,
+"sha256": "fc62ad79ff6aa048becc87e56372c2d64a6555d862521485783e8f15706a83c3"
+},
+{
 "path": "public/atlas/audio/ex2/answer.mp3",
 "bytes": 54377,
 "sha256": "181c7a0df6cb1c0a52a2c8cb18821129fc2410b61bc48f32d780f5f0da81ea9c"
+},
+{
+"path": "public/atlas/audio/ex2/any.mp3",
+"bytes": 49153,
+"sha256": "5dc76a4fbe921528ded8f8e7a0a45f1a286b2aa78c523742432c3dcdfb6a0ca7"
+},
+{
+"path": "public/atlas/audio/ex2/anyone.mp3",
+"bytes": 50407,
+"sha256": "bb05c3edde6141d15ad2a4977e8e337f210b8125527cdcb59d4e67ddc0419153"
+},
+{
+"path": "public/atlas/audio/ex2/anything.mp3",
+"bytes": 56885,
+"sha256": "0fb7a53ac116b78097b7b31d7368e0ee0d2bd4848b8cd62d993a89caeb905cae"
+},
+{
+"path": "public/atlas/audio/ex2/anywhere.mp3",
+"bytes": 50407,
+"sha256": "1337e26c9d07e6ea97c5e013f8b84bc14bc0cd1def960ceaca8492a8182b8b25"
+},
+{
+"path": "public/atlas/audio/ex2/apartment.mp3",
+"bytes": 47272,
+"sha256": "795bd28ee4a25e06d6a40da560d26b1798121bfc4bd3b2f7890f1c77c7284cbf"
+},
+{
+"path": "public/atlas/audio/ex2/apple.mp3",
+"bytes": 56258,
+"sha256": "c650934dccfb90dc81338ee63b6d1a103a671e70bfbdfdd9e5d9f1a4c0065aca"
+},
+{
+"path": "public/atlas/audio/ex2/april.mp3",
+"bytes": 54377,
+"sha256": "1f1a1ca4203ed886e4a42c3b2e52e412805528cf92ba5d43851cf76f8368c314"
+},
+{
+"path": "public/atlas/audio/ex2/area.mp3",
+"bytes": 49153,
+"sha256": "9050c8a11923031d4e09f5682c71059b40a1bc4c71935fddbc33e3b1561de871"
+},
+{
+"path": "public/atlas/audio/ex2/arm.mp3",
+"bytes": 50407,
+"sha256": "2cb879f028af931ff15ee5cacc03e420723f779fef1f051d04777d1eb16c3090"
+},
+{
+"path": "public/atlas/audio/ex2/armchair.mp3",
+"bytes": 63990,
+"sha256": "a8410d4ac46856408a1d114fd0bbca049b08768c31b1663d3d411707458c93dd"
+},
+{
+"path": "public/atlas/audio/ex2/army.mp3",
+"bytes": 60020,
+"sha256": "04c3515ebb72967d9af976cd50cb4f614639ba9ea0ba7bcd697f13d98e9880c6"
 },
 {
 "path": "public/atlas/audio/ex2/around.mp3",
@@ -36703,9 +36923,34 @@
 "sha256": "4dc657e2b1a83cfb191a3d1f57da2c82e20e8f0e14617b62fd69c08c31bec651"
 },
 {
+"path": "public/atlas/audio/ex2/artist.mp3",
+"bytes": 58766,
+"sha256": "fc42f9c8cab6bd8bd904c03a46ad66f4cdfdb32d803008f3a1785a15b97d54f6"
+},
+{
+"path": "public/atlas/audio/ex2/as.mp3",
+"bytes": 44764,
+"sha256": "f93b7bf1aacefd88c4f580c63c61f8e3f66af7dd20c4369ea72baee3821433de"
+},
+{
+"path": "public/atlas/audio/ex2/asia.mp3",
+"bytes": 53123,
+"sha256": "8f3ccb54a8bdc7ba53d139aefd0da46fde09e8bb5d04f000a2d6dbd1d6419408"
+},
+{
 "path": "public/atlas/audio/ex2/ask.mp3",
 "bytes": 51034,
 "sha256": "b0c2082bc67900f9ef229dedadba2d1a4321f72607006c6bfc9c1fe15ebcd5f4"
+},
+{
+"path": "public/atlas/audio/ex2/assistant.mp3",
+"bytes": 53123,
+"sha256": "1fe9ec4690b62ecda2ab4cec6bc6c7ac5b7c787b6fbed0eaaee45cfe8d8d34d1"
+},
+{
+"path": "public/atlas/audio/ex2/august.mp3",
+"bytes": 61274,
+"sha256": "cab419ae7fc6f3fe8f29c999f4dfd687f9b14d853962a3624c293e31eccb8ff7"
 },
 {
 "path": "public/atlas/audio/ex2/aunt.mp3",
@@ -36713,9 +36958,64 @@
 "sha256": "16f169852fd097c8f8c83302951819c05fbc435923aa5a4e2e0ecd7277d935e0"
 },
 {
+"path": "public/atlas/audio/ex2/australia.mp3",
+"bytes": 60647,
+"sha256": "b6bdfdcf4c90212a16c707bda445b53a6905c2ab1b97ca0911b9cfabc682b15b"
+},
+{
+"path": "public/atlas/audio/ex2/australian.mp3",
+"bytes": 63990,
+"sha256": "4a78c2553aa4471151eeebfce0262b30960ea060d5c54090e76a14b4a0018188"
+},
+{
+"path": "public/atlas/audio/ex2/autumn.mp3",
+"bytes": 51034,
+"sha256": "f50f45099b7cb5f75d6e7befc4c97fe68d5dc4b5f0020bf09050df1e31c49098"
+},
+{
+"path": "public/atlas/audio/ex2/away.mp3",
+"bytes": 49153,
+"sha256": "9e2b3497d98841778388c69d45768ee89e0442dc4a72e9cdc9fee673b9a1e997"
+},
+{
+"path": "public/atlas/audio/ex2/awful.mp3",
+"bytes": 54377,
+"sha256": "3cb2af2184df5f056d73da304336db8f3e0284abf0a2c37ad9a481de71552c72"
+},
+{
+"path": "public/atlas/audio/ex2/baby.mp3",
+"bytes": 60020,
+"sha256": "ec82db757ab623368a26f378ebd71bc978646baf6be06bdf38cf0c7dcd5c10df"
+},
+{
+"path": "public/atlas/audio/ex2/back.mp3",
+"bytes": 54377,
+"sha256": "46c0b2cccdab94b3227a9d8a97ed118448fdccef4dcf122aac71d65edb5277be"
+},
+{
 "path": "public/atlas/audio/ex2/bad.mp3",
 "bytes": 56885,
 "sha256": "fcc3e1d32fafb139bed181651f16aff6b180b07c4432e0d2bb8642a84f11dcc0"
+},
+{
+"path": "public/atlas/audio/ex2/badminton.mp3",
+"bytes": 53123,
+"sha256": "dc93c422332ac34604178de138444c42d401796b4c5d7c199575cd57899592be"
+},
+{
+"path": "public/atlas/audio/ex2/bag.mp3",
+"bytes": 54377,
+"sha256": "0921a6e9b5d2794364ba63529a54ae2658d48a03f87f9a39bccb6ec90b2f385a"
+},
+{
+"path": "public/atlas/audio/ex2/ball.mp3",
+"bytes": 58139,
+"sha256": "6f96444e3592621c75c5b1e8fa775cc831616bbd5fc1094730ef439065a2e2ef"
+},
+{
+"path": "public/atlas/audio/ex2/balloon.mp3",
+"bytes": 51660,
+"sha256": "373f6667a59e65a683982e13de30364b9c94dd544bcc98b8cda047fb5d6eb106"
 },
 {
 "path": "public/atlas/audio/ex2/banana.mp3",
@@ -36728,9 +37028,29 @@
 "sha256": "208ea4c03b210bd0acb2ca234486bef3b1341368e72bf670bd29e4007626729e"
 },
 {
+"path": "public/atlas/audio/ex2/bank.mp3",
+"bytes": 57512,
+"sha256": "1ee60307b4b3c2588199bbca31b2ad001da35489cc03efd9cc17929e7cfc4bbd"
+},
+{
 "path": "public/atlas/audio/ex2/basketball.mp3",
 "bytes": 55631,
 "sha256": "4d1af3ab3e3e3b73411ece0bf771175e353edffaa042db4903b8080395a0a2a5"
+},
+{
+"path": "public/atlas/audio/ex2/bath.mp3",
+"bytes": 50407,
+"sha256": "d27390f2feb3a886f16ec76ec856603838fd11c497a70fc6be2b5d3d314942fd"
+},
+{
+"path": "public/atlas/audio/ex2/bathroom.mp3",
+"bytes": 58139,
+"sha256": "7864326ace3773ac85298bcbc06edcf06996c8efc56f64c4a1102290fc838ebe"
+},
+{
+"path": "public/atlas/audio/ex2/bathtub.mp3",
+"bytes": 39540,
+"sha256": "76a7f5be45a3b61a1eba73b79608513af3439e619ff49d56190a3a81fe268253"
 },
 {
 "path": "public/atlas/audio/ex2/beach.mp3",
@@ -36738,9 +37058,39 @@
 "sha256": "cbb1d49ea7850021110330ce369454d2cc93c033f405e94208c5d2ce349156c3"
 },
 {
+"path": "public/atlas/audio/ex2/beard.mp3",
+"bytes": 55004,
+"sha256": "ee8641fa4ed81b012fe12620799c058742a7470883ee40fe4db3b554ec1fe3d8"
+},
+{
+"path": "public/atlas/audio/ex2/beautiful.mp3",
+"bytes": 62736,
+"sha256": "0015f025217eaf8d8cb9e972bb512e15865fc53f33586c3ca51a78ba0db44701"
+},
+{
+"path": "public/atlas/audio/ex2/because.mp3",
+"bytes": 53123,
+"sha256": "b892794adc5440f642f72fcea960278f840475d8486decb9319474401920ec1b"
+},
+{
+"path": "public/atlas/audio/ex2/become.mp3",
+"bytes": 55631,
+"sha256": "97dd7cb088bae9271ccfd910d07febaa4ce401be204a010a9d7abd605b5a44f8"
+},
+{
+"path": "public/atlas/audio/ex2/bed.mp3",
+"bytes": 46018,
+"sha256": "0ac6b68118ceaaea1a9ed2b094ad9a9f766100c41ef924d5482cfc819610e81b"
+},
+{
 "path": "public/atlas/audio/ex2/bedroom.mp3",
 "bytes": 57512,
 "sha256": "1f637c01796d18f553bdb59c254ba5d537a31b3807541ba8e06c49a42a2de843"
+},
+{
+"path": "public/atlas/audio/ex2/beef.mp3",
+"bytes": 67752,
+"sha256": "ae6edcbb008f9219693b72bbfadf79fc196ad8c8bca4db3fc3648a5bd6757280"
 },
 {
 "path": "public/atlas/audio/ex2/before.mp3",
@@ -36748,9 +37098,34 @@
 "sha256": "4bdb9103c7c03290948660d7b7052cb8f9a13650648dfb35115e89d3620833d6"
 },
 {
+"path": "public/atlas/audio/ex2/begin.mp3",
+"bytes": 56258,
+"sha256": "10c976d801de6054d75b3a27b3ca7ec186e9d084728b4a2ac6ccf44fbcf94dd3"
+},
+{
+"path": "public/atlas/audio/ex2/beginner.mp3",
+"bytes": 53750,
+"sha256": "53bc73e0c7ee94abb5e52797fa3326909f119063c690b620affadbc672cb901b"
+},
+{
 "path": "public/atlas/audio/ex2/beginning.mp3",
 "bytes": 45391,
 "sha256": "36379f449d6a7a5d595510f3478678a9f1e09e011ee86d081de6785de3daa2bd"
+},
+{
+"path": "public/atlas/audio/ex2/behind.mp3",
+"bytes": 50407,
+"sha256": "e375f16c8d07ea649d0a1e1d6a7d59607becf17f5313ee2d286a138855b2ec4a"
+},
+{
+"path": "public/atlas/audio/ex2/believe.mp3",
+"bytes": 63363,
+"sha256": "99c8d45045ea774e54f07183685a9a719a67c7720d3b1ea6dff65e001130321e"
+},
+{
+"path": "public/atlas/audio/ex2/bell.mp3",
+"bytes": 38286,
+"sha256": "a70c3a6698f786e04f77964aeb81c84552814629e68b99997b7ec242080aa8a1"
 },
 {
 "path": "public/atlas/audio/ex2/below.mp3",
@@ -36758,14 +37133,69 @@
 "sha256": "4fa26bda7c1f3800bfa2f24354a8571d93a32533804248bcc923713a036d63a0"
 },
 {
+"path": "public/atlas/audio/ex2/best.mp3",
+"bytes": 46018,
+"sha256": "c42e41b63d509cc0cbc35a9c18ddebd0faa0f7743bf77fea80e37e61ca034509"
+},
+{
+"path": "public/atlas/audio/ex2/better.mp3",
+"bytes": 53123,
+"sha256": "8e379a2cb871c81e9eb59622310c06415adda957af7d102053ac11bb09f48eed"
+},
+{
+"path": "public/atlas/audio/ex2/between.mp3",
+"bytes": 58139,
+"sha256": "8c7f83a34579978943da99a73bd50c9d39e850ae24221c4615ca9bf913888e39"
+},
+{
+"path": "public/atlas/audio/ex2/bicycle.mp3",
+"bytes": 55631,
+"sha256": "2175ff0696c4023a48c476dc642f70d6188f1b5389f0c5ed14e026151572bc57"
+},
+{
+"path": "public/atlas/audio/ex2/big.mp3",
+"bytes": 42883,
+"sha256": "6ad4baa778c656c359cea9e91a07a35be093c1770503d0c2a71613653b4ef1e9"
+},
+{
 "path": "public/atlas/audio/ex2/bike.mp3",
 "bytes": 49153,
 "sha256": "f67467d84126867d45583dd29067a2c1da0be098c69b3e28a56e70fb68fde0a8"
 },
 {
+"path": "public/atlas/audio/ex2/biology.mp3",
+"bytes": 63990,
+"sha256": "ba296b3859f4bbcf89a1d3eb2b00a1ee49155500e6392afc8d38ef1e00af1765"
+},
+{
+"path": "public/atlas/audio/ex2/bird.mp3",
+"bytes": 64617,
+"sha256": "68242451bee3e6e49490e8ddbab53c5a65165893612ac20a696052dc75ff7e71"
+},
+{
+"path": "public/atlas/audio/ex2/birthday.mp3",
+"bytes": 58766,
+"sha256": "aaf639f0a686bd37094cc54112a7e7cea3bcb5cce16f124c79a81a11579df0b7"
+},
+{
+"path": "public/atlas/audio/ex2/bit.mp3",
+"bytes": 49780,
+"sha256": "3aad538201040aa73fe095256d9e6c77f355b661274b0ca41c96b9b8d6c146b0"
+},
+{
 "path": "public/atlas/audio/ex2/black.mp3",
 "bytes": 51660,
 "sha256": "35d3f0471cd3dea8ebe3bb33a7feddb603f93d692bd9e5f98d1a83da307d3db3"
+},
+{
+"path": "public/atlas/audio/ex2/blackboard.mp3",
+"bytes": 62736,
+"sha256": "bf3151b4f3986f5ec5f7a604d93e2719d5e2e4ef56dcc37115bb9a51365b3465"
+},
+{
+"path": "public/atlas/audio/ex2/blog.mp3",
+"bytes": 53750,
+"sha256": "bccf1d70f3f560f48630b1c84656097ad3acc9f93f2f4ae9f394072185593624"
 },
 {
 "path": "public/atlas/audio/ex2/blue.mp3",
@@ -36783,9 +37213,24 @@
 "sha256": "e768ea84a15b9f6f9b984cc6a5d35bee591c1e203e3bfa220c96024ee03d5965"
 },
 {
+"path": "public/atlas/audio/ex2/book.mp3",
+"bytes": 54377,
+"sha256": "46f6b4991a2b0170a3b0b83b491496ecbbb9c37a55f10e22ab77d2579a8ba3f2"
+},
+{
+"path": "public/atlas/audio/ex2/bookcase.mp3",
+"bytes": 52496,
+"sha256": "973f3673e5f6bc1a8d22e5919a99b4210f93642e18345e9da5b1f9edb3071b6a"
+},
+{
 "path": "public/atlas/audio/ex2/bookshop.mp3",
 "bytes": 56885,
 "sha256": "e4c8cc9faa87d1e73a771c05f98039be7d3cc37acd56bcb5248e9a541d47d42a"
+},
+{
+"path": "public/atlas/audio/ex2/bookstore.mp3",
+"bytes": 65244,
+"sha256": "cb7882009c4bf29dd071917ecdf3505234aed3b84340068a0db05a33a9dcb2f3"
 },
 {
 "path": "public/atlas/audio/ex2/boring.mp3",
@@ -36798,9 +37243,69 @@
 "sha256": "a99a1f5033b6f84190f267ba44db5139d335cc5f3e696db191ded5fe0d8bfca4"
 },
 {
+"path": "public/atlas/audio/ex2/boss.mp3",
+"bytes": 65244,
+"sha256": "6fb5cdc252bcb3d04cee3fbc576a0876a5b2297fbd3fa1a4e7b78e927df00723"
+},
+{
+"path": "public/atlas/audio/ex2/both.mp3",
+"bytes": 55004,
+"sha256": "41c37c2b1af269f71b398bb750599cfb83b26d15eb0e1bfdabafef562d86228d"
+},
+{
+"path": "public/atlas/audio/ex2/bottle.mp3",
+"bytes": 51034,
+"sha256": "acd5dadb9dd9d856df863234ef7c02d8eeac312ee1f979a3973a15a641b3445f"
+},
+{
+"path": "public/atlas/audio/ex2/bowl.mp3",
+"bytes": 51660,
+"sha256": "01238d9c7bab4d2dee0b64819be849343485f9f78229e795ceb074d951c4e6e6"
+},
+{
+"path": "public/atlas/audio/ex2/box.mp3",
+"bytes": 49780,
+"sha256": "2129878e92824a19820084b7fec4b7e775556c5e175570ecedf724c6097c3519"
+},
+{
+"path": "public/atlas/audio/ex2/boy.mp3",
+"bytes": 47272,
+"sha256": "3f34226a039da94aa9ffa112a11b17fd4cd7b3e251369ed8effaa9905b24743f"
+},
+{
+"path": "public/atlas/audio/ex2/bread.mp3",
+"bytes": 55631,
+"sha256": "d319a25063092d1b9f83002e037d8de7a26953b763beeba719e7e122fc3970c0"
+},
+{
 "path": "public/atlas/audio/ex2/break.mp3",
 "bytes": 52496,
 "sha256": "e2b5f7a8e39bacddb8621384bd861ab5c58d46c285bb6d55ddcdd4e661e0c7e2"
+},
+{
+"path": "public/atlas/audio/ex2/breakfast.mp3",
+"bytes": 46645,
+"sha256": "a61f561816901875c7db90a4d34591e1c3b17aa265e9c0bbe28c25168ed1287a"
+},
+{
+"path": "public/atlas/audio/ex2/bridge.mp3",
+"bytes": 58766,
+"sha256": "9ef42196fbd2b12f7104f8ae2bbf86c351f134ec9ae3664a4ca5b3c20bd48f72"
+},
+{
+"path": "public/atlas/audio/ex2/bright.mp3",
+"bytes": 52496,
+"sha256": "9937b149c970574abc457a6dea6633d29cff11b3a9b13fef114ee2cdf465f303"
+},
+{
+"path": "public/atlas/audio/ex2/bring.mp3",
+"bytes": 49153,
+"sha256": "45304744eaca8a102202ea9ece359082d0ea5d6e4478cffdf174cd23d8f3ef69"
+},
+{
+"path": "public/atlas/audio/ex2/bristol.mp3",
+"bytes": 56258,
+"sha256": "487c39375a3d38b4545a5ad27eece822c96736c6533e65e8fcf57aa271f35db0"
 },
 {
 "path": "public/atlas/audio/ex2/britain.mp3",
@@ -36808,9 +37313,84 @@
 "sha256": "b9990ead52cea4d11a3da4d437470d7c98b598ecf611e6f90801c1703254590d"
 },
 {
+"path": "public/atlas/audio/ex2/british.mp3",
+"bytes": 55631,
+"sha256": "edd4d2278092dfe7509819e2bb65086060e559a966f835acf2b0810dff2ce892"
+},
+{
+"path": "public/atlas/audio/ex2/broccoli.mp3",
+"bytes": 51034,
+"sha256": "86e970cd42ebeeb20c1c3447306db98944323cb71b17e9a9fc36e9a68bd0a3a5"
+},
+{
+"path": "public/atlas/audio/ex2/broken.mp3",
+"bytes": 63363,
+"sha256": "5b9da17cf58221d5e3c1194128cc3a731bce9a12466a0a5594147ad0ee82e708"
+},
+{
+"path": "public/atlas/audio/ex2/brother.mp3",
+"bytes": 48526,
+"sha256": "ef0b7648bda206c50bec52134bb6bdc8c2e1d619058f8a038c0085e436fab863"
+},
+{
+"path": "public/atlas/audio/ex2/brown.mp3",
+"bytes": 51660,
+"sha256": "040c834cdc03e339bb98b6331cbe3a0b62fcd2a9ecb8bc8ed0e44f9901a35447"
+},
+{
+"path": "public/atlas/audio/ex2/brush.mp3",
+"bytes": 49780,
+"sha256": "8a9a78af3ff28c716e73f2f34836777c6a5b1cd8a42921cf0fa6b5cace8c942d"
+},
+{
+"path": "public/atlas/audio/ex2/build.mp3",
+"bytes": 53123,
+"sha256": "e3a07921bfab5c1a3d05ae001b80fff858e717f81e4d94180bb2f5700742f7dd"
+},
+{
+"path": "public/atlas/audio/ex2/building.mp3",
+"bytes": 54377,
+"sha256": "5a647fef42248d55f0c067f3613ecd59b654cfedbb5cc006aad6a45286a746c1"
+},
+{
+"path": "public/atlas/audio/ex2/built.mp3",
+"bytes": 46645,
+"sha256": "b24e087bf461f413dd89d3b5bded61678b8864702ec7848b804ee0ebb23351e6"
+},
+{
+"path": "public/atlas/audio/ex2/burn.mp3",
+"bytes": 60020,
+"sha256": "89f477e62fbd7dc291d67fa11033c25986b10a33dff0084241014483c5f0d100"
+},
+{
 "path": "public/atlas/audio/ex2/bus.mp3",
 "bytes": 55631,
 "sha256": "b6609dc4527b8ad08d9ee83bb452375d041c04f1788d17dedf22042a508d708b"
+},
+{
+"path": "public/atlas/audio/ex2/business.mp3",
+"bytes": 51660,
+"sha256": "2ef64259aace13314a528a466eeab5d0b9211ca751d6bcef5983d0f8505bfba0"
+},
+{
+"path": "public/atlas/audio/ex2/busy.mp3",
+"bytes": 59393,
+"sha256": "18e5b689a0427a00065adc44cca0abfe2d6fcb08de50dcb83a377f5a27b64fa2"
+},
+{
+"path": "public/atlas/audio/ex2/but.mp3",
+"bytes": 60647,
+"sha256": "44db642acc6e93c3a32167ebd6ff1c55362aab9cbec0f96349a71ac5f0ef7178"
+},
+{
+"path": "public/atlas/audio/ex2/butter.mp3",
+"bytes": 55004,
+"sha256": "a9ea39e2eb2fea9fdb31ccca1c35cb36bc43d27b2bb015b416645304fcd812c6"
+},
+{
+"path": "public/atlas/audio/ex2/buy.mp3",
+"bytes": 40167,
+"sha256": "cddc89db296a7e54ad8c9032bf1747d91797adecceb726aef3addf3fac9c20fc"
 },
 {
 "path": "public/atlas/audio/ex2/by.mp3",
@@ -36818,9 +37398,39 @@
 "sha256": "940417c56c2cdae17c328c99d06a73e7e4d73075002b9d43c45bd8fcc88f7e6e"
 },
 {
+"path": "public/atlas/audio/ex2/cafe.mp3",
+"bytes": 51034,
+"sha256": "cd97a37b871d5a95739b8f1ef4b811c84c911ea8f1200be58db146cb045630fc"
+},
+{
+"path": "public/atlas/audio/ex2/cake.mp3",
+"bytes": 50407,
+"sha256": "9775155b8070c3685bbf5286d5017827fe5e7fbfbbace4f7176f6e5dda3cb6c5"
+},
+{
+"path": "public/atlas/audio/ex2/call.mp3",
+"bytes": 52496,
+"sha256": "8049cec8d29bb6ef4d5e2a9329051d7beca7c888e1db5977aefa2440b98e2b15"
+},
+{
 "path": "public/atlas/audio/ex2/camera.mp3",
 "bytes": 58139,
 "sha256": "59afa75ec858528c95a26f3dcefd36472fbcdfbe843a3e19fa8a84183531ee6a"
+},
+{
+"path": "public/atlas/audio/ex2/can.mp3",
+"bytes": 55004,
+"sha256": "a7279c956af28cd5a6f6751272363f93d447a1edc7187aba942a3f702c488b2e"
+},
+{
+"path": "public/atlas/audio/ex2/canada.mp3",
+"bytes": 60020,
+"sha256": "8b2e3110cbdfa02d1ae288c63e1841593e02b65c63aeba79cc0d746583a86d97"
+},
+{
+"path": "public/atlas/audio/ex2/car.mp3",
+"bytes": 51034,
+"sha256": "f9248b1c60453b010cf2783d659fc105f14b45b3c398b9261b367b47226f8f41"
 },
 {
 "path": "public/atlas/audio/ex2/card.mp3",
@@ -36828,9 +37438,84 @@
 "sha256": "f465f43f4de70d0f0c1de39655480352680ea5f83fdbfcfd489bcb5156290d11"
 },
 {
+"path": "public/atlas/audio/ex2/career.mp3",
+"bytes": 55004,
+"sha256": "5be35655ccf82781a94d991b6858550b689f592bb9ba0e957052900d9f6314f8"
+},
+{
+"path": "public/atlas/audio/ex2/carrot.mp3",
+"bytes": 50407,
+"sha256": "a58c46c3d47732faf33fe58de982d9686beaa319cc01d10d557a7e9c3e83c7b0"
+},
+{
+"path": "public/atlas/audio/ex2/carry.mp3",
+"bytes": 58766,
+"sha256": "26cd0cae815971b3c0297ce0e9c2d92e15fc26b7162de4c0695003fce0381674"
+},
+{
+"path": "public/atlas/audio/ex2/castle.mp3",
+"bytes": 61900,
+"sha256": "6d0b6fbd1f2c755e8db890c3de907812309494861e5cc1b70c0766af2ace5b6a"
+},
+{
+"path": "public/atlas/audio/ex2/cat.mp3",
+"bytes": 60647,
+"sha256": "4066466a24f0eb975c8d2cfdc45a09a54b9b801cff3bca10debf1406300c3b6a"
+},
+{
+"path": "public/atlas/audio/ex2/catch.mp3",
+"bytes": 50407,
+"sha256": "09ba4f63f1e42f99243bd304b34dad884b76c4841aae5b075925562271bbfafd"
+},
+{
+"path": "public/atlas/audio/ex2/cent.mp3",
+"bytes": 58139,
+"sha256": "5ccf7175b957accb25f4e87a5cda547a7736ad3aa211f86b1ab2afdf1b9114c6"
+},
+{
+"path": "public/atlas/audio/ex2/centimetre.mp3",
+"bytes": 55631,
+"sha256": "22914ec41b475b46d2d4e8fb710995b8cabb112a590bd66eb5b1bfef2edb07b6"
+},
+{
 "path": "public/atlas/audio/ex2/centre.mp3",
 "bytes": 53123,
 "sha256": "e6c836d6d7f9cfada2db4c08e46694afef4fde0f74dcc876bb947e2e9295c212"
+},
+{
+"path": "public/atlas/audio/ex2/cereal.mp3",
+"bytes": 53750,
+"sha256": "b37fbadb3c3d0b45c018e83a3101a54566921662b5d8dae0280e594337ef1434"
+},
+{
+"path": "public/atlas/audio/ex2/certainly.mp3",
+"bytes": 70887,
+"sha256": "7c97a776d34cb4388730b35339f755e4d5629247fd26ae1b4797413fa4716c82"
+},
+{
+"path": "public/atlas/audio/ex2/chair.mp3",
+"bytes": 47899,
+"sha256": "46b4e95a3feb6c578155be51f0ce02f5f2cc9f988de8b14098512cf722d03272"
+},
+{
+"path": "public/atlas/audio/ex2/change.mp3",
+"bytes": 57512,
+"sha256": "c8e70a30a6ccc4eab9364951c78bedaaab025dfa24bf96f35ce60e26c9c2e3f3"
+},
+{
+"path": "public/atlas/audio/ex2/cheap.mp3",
+"bytes": 56258,
+"sha256": "d99877961ef9eaeb886d855dedff469c1ab32873906c48789c87c1277af0ddfe"
+},
+{
+"path": "public/atlas/audio/ex2/cheese.mp3",
+"bytes": 57512,
+"sha256": "0cddc3dbc5373e8f1d85868146860f5175e5ff8359e9e75fe2f51d2092681874"
+},
+{
+"path": "public/atlas/audio/ex2/chicken.mp3",
+"bytes": 45391,
+"sha256": "60590ca51d93f171eb8e70aadd4563296d0e81be041247017ebad6fe54154e58"
 },
 {
 "path": "public/atlas/audio/ex2/child.mp3",
@@ -36843,6 +37528,11 @@
 "sha256": "ba3dce719c4c06237ac2c7479d08bbd4bb56937fa492ff9efc7d6a1c48f814c6"
 },
 {
+"path": "public/atlas/audio/ex2/china.mp3",
+"bytes": 60647,
+"sha256": "00ce3e84b6f42e55e3819e905c5db00ad6345fe73f9038490da9f1329029605d"
+},
+{
 "path": "public/atlas/audio/ex2/chinese.mp3",
 "bytes": 55004,
 "sha256": "4016af92687d90cb6d6aa577ea38192cd6f5ce577dbd3f2240f45b89bd621711"
@@ -36853,9 +37543,39 @@
 "sha256": "2f23ce780a1161b07acaf1936acff760804332b1c6ee9dbc4dc01bd30edc879a"
 },
 {
+"path": "public/atlas/audio/ex2/chocolate.mp3",
+"bytes": 64617,
+"sha256": "77d4009f440074e622498e3b07e3dc6e7200ce4db72f772778ae07477a3b80c9"
+},
+{
+"path": "public/atlas/audio/ex2/choose.mp3",
+"bytes": 49153,
+"sha256": "4cfc338c1e0281bf17ffc44fb0cd7d89a94cdc4edc0be8214b993ad1c0bfc431"
+},
+{
 "path": "public/atlas/audio/ex2/christmas.mp3",
 "bytes": 67752,
 "sha256": "4301cd400163505911ad8ead97144c13720b3261b583611d9f2ce1d11c3a6da5"
+},
+{
+"path": "public/atlas/audio/ex2/church.mp3",
+"bytes": 56885,
+"sha256": "8dfeb9b53ca415806d0619978cbca7b6b82f063c03754390f9d7f602f9119e77"
+},
+{
+"path": "public/atlas/audio/ex2/cigarette.mp3",
+"bytes": 64617,
+"sha256": "75e7d024b27e70e828c6789756df0f4254d1245100265bb4154dc51d55515cd3"
+},
+{
+"path": "public/atlas/audio/ex2/cinema.mp3",
+"bytes": 63990,
+"sha256": "17791256537e03bba5122c5ed53ea002b3d5e7e366deec10d437feffe4114c56"
+},
+{
+"path": "public/atlas/audio/ex2/circle.mp3",
+"bytes": 56258,
+"sha256": "56be075041fdc313eb2b2f7ede77b93f5a0c22b80a9b8aa85facecfbb64d748a"
 },
 {
 "path": "public/atlas/audio/ex2/city.mp3",
@@ -36863,9 +37583,74 @@
 "sha256": "cbcb18ed5a072046df2ce592c0b41e8d3eb076064475cd083854e4baa46da62b"
 },
 {
+"path": "public/atlas/audio/ex2/class.mp3",
+"bytes": 53750,
+"sha256": "2ce6d448febe7750aa116d6a51ed57aa1bcafb84d2971dec407a6f343d193c3b"
+},
+{
+"path": "public/atlas/audio/ex2/classroom.mp3",
+"bytes": 59393,
+"sha256": "e4331e658e3e740f72d06adf2e307f80bc347223b449a822d7af4a74f297c459"
+},
+{
+"path": "public/atlas/audio/ex2/clean.mp3",
+"bytes": 59393,
+"sha256": "41c75c380ec3333e09805347045c1765031451f05810a92bd56fd48e42cbe50c"
+},
+{
+"path": "public/atlas/audio/ex2/clear.mp3",
+"bytes": 58139,
+"sha256": "91089003d5e6d5b8616a63d648d3e58b1146c9b50dec5f5e880aaa6a406a60e3"
+},
+{
+"path": "public/atlas/audio/ex2/clearly.mp3",
+"bytes": 55004,
+"sha256": "b657bb4e916555992562715dc4a5ebf03ba43fae08078e71fcef7823486c5f4d"
+},
+{
+"path": "public/atlas/audio/ex2/climb.mp3",
+"bytes": 53750,
+"sha256": "57ef9e0cba14a43f7116e71370e293f6216afc33122c812496d90477885d5a4e"
+},
+{
+"path": "public/atlas/audio/ex2/climbing.mp3",
+"bytes": 67125,
+"sha256": "ce20ba0a4058f0650fa946ec75bab2fc97969998411a51e18b374768209936f5"
+},
+{
+"path": "public/atlas/audio/ex2/clock.mp3",
+"bytes": 50407,
+"sha256": "21e7d6ac5d15d75dd01b32a5059f2fd3d0eaf388e6d3efbbb8e1453db7f073ad"
+},
+{
+"path": "public/atlas/audio/ex2/close.mp3",
+"bytes": 58139,
+"sha256": "40c91594d6aedf4d9b974b39bbd4725ab2cee065bb99b944a7fe3d61bd30e0e2"
+},
+{
 "path": "public/atlas/audio/ex2/clothes.mp3",
 "bytes": 59393,
 "sha256": "2cda8437b5907cb7ce244995a36daf17c0527b5ac721a77df30806ac39bb0eb0"
+},
+{
+"path": "public/atlas/audio/ex2/cloud.mp3",
+"bytes": 56885,
+"sha256": "bbc29d4bc1155b4de3cbd41aef4fb564a5106be3495026b314bc4be94f45451f"
+},
+{
+"path": "public/atlas/audio/ex2/cloudy.mp3",
+"bytes": 51660,
+"sha256": "c0089043d56afbbe3e4a9cbf9821f6915845d70b37aca2fedc98213747f59a6c"
+},
+{
+"path": "public/atlas/audio/ex2/club.mp3",
+"bytes": 50407,
+"sha256": "7f7cc705ff8878adda6c6d37e099c1c0562ac0a8af2fabd823fb58b091534222"
+},
+{
+"path": "public/atlas/audio/ex2/coast.mp3",
+"bytes": 50407,
+"sha256": "9bdb29644f0b1fc4c4cab3634ee0306b2594ac4da8a2466ad4ed0f065ce856d2"
 },
 {
 "path": "public/atlas/audio/ex2/coat.mp3",
@@ -36878,9 +37663,94 @@
 "sha256": "46bab61fc855685d0a73f72666f0a01430d0fa8901928a4fbc04c2c18230e183"
 },
 {
+"path": "public/atlas/audio/ex2/coin.mp3",
+"bytes": 60647,
+"sha256": "d8a617869efbadca087f758f95db889a9b183b2abef56e73d765d45cd73ecc9d"
+},
+{
+"path": "public/atlas/audio/ex2/cola.mp3",
+"bytes": 47899,
+"sha256": "0e807b532246b6edbdc57f9b84839ce53230305c892a49da7470f8e3370d6ca2"
+},
+{
 "path": "public/atlas/audio/ex2/cold.mp3",
 "bytes": 56258,
 "sha256": "04f091e1bf3dc54bf4ab2a05634acb00454d94f4369b36b61b2c3893bd958071"
+},
+{
+"path": "public/atlas/audio/ex2/college.mp3",
+"bytes": 63990,
+"sha256": "c53ec58ca5fc0e9737c37d495a86511cc3cefd35166a3837fc5bbf5aeea3b649"
+},
+{
+"path": "public/atlas/audio/ex2/colour.mp3",
+"bytes": 46018,
+"sha256": "de259af4c1cfdbf2aefa2a04d7905dc342e7574555d7da982f90f3fea641923f"
+},
+{
+"path": "public/atlas/audio/ex2/come.mp3",
+"bytes": 47272,
+"sha256": "37ec38c6a67ff59bcacdb96097db33b1c5592e8d7997f488af300fc7bd9aa66b"
+},
+{
+"path": "public/atlas/audio/ex2/comfortable.mp3",
+"bytes": 56258,
+"sha256": "676b9df7826dbf90a7cbcc40f08b8ad612dc0f900b889783254246d878dfda7c"
+},
+{
+"path": "public/atlas/audio/ex2/company.mp3",
+"bytes": 47272,
+"sha256": "ff4c65b7b0419968a669f77bb7be2d670bfab9f1d14def394bfcaef93168dc80"
+},
+{
+"path": "public/atlas/audio/ex2/competition.mp3",
+"bytes": 69006,
+"sha256": "6d8a1abc54475ed0a8990b94065dfe28247dbe9ba26b17873780de8c95bc7258"
+},
+{
+"path": "public/atlas/audio/ex2/complete.mp3",
+"bytes": 55631,
+"sha256": "01be2f378797fcda79344bc799426be976ec9ffe0ad50e72ca7f24b6694499f3"
+},
+{
+"path": "public/atlas/audio/ex2/completely.mp3",
+"bytes": 57512,
+"sha256": "a2cadc2c841ec8a007587bedca7d8119a35933280f4f81614ba0becf90bab445"
+},
+{
+"path": "public/atlas/audio/ex2/computer.mp3",
+"bytes": 50407,
+"sha256": "38de614ddc1f39ea78f60fa98b989203d89cb58701087b3040a5e884a6c8212d"
+},
+{
+"path": "public/atlas/audio/ex2/control.mp3",
+"bytes": 61900,
+"sha256": "a05d228f564f5c8c5cbd46b9c1b829747bd09a7df58e35933ae601d7a2aab0ec"
+},
+{
+"path": "public/atlas/audio/ex2/convenient.mp3",
+"bytes": 53123,
+"sha256": "24dabb4a409774d2053521e88b88d1c73029e40397fa0a0ad28a0d66b396068c"
+},
+{
+"path": "public/atlas/audio/ex2/conversation.mp3",
+"bytes": 59393,
+"sha256": "e2986240b6b2dd98e6dffa725415e6b7f1d9b9d25dc036f174a0e97a055a3ba9"
+},
+{
+"path": "public/atlas/audio/ex2/cook.mp3",
+"bytes": 54377,
+"sha256": "afd772333c726c0ca85045174abe12a055b47a5d5c3faf61c0fb66beb589c795"
+},
+{
+"path": "public/atlas/audio/ex2/cooking.mp3",
+"bytes": 44764,
+"sha256": "0b0b0e36b4c8ef59a45132dfa0ef3462f7f7b05a659843a656ace8ac17594ca3"
+},
+{
+"path": "public/atlas/audio/ex2/cool.mp3",
+"bytes": 45391,
+"sha256": "536756ac719d56909cfc83313237834488d593cf17eef9c785901bc1067ae740"
 },
 {
 "path": "public/atlas/audio/ex2/correct.mp3",
@@ -36888,9 +37758,59 @@
 "sha256": "5be99bbe2ed188c3846c5b77f0317238de2e6554a54f65d742488592ec8a42fe"
 },
 {
+"path": "public/atlas/audio/ex2/correctly.mp3",
+"bytes": 63363,
+"sha256": "02ee0d1d49c0662fc3652cff40f6270ae8b188f955bfb144555657d0822abfcc"
+},
+{
+"path": "public/atlas/audio/ex2/couch.mp3",
+"bytes": 44137,
+"sha256": "70c881ae98fd1d83706b43eb4bc51683fab2c85f6ae2c80cad3cb0f9bf42f7f7"
+},
+{
+"path": "public/atlas/audio/ex2/country.mp3",
+"bytes": 56258,
+"sha256": "1d0fe39d6b4ae6641713fe274c87a7d1540f97864c5be93aa2f2158edf03df49"
+},
+{
+"path": "public/atlas/audio/ex2/couple.mp3",
+"bytes": 51660,
+"sha256": "8a49a0270be610ed9034399f6f800f7b90b696c57e1c9eb7bb568f010fa4cf4c"
+},
+{
 "path": "public/atlas/audio/ex2/course.mp3",
 "bytes": 60020,
 "sha256": "2d8760b7e8a283252ec157a6837a94009edc8ff225d8b8b69dc718392f5f1a96"
+},
+{
+"path": "public/atlas/audio/ex2/cousin.mp3",
+"bytes": 56258,
+"sha256": "345be4060419f7a8e93ca1b47d07ccfc141061928599c9ca024fe7303a274bcb"
+},
+{
+"path": "public/atlas/audio/ex2/cow.mp3",
+"bytes": 45391,
+"sha256": "524e938b9091462d15e0c70d8cbb99fc8776a3e7655d9b81d9d3cf5e08228e8a"
+},
+{
+"path": "public/atlas/audio/ex2/crazy.mp3",
+"bytes": 65244,
+"sha256": "6b50d401f10fc7b3d178e8efb9e788ce22e50b53c7a0f40bf020a6fe03f6d42e"
+},
+{
+"path": "public/atlas/audio/ex2/cry.mp3",
+"bytes": 52496,
+"sha256": "57d7f67ec246cdfb51bdda6e4b805aebd648936d65ce7b5cfff6755b73feb2f7"
+},
+{
+"path": "public/atlas/audio/ex2/cup.mp3",
+"bytes": 50407,
+"sha256": "1ab151c2f4d33ad9753179d802acb3d106fc154f7b0f7dfdd455ff7ea36a9f9b"
+},
+{
+"path": "public/atlas/audio/ex2/curry.mp3",
+"bytes": 49153,
+"sha256": "9d5c262ce064b705bbc81871019ab189635cdd634de577b6d2a8344d3a02cc3f"
 },
 {
 "path": "public/atlas/audio/ex2/cut.mp3",
@@ -36898,9 +37818,79 @@
 "sha256": "86afe7a22802691f975e1013031db5dd4a98ba561438265c5ea67a4fd270607b"
 },
 {
+"path": "public/atlas/audio/ex2/dance.mp3",
+"bytes": 60020,
+"sha256": "30cd34f0cf882c3fe765591f9200f8c6c4e73b8e142a8355d2fb1685785f3deb"
+},
+{
+"path": "public/atlas/audio/ex2/dancing.mp3",
+"bytes": 60020,
+"sha256": "a79287b943b707934e6d727e6cefb067efc7b22a9612f64c0cf5a8b900077750"
+},
+{
+"path": "public/atlas/audio/ex2/danger.mp3",
+"bytes": 60020,
+"sha256": "6d6da974ca87a98a050aa3d5f4188decf9ddb24e059bfe857f06d0d4cae59527"
+},
+{
+"path": "public/atlas/audio/ex2/dangerous.mp3",
+"bytes": 60020,
+"sha256": "487350350c1dd15d73b1a52c85616d938111efa3b756400ee3a286ee735989eb"
+},
+{
 "path": "public/atlas/audio/ex2/dark.mp3",
 "bytes": 53123,
 "sha256": "9b85d136d45d148151f4e3f93e6ba6ec040b5d054d204e5a704665b3f80a2c18"
+},
+{
+"path": "public/atlas/audio/ex2/date.mp3",
+"bytes": 44137,
+"sha256": "a4518da459d016aa054667cbdf4c1f285cabed467568191c56a9eafb9c6c137f"
+},
+{
+"path": "public/atlas/audio/ex2/daughter.mp3",
+"bytes": 55631,
+"sha256": "9c50a706b0048bc3429db83bc188b68b10adde58924528873a1e6ca220b6bb7f"
+},
+{
+"path": "public/atlas/audio/ex2/day.mp3",
+"bytes": 51660,
+"sha256": "d0b44ea715ea55c03c49703d5589ff427620c172f902e08e4c4d02f4f43dc906"
+},
+{
+"path": "public/atlas/audio/ex2/dear.mp3",
+"bytes": 51660,
+"sha256": "04cfe40b88734f611067c87077916ece207f9a6a3c2fda6bcab734eb5cd1c734"
+},
+{
+"path": "public/atlas/audio/ex2/december.mp3",
+"bytes": 58766,
+"sha256": "e07dea8e8e59eeb99826ea51b9dfe250fd67f7b5bacb4e79de8ca07384c466a5"
+},
+{
+"path": "public/atlas/audio/ex2/delicious.mp3",
+"bytes": 53750,
+"sha256": "ced32005e17bb9bf9341ac60a7a17cecc542cb3199c49f966785b6eb27e10153"
+},
+{
+"path": "public/atlas/audio/ex2/depend.mp3",
+"bytes": 64617,
+"sha256": "140d89687edd797e6cf7af98996a2801ae4af92c1ba5708598651483eb8bcbe7"
+},
+{
+"path": "public/atlas/audio/ex2/describe.mp3",
+"bytes": 56885,
+"sha256": "f5f3bc2e56bcee699586552732aa67907c4bb9c0a2eaeb2caa75bb226165c3d1"
+},
+{
+"path": "public/atlas/audio/ex2/design.mp3",
+"bytes": 59393,
+"sha256": "5b9c1d8c8fa6f9f39435b7347f9cbb87b8fd5440aefcda52cf1406e63de37f86"
+},
+{
+"path": "public/atlas/audio/ex2/designer.mp3",
+"bytes": 44764,
+"sha256": "38d16e709ffac45452bfeed23607ae6bf899762d20c30a8f41ad706404083056"
 },
 {
 "path": "public/atlas/audio/ex2/desk.mp3",
@@ -36908,9 +37898,54 @@
 "sha256": "9f1b399472294be3cfa5423c6d1c77926a63c0a16bc066c7ded1732809a8fc25"
 },
 {
+"path": "public/atlas/audio/ex2/dictionary.mp3",
+"bytes": 68379,
+"sha256": "23a60707c7c76bcbc4bf836a164467623da06b1df205ce35ddfcfacfd3d7f5b7"
+},
+{
+"path": "public/atlas/audio/ex2/die.mp3",
+"bytes": 59393,
+"sha256": "67cf75ea9ab1e2fe8f5c7beae4739b3011ef2a4ad561cfd9f1c73b4655307d47"
+},
+{
+"path": "public/atlas/audio/ex2/diet.mp3",
+"bytes": 51034,
+"sha256": "07e5de60408c5bb7b7d78e851b7c977f0f8c00835dc926bf0bec007f9f2c9039"
+},
+{
+"path": "public/atlas/audio/ex2/difference.mp3",
+"bytes": 55631,
+"sha256": "9377a80359ce9cec1ef1401bedbd6cbaaff96e8997b97427c0cb69504eb7a636"
+},
+{
 "path": "public/atlas/audio/ex2/different.mp3",
 "bytes": 58766,
 "sha256": "8bba51487b4932e6c0e21b01a3029f817d6426ee7877de9828d070344b8925c9"
+},
+{
+"path": "public/atlas/audio/ex2/difficult.mp3",
+"bytes": 53123,
+"sha256": "9af9788b87a7d254a0174707e0e1a16313b6bd08dfabb2d0811474a0689c89af"
+},
+{
+"path": "public/atlas/audio/ex2/digital.mp3",
+"bytes": 57512,
+"sha256": "21c7b0f604677b5e7bb13b0b2cd2418714cd4bc0728dc04097edcd725145a5da"
+},
+{
+"path": "public/atlas/audio/ex2/dining-room.mp3",
+"bytes": 49780,
+"sha256": "3fb874b6403005ad31c2b864817a5f682aba52e6d9ace14d04bfcddda4d77b6f"
+},
+{
+"path": "public/atlas/audio/ex2/dinner.mp3",
+"bytes": 64617,
+"sha256": "d4f38a3993c4ade0633d812731e3cfce7feb5b6b0fec5402ff83c3f3cb141553"
+},
+{
+"path": "public/atlas/audio/ex2/director.mp3",
+"bytes": 59393,
+"sha256": "c850645ab76f08155031da911c915189f07f7786d9cb482c72b15eff5ec0ce78"
 },
 {
 "path": "public/atlas/audio/ex2/dirty.mp3",
@@ -36918,9 +37953,49 @@
 "sha256": "585d3c7dca10e2dd69cf64b7868da4eed027321696009a33703a35cfa3718de0"
 },
 {
+"path": "public/atlas/audio/ex2/discover.mp3",
+"bytes": 47899,
+"sha256": "9cd2bb8aa0807721402576ac03c5c8a1d517720ecf3949c9b5006c4597c7fd78"
+},
+{
+"path": "public/atlas/audio/ex2/discuss.mp3",
+"bytes": 44764,
+"sha256": "30425d7d5a20576e9cfee5dc0482cfe26592eebe20ce31af2245daade723800f"
+},
+{
+"path": "public/atlas/audio/ex2/dishwasher.mp3",
+"bytes": 46018,
+"sha256": "f3a6d209c144125872e53c42df0ce25a525f7652613e1a850220506c382eeb8d"
+},
+{
+"path": "public/atlas/audio/ex2/distance.mp3",
+"bytes": 65244,
+"sha256": "1085524dcc3971c76afc6f4c4f479e492e0382633174a884fb59a0154519de44"
+},
+{
+"path": "public/atlas/audio/ex2/divorced.mp3",
+"bytes": 49780,
+"sha256": "dd1d05c1ae4d1b52eea15fbce1dfd6b1f735e961f6ca2793b7c3773d461ae46c"
+},
+{
 "path": "public/atlas/audio/ex2/doctor.mp3",
 "bytes": 51034,
 "sha256": "4fc13060a11d910fe519b8b5c7e69653e50082a3b34b15f84bfcb6dbac58de1c"
+},
+{
+"path": "public/atlas/audio/ex2/dog.mp3",
+"bytes": 50407,
+"sha256": "6f47fbaa2a4b3a0a8c6406ce12c52af93dd3e074da5116e39e9d7be931a58e43"
+},
+{
+"path": "public/atlas/audio/ex2/dollar.mp3",
+"bytes": 60647,
+"sha256": "1b750089770a03e3dc73824b40403a148ec464861b026c785ac7b683b3ba0142"
+},
+{
+"path": "public/atlas/audio/ex2/donkey.mp3",
+"bytes": 56258,
+"sha256": "6ba9102378baa80eba1112cb8ea2974c5711d680b464c51824384b7fc1d147a2"
 },
 {
 "path": "public/atlas/audio/ex2/door.mp3",
@@ -36928,9 +38003,74 @@
 "sha256": "f80c0cf4673bd2f62542192486b9d647cf6b656113a00c1133b7d603abcf4a52"
 },
 {
+"path": "public/atlas/audio/ex2/down.mp3",
+"bytes": 42883,
+"sha256": "c282966b5081e9e3a38764fce1ed8fc0ca85883d83663a1dfd386315a1f6e447"
+},
+{
+"path": "public/atlas/audio/ex2/downstairs.mp3",
+"bytes": 46645,
+"sha256": "1313f417b81cae04262594dc45515306475f92c0e4f3c377cf266c5c9f79a710"
+},
+{
+"path": "public/atlas/audio/ex2/downtown.mp3",
+"bytes": 57512,
+"sha256": "15b28b04784e8a5a289ea9c8097095efc9f42e3bf63bec510fc9bac19fe7f638"
+},
+{
+"path": "public/atlas/audio/ex2/draw.mp3",
+"bytes": 51034,
+"sha256": "76cf05155aa812488273b943266adebb1a765fae59250256aef23f83e7d35990"
+},
+{
+"path": "public/atlas/audio/ex2/dress.mp3",
+"bytes": 48526,
+"sha256": "42f277071cff41eb869af1897f7f50d2707f9c930dce6988b7893547424dd565"
+},
+{
+"path": "public/atlas/audio/ex2/drink.mp3",
+"bytes": 51034,
+"sha256": "18eb5e29a4cc61c428bedffb3665be5adc4c2ef27b8b5afa9dcf59400e1bcebc"
+},
+{
 "path": "public/atlas/audio/ex2/drive.mp3",
 "bytes": 58766,
 "sha256": "4c6b7a8fa50b048b813bc3df179b4d33111aa6296e6ec1a8b559df56ba5849f3"
+},
+{
+"path": "public/atlas/audio/ex2/driver.mp3",
+"bytes": 47272,
+"sha256": "ad55b2a73724ddb72d594f549e65c9dcaeefaceaa7e76579f78feb14cb7b6577"
+},
+{
+"path": "public/atlas/audio/ex2/during.mp3",
+"bytes": 58139,
+"sha256": "af53e492a7c4ec291908364923b4a5e5e5b67789aafa7bba45884b17da105c27"
+},
+{
+"path": "public/atlas/audio/ex2/dutch.mp3",
+"bytes": 55631,
+"sha256": "7047f365392d27db8ee57ce658d1754045245b563abe1487c6404cd58c645fb7"
+},
+{
+"path": "public/atlas/audio/ex2/each.mp3",
+"bytes": 54377,
+"sha256": "cb3501f040b17e539fe9751a6418b40b14c6cda31d2c554fac878dc8a97a6fed"
+},
+{
+"path": "public/atlas/audio/ex2/ear.mp3",
+"bytes": 46018,
+"sha256": "281b8230cf8b63aacb84d8081c1ff7a766b28627c2e7883db16cfa39db614b0e"
+},
+{
+"path": "public/atlas/audio/ex2/early.mp3",
+"bytes": 57512,
+"sha256": "6ed3d80c688dbfce2f63670d374200880024ca13195fba3a4fff7198829184fa"
+},
+{
+"path": "public/atlas/audio/ex2/easily.mp3",
+"bytes": 55631,
+"sha256": "ae1eb97ce79857c6cd1e9a0746a38d45660c3d291ef0892c8b1dca28f7ccb1f7"
 },
 {
 "path": "public/atlas/audio/ex2/east.mp3",
@@ -36938,9 +38078,39 @@
 "sha256": "75c4f66683741de61dbea52b8196d1e8459cb7580d4ed2aa721e97e39e3595ac"
 },
 {
+"path": "public/atlas/audio/ex2/easy.mp3",
+"bytes": 54377,
+"sha256": "eb696f1602b72d12423e8e2c0559cf5bdf44bbadfeb71bb6efced92651005b62"
+},
+{
+"path": "public/atlas/audio/ex2/eat.mp3",
+"bytes": 57512,
+"sha256": "518ad5a7a97aa8c17fd9c3d1c1ca7f6e7a9998a405147db7811f71339d9bda31"
+},
+{
+"path": "public/atlas/audio/ex2/eating.mp3",
+"bytes": 55631,
+"sha256": "0427d4e59b18bbba7d1bfd9819b7b2855b199fae3eece2901152494b2e8ec1b7"
+},
+{
+"path": "public/atlas/audio/ex2/education.mp3",
+"bytes": 60647,
+"sha256": "c7e9820f0f9eaaa6c3a19850e9b2196fd6bce4f3b5f7af22765e6f0986480d32"
+},
+{
 "path": "public/atlas/audio/ex2/egg.mp3",
 "bytes": 41420,
 "sha256": "0b04e22fdb939b2d5ec3c50b43a7f0c710bf826d7c9c88ed0d40f23658b35f48"
+},
+{
+"path": "public/atlas/audio/ex2/eighteen.mp3",
+"bytes": 40167,
+"sha256": "bb68528e073f257290ba4adf2faec425fe19bab45c70ebd7044800174416b020"
+},
+{
+"path": "public/atlas/audio/ex2/electric.mp3",
+"bytes": 53123,
+"sha256": "aa18372bb249ad079089e5b71d92ef9525d233c81092caacc270143d9becb8c7"
 },
 {
 "path": "public/atlas/audio/ex2/elephant.mp3",
@@ -36948,9 +38118,109 @@
 "sha256": "e18605629e463586d585550242d72411e440a577e5dbee2196406f2736d11677"
 },
 {
+"path": "public/atlas/audio/ex2/else.mp3",
+"bytes": 65871,
+"sha256": "bca440d16eb9802ed21feecc8ea4d0476f65d054eda2955c12c7dabe75a4de96"
+},
+{
+"path": "public/atlas/audio/ex2/email.mp3",
+"bytes": 63990,
+"sha256": "0aaf83892e8f10b37156d4a70cd518b6fadeb1a2faf900146dc8a62e571efe29"
+},
+{
+"path": "public/atlas/audio/ex2/end.mp3",
+"bytes": 53750,
+"sha256": "cc5c377ad2d0a695aa86abe14eab72aad9aa7d5214feccaff490913073c62723"
+},
+{
+"path": "public/atlas/audio/ex2/energy.mp3",
+"bytes": 56258,
+"sha256": "11f961bca280711838589e25274d27b6066d439a124a88409f520eb395cde9b9"
+},
+{
+"path": "public/atlas/audio/ex2/england.mp3",
+"bytes": 62736,
+"sha256": "6faca32d7da5914d9bd080913484f94d91a1bbb43f47b3037181bd15ffae1181"
+},
+{
+"path": "public/atlas/audio/ex2/english.mp3",
+"bytes": 60020,
+"sha256": "cfff40d251757721f8b277d60e66449081c835029521e72ceb720f8cf58e30d8"
+},
+{
+"path": "public/atlas/audio/ex2/enjoy.mp3",
+"bytes": 51034,
+"sha256": "950f4cdeff37d0ae8bbb1782a90a518c4d9d61dffba86320ab5063a8ec9a1d91"
+},
+{
+"path": "public/atlas/audio/ex2/enough.mp3",
+"bytes": 46645,
+"sha256": "395e19ad11417927a37f1c46f29c11ab946ebfbdfcb4ed084594a527b0fe4a9e"
+},
+{
+"path": "public/atlas/audio/ex2/enter.mp3",
+"bytes": 52496,
+"sha256": "f0c2f3e0d86b643267eea06712432016b6ac8a4ba9f14997885a29761e873ed9"
+},
+{
+"path": "public/atlas/audio/ex2/eraser.mp3",
+"bytes": 63363,
+"sha256": "f93e89759bc1b1cf8557a9d4225cbbedc97a7fb03cd8ff9a36760b44310e52ad"
+},
+{
+"path": "public/atlas/audio/ex2/euro.mp3",
+"bytes": 54377,
+"sha256": "f3ba696f74cff783381634195da98650c753674f374500f49e10a09959f16d5f"
+},
+{
+"path": "public/atlas/audio/ex2/europe.mp3",
+"bytes": 57512,
+"sha256": "e52cf114103545347e94b8121ed6e9991521f954275011284dfcb361b9f418d3"
+},
+{
 "path": "public/atlas/audio/ex2/even.mp3",
 "bytes": 52496,
 "sha256": "b4c787df29843bbf9b0003b2da0c8640e5631095fc3ff95e40bae021d631bb91"
+},
+{
+"path": "public/atlas/audio/ex2/evening.mp3",
+"bytes": 49780,
+"sha256": "73d04a7b71787ef77a17a054cf4d7eccadb1d0f73eb853c6c9768146286b5097"
+},
+{
+"path": "public/atlas/audio/ex2/every.mp3",
+"bytes": 47272,
+"sha256": "f36aff16b6d2381e45800f657b31f0e7c7e0b48d8d0de27c748321fb187578f1"
+},
+{
+"path": "public/atlas/audio/ex2/everybody.mp3",
+"bytes": 60647,
+"sha256": "c8856b98fa60ea5d99eee6d91a6fc1c94bcb497ae9dd426223ef5aa3409d088e"
+},
+{
+"path": "public/atlas/audio/ex2/everyone.mp3",
+"bytes": 65871,
+"sha256": "a2f3257a27de6804324db7ea5b8e719fde3f66315f1ca1133071d133d3e8c83b"
+},
+{
+"path": "public/atlas/audio/ex2/everything.mp3",
+"bytes": 57512,
+"sha256": "7d3005206029d6efd0ba3dbb02958aaf585adf7fc9e07f9610f09b007caa3bf9"
+},
+{
+"path": "public/atlas/audio/ex2/exam.mp3",
+"bytes": 53750,
+"sha256": "dc7afded4d6bb8d962ad81655b3507797c2f01237bea87a1307656013785cb39"
+},
+{
+"path": "public/atlas/audio/ex2/example.mp3",
+"bytes": 54377,
+"sha256": "68f12d2084093bb7010fee649cc0cf61e8679a020610d0d0fa2cc06c716e1538"
+},
+{
+"path": "public/atlas/audio/ex2/excited.mp3",
+"bytes": 58766,
+"sha256": "3c13b29b614135a751137c19eb5a28f01f235f199d5afec383b12c1537135004"
 },
 {
 "path": "public/atlas/audio/ex2/exciting.mp3",
@@ -36958,9 +38228,64 @@
 "sha256": "ee55d6395d1951458dbe006ddcd28d4ba1c33540b2b4f1051a4873793c7abdd8"
 },
 {
+"path": "public/atlas/audio/ex2/exercise.mp3",
+"bytes": 50407,
+"sha256": "210da1364e38920790bded597ea958c60b41fd554c825ff704a118d86508a7a7"
+},
+{
+"path": "public/atlas/audio/ex2/expensive.mp3",
+"bytes": 61900,
+"sha256": "2c44c2b880731fc2283cfdd285a80659d30523a265f2b6f8ec285dcc3336af8d"
+},
+{
+"path": "public/atlas/audio/ex2/eye.mp3",
+"bytes": 50407,
+"sha256": "bf6e935bd066c7094ec7c51cd4e3b6c0fad1a32a26ab2e7653dc4d1f242f1b2e"
+},
+{
 "path": "public/atlas/audio/ex2/face.mp3",
 "bytes": 61274,
 "sha256": "f03a2d657f7f05245fe7db179bc9d5e0fc30667eb0c969edcac1301b09717d87"
+},
+{
+"path": "public/atlas/audio/ex2/fact.mp3",
+"bytes": 53123,
+"sha256": "397e62a1fc8861405973eeee1776f51090ce21a0e37ebc65e22b1b0cc5018e48"
+},
+{
+"path": "public/atlas/audio/ex2/fair.mp3",
+"bytes": 56258,
+"sha256": "35b5b4b0f6b573747f7d92b9622e212d84cd9bbd01992628160a6ea94a067c47"
+},
+{
+"path": "public/atlas/audio/ex2/fall.mp3",
+"bytes": 60647,
+"sha256": "060a879a61e19b7e28b21a9af62da3adb209bd1469b53d7ac43b8b506a2c4d83"
+},
+{
+"path": "public/atlas/audio/ex2/false.mp3",
+"bytes": 61274,
+"sha256": "9c86c1a44bfc40d8833023868e6ce12aaac7d369fb92280121380f5a243374d7"
+},
+{
+"path": "public/atlas/audio/ex2/family.mp3",
+"bytes": 52496,
+"sha256": "5bf1888e361095c24c62e50d587a520d421104683e49ee05abcf903dd9e1ae53"
+},
+{
+"path": "public/atlas/audio/ex2/famous.mp3",
+"bytes": 58766,
+"sha256": "8e3d7e8f912470f8c0ef34b80e0120721fcdf01a4f33d13e13b1dc833ef13b4c"
+},
+{
+"path": "public/atlas/audio/ex2/fan.mp3",
+"bytes": 54377,
+"sha256": "d540723428c8598ce22c982104998ded49c1b0304d7326d598dc42f2456d3601"
+},
+{
+"path": "public/atlas/audio/ex2/far.mp3",
+"bytes": 55631,
+"sha256": "4d05239b825096eea64583e13aab9f6bcc87b87f4b7e5c52eafa12c82a205f0b"
 },
 {
 "path": "public/atlas/audio/ex2/farm.mp3",
@@ -36983,6 +38308,61 @@
 "sha256": "8ce908594a3bdaaffb5e7edbd30dddfd79af91d1013b91179d6d0260069ebfd3"
 },
 {
+"path": "public/atlas/audio/ex2/favorite.mp3",
+"bytes": 60020,
+"sha256": "c62616e295c4c8c6ac88c0b84ce12cd4ec14f028a4e9e87a3be6e78d502a162f"
+},
+{
+"path": "public/atlas/audio/ex2/favourite.mp3",
+"bytes": 58766,
+"sha256": "01007756339838f9ea4cfc2b2ce76b2a4d6bc4463f503dc9f75768adbc165652"
+},
+{
+"path": "public/atlas/audio/ex2/february.mp3",
+"bytes": 47899,
+"sha256": "9ed087a49e77aad0d167c3524783df3f8af7f879512045d8d5a13499606bc15e"
+},
+{
+"path": "public/atlas/audio/ex2/feel.mp3",
+"bytes": 56258,
+"sha256": "f4fe473936392ccb4ea2b77726bf0781808afe990188fb4220a9a7080d05805e"
+},
+{
+"path": "public/atlas/audio/ex2/feeling.mp3",
+"bytes": 54377,
+"sha256": "3624d12c321bc14a0c5243bdd178f80ff02b92d9ba6f4f73c23ca9a7f22658e5"
+},
+{
+"path": "public/atlas/audio/ex2/feet.mp3",
+"bytes": 44764,
+"sha256": "786bd33510b79ee803243d0aadcd1d405d125c9d3f61e98909aed93505543f02"
+},
+{
+"path": "public/atlas/audio/ex2/few.mp3",
+"bytes": 49153,
+"sha256": "da0ef03e7a0bccffbe84c75a76ad52093081f0217735790cbf7cc11736962aaa"
+},
+{
+"path": "public/atlas/audio/ex2/field.mp3",
+"bytes": 58139,
+"sha256": "1d87d558893f67c85d08cee583d4841af8e1fc3f00f81cd61581d80eeeede04e"
+},
+{
+"path": "public/atlas/audio/ex2/fill.mp3",
+"bytes": 52496,
+"sha256": "bf04e87117bc07af5e8231e2c941725c09a7b1ec36865063c44164793e944552"
+},
+{
+"path": "public/atlas/audio/ex2/film.mp3",
+"bytes": 56258,
+"sha256": "fd7f7db71ffafac868c90a039f791c7e71a609b6700747172d71fa75fd0c3c11"
+},
+{
+"path": "public/atlas/audio/ex2/find.mp3",
+"bytes": 58139,
+"sha256": "2fecaa358dfd1c2bf9c95131c164395f83b2ad13b62f096ba584c7899930a72d"
+},
+{
 "path": "public/atlas/audio/ex2/fine.mp3",
 "bytes": 60020,
 "sha256": "0b37c809ca5d4583856376963c7305ff463f8a4a9c074894e31dc802ffa997f0"
@@ -36998,14 +38378,49 @@
 "sha256": "7d61e9a20563e753740127fca6909bc112cecbfc9d674dbe51c79db3b6024850"
 },
 {
+"path": "public/atlas/audio/ex2/firefighter.mp3",
+"bytes": 72976,
+"sha256": "1384a82c3d2a2ff5d5f00cfe399c781c4e4002c9d3b9f2c94c5c6e52fd75e4e5"
+},
+{
+"path": "public/atlas/audio/ex2/first.mp3",
+"bytes": 50407,
+"sha256": "48e2f66ead0ced1d1932a24078097601810a486e1f20b4d6949ec6777750deef"
+},
+{
+"path": "public/atlas/audio/ex2/fish.mp3",
+"bytes": 59393,
+"sha256": "920a9b40dd3203d2fce2cfc0e217b9c06b82d80c6a4daf931327a585c4589070"
+},
+{
+"path": "public/atlas/audio/ex2/flag.mp3",
+"bytes": 50407,
+"sha256": "dba9c14b38a2e96c3886df8c941ca67896393b3629d007f7fcc1bc809a6e5f36"
+},
+{
+"path": "public/atlas/audio/ex2/flat.mp3",
+"bytes": 50407,
+"sha256": "f9009190a27cba311d282c42e471e22cd0edd2fd66e6708a8ac8e4241deef4d1"
+},
+{
 "path": "public/atlas/audio/ex2/floor.mp3",
 "bytes": 60020,
 "sha256": "7826f6d6847afd2c1c48bbc35e23bf0bf9af3a129865d2be4890c9673306eddf"
 },
 {
+"path": "public/atlas/audio/ex2/flower.mp3",
+"bytes": 53750,
+"sha256": "0c542a8281a6231f44787e90d85550fe39c3d2a6e033c069a17853fad9de679c"
+},
+{
 "path": "public/atlas/audio/ex2/fly.mp3",
 "bytes": 57512,
 "sha256": "4760d52d3c5768492e8e0f040b772a850c12ae9fe3f98fb890e1a8d9e3db11c4"
+},
+{
+"path": "public/atlas/audio/ex2/follow.mp3",
+"bytes": 53750,
+"sha256": "366c9f512590ae4e10e8d4e3a221622f8109c7df0802cef42db45dbc35294d96"
 },
 {
 "path": "public/atlas/audio/ex2/food.mp3",
@@ -37023,9 +38438,34 @@
 "sha256": "62ca040f67288b32755e70ebae66b05ca4a1a5f4ba15df6dc46f6e7a2de840b3"
 },
 {
+"path": "public/atlas/audio/ex2/forest.mp3",
+"bytes": 58766,
+"sha256": "c4306d74a64ed8d4f82159da31bb509313f918a7cb39163fddd66a4af2f13fcb"
+},
+{
+"path": "public/atlas/audio/ex2/forget.mp3",
+"bytes": 58139,
+"sha256": "68c622d49a54184f32c9ec175ff04a6714aecd7b015217b2456bc815b7f349c9"
+},
+{
+"path": "public/atlas/audio/ex2/forty.mp3",
+"bytes": 49780,
+"sha256": "a0f183d427e43b77c6a75e0671f8f760ed1f508cd5e5b3c41bb8a8762202ddce"
+},
+{
+"path": "public/atlas/audio/ex2/four.mp3",
+"bytes": 46018,
+"sha256": "e0c684d89d713bfe9452e36bafd04c4ead3c87fb8a9c079339bc6ed16c749bf2"
+},
+{
 "path": "public/atlas/audio/ex2/fourth.mp3",
 "bytes": 59393,
 "sha256": "4a29ddb7d1524e04ff27639fff9f7a80234452e87260a16155996723df78f51a"
+},
+{
+"path": "public/atlas/audio/ex2/france.mp3",
+"bytes": 63363,
+"sha256": "b77e8537a2853e6936a1247bcc1683aabf037c54aa69f54aa1f5855733458329"
 },
 {
 "path": "public/atlas/audio/ex2/free.mp3",
@@ -37038,9 +38478,19 @@
 "sha256": "25eb801365b1b19b430559a1cc4ea1ba7b61af98751e701a5571127b201728ef"
 },
 {
+"path": "public/atlas/audio/ex2/friday.mp3",
+"bytes": 54377,
+"sha256": "9d721e88cd3c76815285330217f6d21ecce3385b231cc314e3b80a9c48ba22d8"
+},
+{
 "path": "public/atlas/audio/ex2/fridge.mp3",
 "bytes": 53750,
 "sha256": "554565ac489d8cef844cd7da890ec3f63733f53f6c6bf53eb82b3219963a42d3"
+},
+{
+"path": "public/atlas/audio/ex2/friend.mp3",
+"bytes": 62736,
+"sha256": "1e5695ea50714f1a8006a60dfae27d6ce6dc34d6e48091797ae7617bdf8ed2a1"
 },
 {
 "path": "public/atlas/audio/ex2/friendly.mp3",
@@ -37058,9 +38508,74 @@
 "sha256": "19630946d82f735ca1053b5d5f983ebe07aa51db34cf98a084b77dbccc881bbb"
 },
 {
+"path": "public/atlas/audio/ex2/fruit.mp3",
+"bytes": 50407,
+"sha256": "e12fcddd8b692bf57c1b03f4b44efbfeed3e35e32fb758140ae516bf4a8a19a4"
+},
+{
+"path": "public/atlas/audio/ex2/full.mp3",
+"bytes": 53123,
+"sha256": "28aa815157103e16b153b0fc0a99f868d98d0311016774db1cba326441fa91ba"
+},
+{
+"path": "public/atlas/audio/ex2/fun.mp3",
+"bytes": 62736,
+"sha256": "a9dfe0af1e7910c79fbae2e9382339e6b8f58b371f8b5700d16df7b20adbcb43"
+},
+{
+"path": "public/atlas/audio/ex2/funny.mp3",
+"bytes": 57512,
+"sha256": "939c5863397b89449e3dff8a1fc8611c3db01459c7be47b2e8ff38fe40e4ca72"
+},
+{
+"path": "public/atlas/audio/ex2/future.mp3",
+"bytes": 52496,
+"sha256": "cec7ef9b3caf86c87dea999ffbabff9b18d8bee7f393a77be7658ae17ae6e519"
+},
+{
+"path": "public/atlas/audio/ex2/game.mp3",
+"bytes": 47272,
+"sha256": "4d49577099dd094f5fe4542a300a4748738f10d2c17630aca3e1cddc62c8a0d5"
+},
+{
+"path": "public/atlas/audio/ex2/garden.mp3",
+"bytes": 61900,
+"sha256": "d28a33d0626e852d3a21e4e5852f639b10615387f27754f8a95ed652b491fc4e"
+},
+{
+"path": "public/atlas/audio/ex2/gardening.mp3",
+"bytes": 53750,
+"sha256": "ef042b6fde1a2a18e73383d5a14115f65fe9f6be6f53722cb496a1047f6076e4"
+},
+{
+"path": "public/atlas/audio/ex2/garlic.mp3",
+"bytes": 42883,
+"sha256": "6468d3eb51690168160093ffaf7cba7557071b41363de7ed4c508edaba92c5ab"
+},
+{
+"path": "public/atlas/audio/ex2/geography.mp3",
+"bytes": 60647,
+"sha256": "708391d87b2edc3515f533d13a4599774c17e66e7c26ccbe3c9563689fc0112f"
+},
+{
+"path": "public/atlas/audio/ex2/german.mp3",
+"bytes": 57512,
+"sha256": "768c44b3475116d84513f1bfe99f27a20c934cd1d0bd9c5aaa2221dbf38a2c3d"
+},
+{
 "path": "public/atlas/audio/ex2/germany.mp3",
 "bytes": 52496,
 "sha256": "2abcde990404c9e40edbab79c10dcba7d94903f41e568d208108dc8f54d74009"
+},
+{
+"path": "public/atlas/audio/ex2/get.mp3",
+"bytes": 55631,
+"sha256": "8c226feb4f9a5948b0f7051d5ee69e29e34e94ad4cbe73f213bf32f839463921"
+},
+{
+"path": "public/atlas/audio/ex2/giraffe.mp3",
+"bytes": 70260,
+"sha256": "d0250e79f1fcc5bd8a9feb7be9b28d53e22cd7471924bb16689271243843b9b1"
 },
 {
 "path": "public/atlas/audio/ex2/girl.mp3",
@@ -37068,9 +38583,44 @@
 "sha256": "d1b87ffc155632fd8bad77e5f4e3f7df2768197ffb5cd67f196abba9be922b24"
 },
 {
+"path": "public/atlas/audio/ex2/give.mp3",
+"bytes": 56885,
+"sha256": "1035ef467f1fd2063c537941cbd8f220cfa5dbbb73b340064e75f1b47b2ef1a6"
+},
+{
 "path": "public/atlas/audio/ex2/glass.mp3",
 "bytes": 57512,
 "sha256": "98b6105313eb1c8876e2dc06340c81bd6fe1da2189123fb00160405bbd2651b4"
+},
+{
+"path": "public/atlas/audio/ex2/glasses.mp3",
+"bytes": 67752,
+"sha256": "4a7507704d484d102bed71d79d27d76e997e7793973e469d9e8740672ea20c02"
+},
+{
+"path": "public/atlas/audio/ex2/glove.mp3",
+"bytes": 52496,
+"sha256": "bb9b0d13bfe9e6ffaf47cef14532c8f6e0ee6cb5a23c2b0be841a13135bc918a"
+},
+{
+"path": "public/atlas/audio/ex2/goat.mp3",
+"bytes": 47899,
+"sha256": "24b31474c69c4630f034e3d4dcabb61224e5d0154d0fbfce541ca8bfb6695430"
+},
+{
+"path": "public/atlas/audio/ex2/gold.mp3",
+"bytes": 60020,
+"sha256": "2b8084998071152d8460e90f74284fa798e16cc460f2ac01837b4bee1fe0b2ab"
+},
+{
+"path": "public/atlas/audio/ex2/good.mp3",
+"bytes": 50407,
+"sha256": "3862301afbbd33a8ce6fee2c21968449270e695208549af9a4f6a07421617a16"
+},
+{
+"path": "public/atlas/audio/ex2/government.mp3",
+"bytes": 55004,
+"sha256": "87cbcf27c2ac721aee1b0416afa121e3f738947f7d25fa747fe6e6ff642613d2"
 },
 {
 "path": "public/atlas/audio/ex2/grammar.mp3",
@@ -37078,9 +38628,69 @@
 "sha256": "0feb52a1054700a6f0dd9e92898b8384a671c4aa064913257be4119be53026c4"
 },
 {
+"path": "public/atlas/audio/ex2/grandfather.mp3",
+"bytes": 52496,
+"sha256": "cc679dbd80bc97a9dd8139ba542afb2a357f2080531575d60b16008e05a9ce85"
+},
+{
+"path": "public/atlas/audio/ex2/grandmother.mp3",
+"bytes": 58139,
+"sha256": "d405a20f7ce10c3c368a1f06e76c5116765fca8e7dc7bd8d46b9caaa12cd346c"
+},
+{
 "path": "public/atlas/audio/ex2/grandparent.mp3",
 "bytes": 44764,
 "sha256": "85953b793f9c75fafb8bf0510ded879539a0a0cc92ae17ba027431a785b50c70"
+},
+{
+"path": "public/atlas/audio/ex2/grandson.mp3",
+"bytes": 49780,
+"sha256": "37dbf4bacc37f40d179db087bfb955d92e6ce238ed5bb8cfe5dd94e04d6b062a"
+},
+{
+"path": "public/atlas/audio/ex2/grass.mp3",
+"bytes": 59393,
+"sha256": "b08618716581dab4b66084fe96f8124293d04619dd67967b3eff2bf390ed672b"
+},
+{
+"path": "public/atlas/audio/ex2/gray.mp3",
+"bytes": 56885,
+"sha256": "152401cc272d4aa1562fb4a60c6aee44c53544706be4b8932ba4ef74cf404f39"
+},
+{
+"path": "public/atlas/audio/ex2/great.mp3",
+"bytes": 44764,
+"sha256": "40f711d833d7db64bf4ccbf1ffbcbf6b484aa406665a7a7b1e6e7f8741a06569"
+},
+{
+"path": "public/atlas/audio/ex2/green.mp3",
+"bytes": 55004,
+"sha256": "022cebf216e76135d638c44ab2aa1db93947346430fe598765179ba4b55c5d1b"
+},
+{
+"path": "public/atlas/audio/ex2/grey.mp3",
+"bytes": 56885,
+"sha256": "9169290e5ed9543903d3cbcba1016e2459fd73c5f8b6ff644049015d187d4faf"
+},
+{
+"path": "public/atlas/audio/ex2/group.mp3",
+"bytes": 50407,
+"sha256": "92bb3b1aaf05c64ddc198414365d0223684aa2d15b04c14d21d8d3e02fc0110d"
+},
+{
+"path": "public/atlas/audio/ex2/grow.mp3",
+"bytes": 56258,
+"sha256": "dc032434617233ed20edd45b7e69afa12e95095fc11650e6cdb8333680e35add"
+},
+{
+"path": "public/atlas/audio/ex2/guest.mp3",
+"bytes": 49780,
+"sha256": "86ab62a0ddf4cbdab2be50a9c85e585a6fc44bdeb50ff2a656b3a9143b6458b4"
+},
+{
+"path": "public/atlas/audio/ex2/guide.mp3",
+"bytes": 54377,
+"sha256": "a69abf6365a9dd9139a5b11ee8b2b7549f301507e241d6e2f5c7169908800063"
 },
 {
 "path": "public/atlas/audio/ex2/guitar.mp3",
@@ -37093,9 +38703,49 @@
 "sha256": "3e5dd7fa2d8e3c4d627527b22abac5f68dae6d0bf67cc165f56dfdb89b4939cb"
 },
 {
+"path": "public/atlas/audio/ex2/hair.mp3",
+"bytes": 51034,
+"sha256": "f743693c1fee246b0ace26c6a9f5fe0716f9f1e644371815b2aa89612e515b39"
+},
+{
+"path": "public/atlas/audio/ex2/half.mp3",
+"bytes": 45391,
+"sha256": "85700398de89882c39437128fdff3de9e96dae074ad821ac2297e261977b36c5"
+},
+{
+"path": "public/atlas/audio/ex2/hall.mp3",
+"bytes": 53123,
+"sha256": "46d1ea0d10e3c1963aaa5f2ccbecad59552c99ea74b53d310924fcc96681ba32"
+},
+{
+"path": "public/atlas/audio/ex2/hand.mp3",
+"bytes": 46018,
+"sha256": "cf08fc756d7fc3b5c341980063f7c91e13f06fadb5115665c1b637b724848fdb"
+},
+{
+"path": "public/atlas/audio/ex2/happen.mp3",
+"bytes": 50407,
+"sha256": "88d0237c70422782a9bcb1673652d278bba6a2e5a7aadcf25b2c3a75052502f2"
+},
+{
+"path": "public/atlas/audio/ex2/hard.mp3",
+"bytes": 55004,
+"sha256": "98ecdf63e4053b56bc8ff6340ebea74f8f321300b4c43c545211fec57338625f"
+},
+{
+"path": "public/atlas/audio/ex2/hardworking.mp3",
+"bytes": 55004,
+"sha256": "a8a7e1378dd5ab4aa2886d14cd682d6ea63a1901a4f493a53987dbf1c46e4f8e"
+},
+{
 "path": "public/atlas/audio/ex2/hat.mp3",
 "bytes": 58139,
 "sha256": "c0b24e988ca04c70027615bc697b0b5ce2b7de01aef93be56eed68383c74b866"
+},
+{
+"path": "public/atlas/audio/ex2/hate.mp3",
+"bytes": 61274,
+"sha256": "800450738a55984259b75c1fddeafdd3af82449f63245298233e5b6873f2d417"
 },
 {
 "path": "public/atlas/audio/ex2/head.mp3",
@@ -37103,14 +38753,89 @@
 "sha256": "e2bf1eefe80dc7cdb009aced2b62c271b240443abb5794aee931598d0c54a910"
 },
 {
+"path": "public/atlas/audio/ex2/healthy.mp3",
+"bytes": 62736,
+"sha256": "99387680404cc864d49bc91a775aa165b2e7d1b3221e6cd1469a193c77646aac"
+},
+{
+"path": "public/atlas/audio/ex2/hear.mp3",
+"bytes": 55631,
+"sha256": "6970e9ba31bd38efde03e47b58f46a516d61f9e1d337397a977e895db2c37078"
+},
+{
+"path": "public/atlas/audio/ex2/hello.mp3",
+"bytes": 54377,
+"sha256": "8d2e54872ef85037db7061351b58717d3829c217eda9721c4bebc070e42354a7"
+},
+{
+"path": "public/atlas/audio/ex2/help.mp3",
+"bytes": 50407,
+"sha256": "475890e0b301ff8d7bd8ac333f7edf2b25089ec4db3bace274eb0497915ac8e0"
+},
+{
+"path": "public/atlas/audio/ex2/her.mp3",
+"bytes": 50407,
+"sha256": "5a950a3d0b028740f6b18a2c071f036bf7a1d658e8b106e4b6fdb594c1e25f40"
+},
+{
+"path": "public/atlas/audio/ex2/hey.mp3",
+"bytes": 60020,
+"sha256": "bef1f59fa7455762dbb1d047a0d4e73f3ff90f622769937bb1eecf6a4f33603f"
+},
+{
+"path": "public/atlas/audio/ex2/high.mp3",
+"bytes": 54377,
+"sha256": "59470334820b4cc1101b5c987be9af3b16b334ef1a9f682ecc541f4d39a64c34"
+},
+{
+"path": "public/atlas/audio/ex2/hill.mp3",
+"bytes": 56258,
+"sha256": "50f8a23f253a040220f82b7abdc5c98fca4bbcf88e8a08436da88587ac93c617"
+},
+{
 "path": "public/atlas/audio/ex2/him.mp3",
 "bytes": 52496,
 "sha256": "8f442dd537c65f4ca7dba9fc23e2d18ac7a44098a542fca40221f6e95f2ca6f1"
 },
 {
+"path": "public/atlas/audio/ex2/history.mp3",
+"bytes": 61274,
+"sha256": "9a77ff91c6eaca80a876dd2b69b4a62fb3c5f23dea79d6b8488e0ccd89d9c28d"
+},
+{
+"path": "public/atlas/audio/ex2/hobby.mp3",
+"bytes": 53750,
+"sha256": "c7dfc24649a89f2b93fed7e8d6ce58c58060b81063c41e640f55b083414829eb"
+},
+{
+"path": "public/atlas/audio/ex2/hole.mp3",
+"bytes": 45391,
+"sha256": "14cb7b96bdb02d672cf2c1c18ff55305a7359b4cacea62b4c2b07f207b1952d1"
+},
+{
 "path": "public/atlas/audio/ex2/holiday.mp3",
 "bytes": 63990,
 "sha256": "0bd833ca51fd77b543367ef478a4b010bc735349203ccce6619c3cf1a591636e"
+},
+{
+"path": "public/atlas/audio/ex2/home.mp3",
+"bytes": 53750,
+"sha256": "4938bb5d6a1ff5e2350a5a1946716f1fb7b2451b553896bae69fb9f0673eb008"
+},
+{
+"path": "public/atlas/audio/ex2/hometown.mp3",
+"bytes": 49153,
+"sha256": "b0eb6dd1f62098055427489f1b11bd612a25ce7a2eecdd924b37857bebfa0b1f"
+},
+{
+"path": "public/atlas/audio/ex2/homework.mp3",
+"bytes": 48526,
+"sha256": "dff9dd2dda7df3ae4939a5deceaa63572b2688ca1494eb4f0b918b148c6b9f34"
+},
+{
+"path": "public/atlas/audio/ex2/hope.mp3",
+"bytes": 49153,
+"sha256": "6fbd8b4f6ec33d9076c5813eebaa452b4e229f95b86404bf066ef2da3bde8eae"
 },
 {
 "path": "public/atlas/audio/ex2/horse.mp3",
@@ -37133,9 +38858,89 @@
 "sha256": "5387ee6e6898acb4d332d857878b3726c6b3bd9909d945c399cf6175092fa744"
 },
 {
+"path": "public/atlas/audio/ex2/hour.mp3",
+"bytes": 61900,
+"sha256": "1fdd5e0c9d6de4c26581c114ef016bcbbd65520f514c522376c15bee332405d7"
+},
+{
+"path": "public/atlas/audio/ex2/house.mp3",
+"bytes": 58766,
+"sha256": "abc4834ef3f1584f52af9513db991499cfe0b4897f4700c83958795524eefda1"
+},
+{
+"path": "public/atlas/audio/ex2/hundred.mp3",
+"bytes": 55004,
+"sha256": "1d8c967d679f3a871e530ab59b11ee52daa7c24ae2bcd1e0e0d44269f1b35c3e"
+},
+{
+"path": "public/atlas/audio/ex2/hungry.mp3",
+"bytes": 52496,
+"sha256": "2214aa27097b11f9bde8ec1df9bb960e1744260f02b17798832f52e2afd23f21"
+},
+{
 "path": "public/atlas/audio/ex2/husband.mp3",
 "bytes": 57512,
 "sha256": "da3d504dbe112cba1e1c0cf8fd30cab8d4ea329bf78cf1520c8209d16ea8a791"
+},
+{
+"path": "public/atlas/audio/ex2/ice.mp3",
+"bytes": 59393,
+"sha256": "dfdb489def6c1c410ca358d1dae8b8c38b6826f7b6b41256faf7a0678346d96e"
+},
+{
+"path": "public/atlas/audio/ex2/idea.mp3",
+"bytes": 60647,
+"sha256": "c8752d08e8b1df210eebea9510392405534593aa34bc4591daf1077c6a759876"
+},
+{
+"path": "public/atlas/audio/ex2/if.mp3",
+"bytes": 49780,
+"sha256": "811211cad4e99351bc32dc142410ab3015a33dcd4c21c41262c2a4b1b641a716"
+},
+{
+"path": "public/atlas/audio/ex2/important.mp3",
+"bytes": 57512,
+"sha256": "8b9e77fd74ba5dbc1e3a72655ed53be91487498ad325ac5b98a41dd81fcad746"
+},
+{
+"path": "public/atlas/audio/ex2/in.mp3",
+"bytes": 62736,
+"sha256": "bc1e977115e216eb318cd944071cd6000253637c487c08c5fdd351f320e11960"
+},
+{
+"path": "public/atlas/audio/ex2/include.mp3",
+"bytes": 59393,
+"sha256": "6ba5b7b22a3bfea59beed6d4c6580f2d6c7f425cdd6739c7e45759d18e67d582"
+},
+{
+"path": "public/atlas/audio/ex2/indoor.mp3",
+"bytes": 55004,
+"sha256": "8b6e28b21a3fc1a234142644f3f6cce9c3ed7c3be820fcd221a446c54c6dec21"
+},
+{
+"path": "public/atlas/audio/ex2/information.mp3",
+"bytes": 55631,
+"sha256": "77c6b93c3f779829a6b663c227e7f1ab6e116c4152d06a1492dbda47ba93b8c1"
+},
+{
+"path": "public/atlas/audio/ex2/insect.mp3",
+"bytes": 59393,
+"sha256": "e17e963a6457461f6f182db63050c01042777f3620cb0ef30d14ac8f6f6629c4"
+},
+{
+"path": "public/atlas/audio/ex2/inside.mp3",
+"bytes": 55631,
+"sha256": "5eb1af1723b517836181c28665f9ee4ed3c6b7f96db95504d07dc6715439c041"
+},
+{
+"path": "public/atlas/audio/ex2/interested.mp3",
+"bytes": 49153,
+"sha256": "b8d83da68e1d093a4f271df29ef023134e9fb34e2f851fedc799bb74e6d12ac0"
+},
+{
+"path": "public/atlas/audio/ex2/interesting.mp3",
+"bytes": 64617,
+"sha256": "06211dbcf0a7bca5d286a47542ff15f3d9212708875cdec8c5a230a848eec236"
 },
 {
 "path": "public/atlas/audio/ex2/internet.mp3",
@@ -37143,9 +38948,39 @@
 "sha256": "3176d756811fbc7cf018a80843b4c79a85bde706658187e973db49d6b08c5eb9"
 },
 {
+"path": "public/atlas/audio/ex2/into.mp3",
+"bytes": 67125,
+"sha256": "7485cfbb75f93cf76771ab606f615a01a190cb1632719ebe6e9740383c5cbb52"
+},
+{
+"path": "public/atlas/audio/ex2/invent.mp3",
+"bytes": 56885,
+"sha256": "140fdb2bd996ff007bd361a5003dcbaa02d5d50d4b0a1ce4a3db907b056e6bc1"
+},
+{
+"path": "public/atlas/audio/ex2/invite.mp3",
+"bytes": 55004,
+"sha256": "aeccfd134f124a9ba0a144185c2d6f021225d4b86c603a189a3abaeb95079f14"
+},
+{
+"path": "public/atlas/audio/ex2/irish.mp3",
+"bytes": 60647,
+"sha256": "13cade0eecc7205b5e5e506b597ee2b62d5624b53f17099b4cdcd097c579e9d0"
+},
+{
+"path": "public/atlas/audio/ex2/it.mp3",
+"bytes": 51660,
+"sha256": "06d846dcf1302ddf4e1fbd740de3b716ab35943d97ada8d2aa08c6a7e3acb528"
+},
+{
 "path": "public/atlas/audio/ex2/italian.mp3",
 "bytes": 61900,
 "sha256": "6ce69ede42aaf5317e8255160274a48cf1b626aca61fb480811c837b77689e81"
+},
+{
+"path": "public/atlas/audio/ex2/italy.mp3",
+"bytes": 61900,
+"sha256": "eaee87ee97387efea01cb1a362a8a8797f7dc2b83f3b603a13a65ee10ee7d5ea"
 },
 {
 "path": "public/atlas/audio/ex2/jacket.mp3",
@@ -37153,9 +38988,34 @@
 "sha256": "3463c1fbb20c36c15bf30c5f4da3231995af03b20aca68f61f9887516961f3bf"
 },
 {
+"path": "public/atlas/audio/ex2/january.mp3",
+"bytes": 51034,
+"sha256": "d893258b299ab798003bfc53266242e625713ed7f9270553dc109deb0f88e6c2"
+},
+{
+"path": "public/atlas/audio/ex2/japan.mp3",
+"bytes": 63363,
+"sha256": "d702eca24e6cd264d6789022d3b6335e58b5e474a5631150c6f9c16d554df848"
+},
+{
+"path": "public/atlas/audio/ex2/japanese.mp3",
+"bytes": 62736,
+"sha256": "b89a6da800149c8dd38eb42f4d8efe91b29e34370f0b4ebd368be303b2f8a9ba"
+},
+{
 "path": "public/atlas/audio/ex2/jeans.mp3",
 "bytes": 63363,
 "sha256": "a5cd9ab5702d1a76b487ddc689a1dfcdfa24f75ec7c912caf2995cb15fecfb4e"
+},
+{
+"path": "public/atlas/audio/ex2/jewellery.mp3",
+"bytes": 58766,
+"sha256": "637fa7054c0d46f314c360e2113684f44dbc6ea7f1c93cc45e4213385bff46ee"
+},
+{
+"path": "public/atlas/audio/ex2/jewelry.mp3",
+"bytes": 65871,
+"sha256": "152cf80e12d89e30ab9dc427695f28c01a0546e4bf2ebc34886abbccafd5ab59"
 },
 {
 "path": "public/atlas/audio/ex2/job.mp3",
@@ -37163,9 +39023,39 @@
 "sha256": "2504ef146308acc31210ec96d5513d0e19373097cb37b5a8dd07449572df17de"
 },
 {
+"path": "public/atlas/audio/ex2/join.mp3",
+"bytes": 51034,
+"sha256": "c768a3bb48875260b1f4a79a14cc22ee27d9138009c5610d328f81ee09e32f15"
+},
+{
+"path": "public/atlas/audio/ex2/joke.mp3",
+"bytes": 51034,
+"sha256": "1927120e56f7bb0f0d8e70974ba20d517323547937336f7cea13754c50d6b129"
+},
+{
 "path": "public/atlas/audio/ex2/juice.mp3",
 "bytes": 59393,
 "sha256": "5edb5e3c58a4c37c01ec45429a8ed7cc672194a53d9629a2ed13db077c724f4d"
+},
+{
+"path": "public/atlas/audio/ex2/july.mp3",
+"bytes": 64617,
+"sha256": "20c1a97880273143121ef9653bfe9ffaca74daf04fb767fe4cb0a4766ba5a5a9"
+},
+{
+"path": "public/atlas/audio/ex2/jump.mp3",
+"bytes": 53750,
+"sha256": "72188ff46309e3ef1a83daa425509e9500e4a56f5d262329479b4019bb73b908"
+},
+{
+"path": "public/atlas/audio/ex2/june.mp3",
+"bytes": 49153,
+"sha256": "f5b64172f112231effd17824566b4d60ce3fc754e187b3396dd7c924b7a9b4e9"
+},
+{
+"path": "public/atlas/audio/ex2/just.mp3",
+"bytes": 57512,
+"sha256": "8fb1c77ede6000a24f4a8e82e4a494a3bda118e8b0a9d6d78bb109c0165cfdef"
 },
 {
 "path": "public/atlas/audio/ex2/keep.mp3",
@@ -37173,9 +39063,29 @@
 "sha256": "77956dfd3e01d9044af7c016267653bcce941487759fdaddd4188d6d92202026"
 },
 {
+"path": "public/atlas/audio/ex2/ketchup.mp3",
+"bytes": 57512,
+"sha256": "b3347071f8464250b449160a4d71625379dcb15b2f9f1946956a24d1676571b9"
+},
+{
+"path": "public/atlas/audio/ex2/key.mp3",
+"bytes": 51034,
+"sha256": "f6caf54fc06388836da29a4cf81d9ef5e1c3ee6b8d8f36ac972ad147e772b61d"
+},
+{
 "path": "public/atlas/audio/ex2/kind.mp3",
 "bytes": 51034,
 "sha256": "4fd75f29a65d4880040d8d29da0df61321c54b611ceea15bab7b24789bc4cbab"
+},
+{
+"path": "public/atlas/audio/ex2/king.mp3",
+"bytes": 56258,
+"sha256": "052ddac15674adfcfc768935da41603bdbd33fd380d74edb65b387778f65bf88"
+},
+{
+"path": "public/atlas/audio/ex2/kiss.mp3",
+"bytes": 40167,
+"sha256": "b726a13100a554b6716f862aa1205d5bf9c6d943a1acb8929caf850a33e95ee5"
 },
 {
 "path": "public/atlas/audio/ex2/kitchen.mp3",
@@ -37183,14 +39093,74 @@
 "sha256": "3519408d29b468bfee6115243c69b732c472df676a9d7265f9065b8708e27de6"
 },
 {
+"path": "public/atlas/audio/ex2/kite.mp3",
+"bytes": 67752,
+"sha256": "d944113bac8750c1b93945341099fbd77aefadfa25d306dc70c858edae5b9d0f"
+},
+{
+"path": "public/atlas/audio/ex2/knife.mp3",
+"bytes": 42883,
+"sha256": "dfcd80850ed95efcc85da9ac66d74c853d5730d5fb5e650aff553263ab49602b"
+},
+{
+"path": "public/atlas/audio/ex2/knock.mp3",
+"bytes": 53750,
+"sha256": "5bbdd7fdd5d94b73fd98f99dc519138561a3ccd0050a2ca3e168173d34991df4"
+},
+{
+"path": "public/atlas/audio/ex2/know.mp3",
+"bytes": 53123,
+"sha256": "e847c31ffcc7c2ffb1e87894ceb4f00d69c9a025aef775eaa8133d428b78f848"
+},
+{
+"path": "public/atlas/audio/ex2/lady.mp3",
+"bytes": 44137,
+"sha256": "288471287129f02d0d03e928a34be662c56c045df8abd6e68fa12542c63a1e65"
+},
+{
+"path": "public/atlas/audio/ex2/language.mp3",
+"bytes": 57512,
+"sha256": "3ebc8914ed9a31922d23e431df5b74d86fbad0d2f1bffa4d64bca70ac26f2ab4"
+},
+{
+"path": "public/atlas/audio/ex2/large.mp3",
+"bytes": 62736,
+"sha256": "e45a3a2811f8bd3b9590d303ac8125a94e41fc13d15e43026aa207109a59fcfd"
+},
+{
 "path": "public/atlas/audio/ex2/last.mp3",
 "bytes": 49780,
 "sha256": "8f78d31ca4983bc1fd7a00bb4d7854da0efde25efa6abf65126e84cbd640619e"
 },
 {
+"path": "public/atlas/audio/ex2/late.mp3",
+"bytes": 50407,
+"sha256": "e006bb82b9b6ccc7224df3c8253e813c49f4e60c654ecec5188ebe5a41b785ca"
+},
+{
 "path": "public/atlas/audio/ex2/later.mp3",
 "bytes": 47899,
 "sha256": "f07884ff8c48e0615c5ce09d4944c79476cc964928dee9b554832099ff3f938e"
+},
+{
+"path": "public/atlas/audio/ex2/latest.mp3",
+"bytes": 51660,
+"sha256": "d14569edaa0be8a6263e2a0024df525fd218f4cc3e22fa37d1d66a7e6f72f7f7"
+},
+{
+"path": "public/atlas/audio/ex2/laugh.mp3",
+"bytes": 54377,
+"sha256": "e93f207237c3a52b95d98742574d168ac730a3ab503130376f883f611b4fb2d5"
+},
+{
+"path": "public/atlas/audio/ex2/lazy.mp3",
+"bytes": 58766,
+"sha256": "77bda174df5abf8f13cb79aea88b96cc6442705c1fc201f2af075a58fe906f3e"
+},
+{
+"path": "public/atlas/audio/ex2/learn.mp3",
+"bytes": 63990,
+"sha256": "468787b89f39a4ac66b6d2da5025bd52a0e16e4d9b61073ef29ab8cd22ed7165"
 },
 {
 "path": "public/atlas/audio/ex2/leave.mp3",
@@ -37206,6 +39176,16 @@
 "path": "public/atlas/audio/ex2/leg.mp3",
 "bytes": 49780,
 "sha256": "193d472235272522f88b6e135fd0258ae89d8cfaadcc76e8e70f7f704ac3dccf"
+},
+{
+"path": "public/atlas/audio/ex2/less.mp3",
+"bytes": 59393,
+"sha256": "72d320638f24babf6c348abc923bf5133b06d4ce494b9f12150adc86344ac8a4"
+},
+{
+"path": "public/atlas/audio/ex2/lesson.mp3",
+"bytes": 67752,
+"sha256": "01e029738b8ef75fe6f1364c2798820d25689e88117c83526c2a462d42d4db60"
 },
 {
 "path": "public/atlas/audio/ex2/let.mp3",
@@ -37228,9 +39208,24 @@
 "sha256": "8d09a5a8e320292cdc74ffb65a788442f65124b95b6bc85849cd10c2514e05de"
 },
 {
+"path": "public/atlas/audio/ex2/light.mp3",
+"bytes": 53750,
+"sha256": "7c48531c3c850bbccab86f26350d4fd9b09ccf92a96e4b0f93052b53665caeb4"
+},
+{
+"path": "public/atlas/audio/ex2/like.mp3",
+"bytes": 57512,
+"sha256": "d50f9cee0304b4b1099ce254426e7bd709031ff157f64a8c8b4e90188e96f7bd"
+},
+{
 "path": "public/atlas/audio/ex2/line.mp3",
 "bytes": 50407,
 "sha256": "33ff38a8a09ee371aa342eef230439fd71a7bfcc067eec43cfd0c21b9da5e6df"
+},
+{
+"path": "public/atlas/audio/ex2/lion.mp3",
+"bytes": 56885,
+"sha256": "cda775c9d9ea137d46308d5249b9cc2a4c5384b49ca5f03d5a7cc0c23e50da2b"
 },
 {
 "path": "public/atlas/audio/ex2/list.mp3",
@@ -37248,9 +39243,29 @@
 "sha256": "5ca09575630b3654eb9eeee80b3cf8fa3c4c371f0dd6ebfaf83f60f91db4bf21"
 },
 {
+"path": "public/atlas/audio/ex2/live.mp3",
+"bytes": 47272,
+"sha256": "6f013327df1de328942646b785e284b5136cf05df3dcc6ac28ce9f2078eaea6d"
+},
+{
 "path": "public/atlas/audio/ex2/london.mp3",
 "bytes": 66498,
 "sha256": "8c4b7ae2468361e5230581ce9397262f976b2da1b381631d18ff708faf1bbcbd"
+},
+{
+"path": "public/atlas/audio/ex2/lonely.mp3",
+"bytes": 64617,
+"sha256": "bdf3f62c36f87e11e68d7f27fbf7e5e9b62e43abe7ae4a520c124cad90f8af6a"
+},
+{
+"path": "public/atlas/audio/ex2/long.mp3",
+"bytes": 55004,
+"sha256": "2e3bdac30bd20374508b2e40f9ae8144e2fd57bd436316079ef7b9dc5004a9d5"
+},
+{
+"path": "public/atlas/audio/ex2/look.mp3",
+"bytes": 49153,
+"sha256": "4a711ffdcb6b4990e189b5836f82d0ab074d6eb3c7704770b364bafc3f6e2617"
 },
 {
 "path": "public/atlas/audio/ex2/lose.mp3",
@@ -37258,9 +39273,29 @@
 "sha256": "2caf109ed53d5804ff17c44dcb9e5e9bacaf6ca952c735734fd3013c52942a40"
 },
 {
+"path": "public/atlas/audio/ex2/lost.mp3",
+"bytes": 57512,
+"sha256": "c59f00ebee1125ce4361b6e2cc62b5e20589298a7c07e381e248403c9ecdcfe8"
+},
+{
+"path": "public/atlas/audio/ex2/lot.mp3",
+"bytes": 49153,
+"sha256": "a8be1857813ec19963411b0f15dfc8d0babb947637a761589775fed6b03c5eae"
+},
+{
+"path": "public/atlas/audio/ex2/love.mp3",
+"bytes": 50407,
+"sha256": "fa14ce74679e67140ae5bddf2a592d48cadbb8dc405e46470b21ad91ca9e8ad8"
+},
+{
 "path": "public/atlas/audio/ex2/low.mp3",
 "bytes": 51034,
 "sha256": "d42a727e921549344b34201ad2c439832b24e5fbc43b0488d6750ec35d04b368"
+},
+{
+"path": "public/atlas/audio/ex2/lower.mp3",
+"bytes": 52496,
+"sha256": "9dc4ce09767d1b021269d9f97cd45d33a771a287eb30ee083af7ae08efca2f41"
 },
 {
 "path": "public/atlas/audio/ex2/lucky.mp3",
@@ -37273,9 +39308,54 @@
 "sha256": "b3cdccf04a1dc601ef3ffc0aed64a7b03082b529bd3316d7dc4f027a4b9fdd45"
 },
 {
+"path": "public/atlas/audio/ex2/machine.mp3",
+"bytes": 58139,
+"sha256": "c60a973c7b83881c2b0f7e9a8f31ce830c26236f954b4d88e684124980ea7f1a"
+},
+{
+"path": "public/atlas/audio/ex2/madam.mp3",
+"bytes": 53750,
+"sha256": "5c3de4904a0e2ac2f4b9cb7295fa85720548679f235db8949d027fdf57f3099c"
+},
+{
 "path": "public/atlas/audio/ex2/magazine.mp3",
 "bytes": 50407,
 "sha256": "4a1c47028dd62f4729dd32fdba067e3be8c07471cb28db2702eccbb948753ae0"
+},
+{
+"path": "public/atlas/audio/ex2/mail.mp3",
+"bytes": 60020,
+"sha256": "eb8d738caf589f07e5aed564e928dc88ccd8b20db102ddd50e24f50b4dfc9d16"
+},
+{
+"path": "public/atlas/audio/ex2/make.mp3",
+"bytes": 56258,
+"sha256": "f984d2cad98a53262f00d825c692e37d7f844c2815abc86bcf838890c4b7460a"
+},
+{
+"path": "public/atlas/audio/ex2/male.mp3",
+"bytes": 59393,
+"sha256": "80c1548af7225522fd7a9e89aa78aa9b33382f968e43fb75ce0d8ec599307ad8"
+},
+{
+"path": "public/atlas/audio/ex2/mall.mp3",
+"bytes": 50407,
+"sha256": "7a86731602de849ee3390339a80ccc8fbf5f0570579c74d5efcd2fb87deb4aa5"
+},
+{
+"path": "public/atlas/audio/ex2/man.mp3",
+"bytes": 48526,
+"sha256": "ff41d7760a788a087e76a0aece8e9275b6a6f0847ea395809d62326e9fafad7d"
+},
+{
+"path": "public/atlas/audio/ex2/manager.mp3",
+"bytes": 64617,
+"sha256": "d6a0cbfa15577e68b2bba83ee67102dbbf9533e9f69895c6c6ae50b3fdd984dc"
+},
+{
+"path": "public/atlas/audio/ex2/many.mp3",
+"bytes": 53750,
+"sha256": "f3bd93648be12ac4167ada06baf565cdae60db0cbbb7358c1011202d88c6185f"
 },
 {
 "path": "public/atlas/audio/ex2/map.mp3",
@@ -37283,9 +39363,49 @@
 "sha256": "1f35e469e582d531089351b5f8831e643d83cd45ed361b17e4ae5c673df53ec4"
 },
 {
+"path": "public/atlas/audio/ex2/market.mp3",
+"bytes": 57512,
+"sha256": "d7ff7145d5f2c6be0d6bce3219069e7ae17f7d054fec95a9d950aa279e81821c"
+},
+{
+"path": "public/atlas/audio/ex2/married.mp3",
+"bytes": 66498,
+"sha256": "10e5d4970aa29fd2792c99094ab00cd0e0420e64cd1f0e286c51a2de7c93942f"
+},
+{
+"path": "public/atlas/audio/ex2/marry.mp3",
+"bytes": 48526,
+"sha256": "49084e4a74dc1802f3566eff9fad25abf397d677c5e7685ac815b17dc159ca60"
+},
+{
+"path": "public/atlas/audio/ex2/match.mp3",
+"bytes": 45391,
+"sha256": "d25a4930e76f7ac843b70c757922a334ec8f71431850c60aab4acdf9c53d1a28"
+},
+{
 "path": "public/atlas/audio/ex2/maths.mp3",
 "bytes": 55631,
 "sha256": "7b40a0580afedeedad96933a27d50d41142fd7574abdb2c3929c355a59eb7de2"
+},
+{
+"path": "public/atlas/audio/ex2/maybe.mp3",
+"bytes": 54377,
+"sha256": "2638487310acc8f933b537595a57dab0fba293748bb53fe82456893a4b5449e2"
+},
+{
+"path": "public/atlas/audio/ex2/meal.mp3",
+"bytes": 49780,
+"sha256": "1bc744f5e2a642349e0280c421831d2ed363c63846fb5331d42a5f11c5470cf6"
+},
+{
+"path": "public/atlas/audio/ex2/meaning.mp3",
+"bytes": 49780,
+"sha256": "f84cc49d78839a41195255f7846437508e6fc3e93c9a87700b4b3556eb4157b3"
+},
+{
+"path": "public/atlas/audio/ex2/meat.mp3",
+"bytes": 48526,
+"sha256": "5aa07f8b011c7d7da1c27cc5b169fd78e32bdde2aa7c8d1282164a4d794cdfc8"
 },
 {
 "path": "public/atlas/audio/ex2/meet.mp3",
@@ -37293,9 +39413,39 @@
 "sha256": "c11e6a77193bcf8036ed3a035dde7fb083db1f17bf202f22f3e6f3dfc4c6ef8a"
 },
 {
+"path": "public/atlas/audio/ex2/meeting.mp3",
+"bytes": 50407,
+"sha256": "9f9031a218116b69b6b6d2ac95d7c6001231dde675334d5b61bcb6407c5bbc98"
+},
+{
+"path": "public/atlas/audio/ex2/member.mp3",
+"bytes": 50407,
+"sha256": "3597fa0776a769e410205c77f648ccf72065153ca51b31dce7baa297c15c5309"
+},
+{
 "path": "public/atlas/audio/ex2/menu.mp3",
 "bytes": 55004,
 "sha256": "587700e809754489466b26aaa30f1063d88de5dce2b77a737e8b72d21465f278"
+},
+{
+"path": "public/atlas/audio/ex2/message.mp3",
+"bytes": 50407,
+"sha256": "af8e71cc6f7e15304141896fb24d6696bbebfe9f5ccdce27025205cd449e734b"
+},
+{
+"path": "public/atlas/audio/ex2/metal.mp3",
+"bytes": 56885,
+"sha256": "1ea479952d5faba205c0b469e07d75f8bd36c5df6e72296d0ad01604ca8094eb"
+},
+{
+"path": "public/atlas/audio/ex2/metre.mp3",
+"bytes": 53750,
+"sha256": "04e301b7d07dcb550635830a7c6be8b1b8bb33af863ee65475b2fad9c0eacba1"
+},
+{
+"path": "public/atlas/audio/ex2/metro.mp3",
+"bytes": 59393,
+"sha256": "274a50289e2823c1401800a7efbd4d661a007e1408f98a920473ec192a9fb7c6"
 },
 {
 "path": "public/atlas/audio/ex2/mexico.mp3",
@@ -37303,9 +39453,69 @@
 "sha256": "9c4f23b708cb0372b20ab6a137948ac92c84e753e76f3289c244a6d90d33374d"
 },
 {
+"path": "public/atlas/audio/ex2/mid-day.mp3",
+"bytes": 53750,
+"sha256": "74d0abe20e39efea728187c2b9d93904d95863e4e77502a06a94b5a8cb2d24f0"
+},
+{
+"path": "public/atlas/audio/ex2/middle.mp3",
+"bytes": 46018,
+"sha256": "042af92ffeae326b5c1f8a3e9a11771a45de0f27ff4d03a8583ffa946a0c8b73"
+},
+{
+"path": "public/atlas/audio/ex2/milk.mp3",
+"bytes": 54377,
+"sha256": "c6f2bd8941f0d04fcc22b2185f8b15c13de71fbcad92125deac065703fb53ec2"
+},
+{
 "path": "public/atlas/audio/ex2/minute.mp3",
 "bytes": 48526,
 "sha256": "966427699b348274ec5a87b439000c1aa7c1ae4532649d9944b1dfd5089c4c52"
+},
+{
+"path": "public/atlas/audio/ex2/miss.mp3",
+"bytes": 42883,
+"sha256": "99541607f2f97f2c690df7edd8641b5adc2cba088b6b3f17fd7bac32c073cd6d"
+},
+{
+"path": "public/atlas/audio/ex2/missed.mp3",
+"bytes": 49780,
+"sha256": "23c9fd410fdeed9cf5b133eb936cfd89dd56d940ae2203feb6a736902f8e3bbc"
+},
+{
+"path": "public/atlas/audio/ex2/mistake.mp3",
+"bytes": 46645,
+"sha256": "c8cbd3eb5b89d01ad20c269851f2e8f1b477fe581001c82d7d2945c7a838b920"
+},
+{
+"path": "public/atlas/audio/ex2/mister.mp3",
+"bytes": 52496,
+"sha256": "7e9a93f42a8a3f16dbbdf35e6809c7ea1e6d85fe51cd1121101d442f1040d62a"
+},
+{
+"path": "public/atlas/audio/ex2/model.mp3",
+"bytes": 51660,
+"sha256": "c6423a60f07a6c06e901af75fd331993fc981da35e88a9d9650fa6325aab075e"
+},
+{
+"path": "public/atlas/audio/ex2/moment.mp3",
+"bytes": 45391,
+"sha256": "49498a11329d8344a6721e3590ccab8f0d36db26f79a4c9ba1d64ad7a7071496"
+},
+{
+"path": "public/atlas/audio/ex2/monday.mp3",
+"bytes": 51660,
+"sha256": "03026cabfa154c9363af2f22612ac27b0c1480489b7ba961d947e147838cfd5f"
+},
+{
+"path": "public/atlas/audio/ex2/money.mp3",
+"bytes": 50407,
+"sha256": "8870ccfb96378c2fb6e142ddf314c08a375aff371e46375194c8915a0c7a8b84"
+},
+{
+"path": "public/atlas/audio/ex2/monkey.mp3",
+"bytes": 57512,
+"sha256": "ba6ab05aeb803772bd9644ad573a5bcca28a68379db939c5b5eecdb834e8d3fc"
 },
 {
 "path": "public/atlas/audio/ex2/month.mp3",
@@ -37313,9 +39523,24 @@
 "sha256": "3ef9b8972effed9a83b5d3129f2f7e3ac96043a375b03664223c7c1707e97a6b"
 },
 {
+"path": "public/atlas/audio/ex2/more.mp3",
+"bytes": 54377,
+"sha256": "81ec2a00649c774a1e47ba1afa8772e2b48b9cb5f91c4775e41ae7fe60be9873"
+},
+{
 "path": "public/atlas/audio/ex2/morning.mp3",
 "bytes": 46018,
 "sha256": "1ea60b2753062e8ade2b0225752cd77ddf6d1e337709b5a7e9ecdcdff1a9f7a6"
+},
+{
+"path": "public/atlas/audio/ex2/most.mp3",
+"bytes": 61274,
+"sha256": "12f477c903de54da141358d57c9b656f155ab0bf360907d4c113cc8e5b8ceec7"
+},
+{
+"path": "public/atlas/audio/ex2/mother-in-law.mp3",
+"bytes": 50407,
+"sha256": "c13d253968ba078a2a7d5f3334128ae06f472718a258bc424177da4f136a6ad9"
 },
 {
 "path": "public/atlas/audio/ex2/mother.mp3",
@@ -37323,9 +39548,34 @@
 "sha256": "113b698d66a53843101d480ad913c32d966b3ef9829d10e50308a0d061bedc15"
 },
 {
+"path": "public/atlas/audio/ex2/mountain.mp3",
+"bytes": 56258,
+"sha256": "60ef159fc0e22253e1c139104d55e537066231420831bffb28582663f8554f88"
+},
+{
+"path": "public/atlas/audio/ex2/mouse.mp3",
+"bytes": 54377,
+"sha256": "e5793d56fefec9d38aeb603ac6464cadaebbb0a297e9b19b1017fc4fea5b4063"
+},
+{
+"path": "public/atlas/audio/ex2/mouth.mp3",
+"bytes": 53750,
+"sha256": "747ff95393b7010e59f6d3ab91ffbca2f777cb9c3b27570efd61613d15bc23e3"
+},
+{
 "path": "public/atlas/audio/ex2/move.mp3",
 "bytes": 47272,
 "sha256": "2e4cdb43290fd6849d67205d96c8db4dee02850c61ed18d1104660539ea93eff"
+},
+{
+"path": "public/atlas/audio/ex2/movie.mp3",
+"bytes": 65871,
+"sha256": "c1502d39b15aaeb120e5539986cb633ae6056840afe9d80943925930f4482d9b"
+},
+{
+"path": "public/atlas/audio/ex2/much.mp3",
+"bytes": 54377,
+"sha256": "8bcbcaf4a34e37ce41ef38ba220693936d43b2b3a4a75285809dcf23006f956c"
 },
 {
 "path": "public/atlas/audio/ex2/museum.mp3",
@@ -37338,9 +39588,54 @@
 "sha256": "2ba4363ca158901f93a51a7877df2563ad308635eca73d1cccd3c0e9eb35a80b"
 },
 {
+"path": "public/atlas/audio/ex2/musician.mp3",
+"bytes": 60020,
+"sha256": "6cf26e83f847c26f50947a788ef6d0445e5715a113a5793c43eb22734fdfa61b"
+},
+{
+"path": "public/atlas/audio/ex2/must.mp3",
+"bytes": 58139,
+"sha256": "16c08a7b24677dd7aa1e33cc8ba73a3ce94ae16c8ced37124a0baffc319dafc7"
+},
+{
 "path": "public/atlas/audio/ex2/my.mp3",
 "bytes": 61900,
 "sha256": "3b1c0aad514dd668d6b6ddf21a51ff7e476f5c91eef12ae772d167992a7e726c"
+},
+{
+"path": "public/atlas/audio/ex2/name.mp3",
+"bytes": 50407,
+"sha256": "896a4ffa87c74087a58e4b423b56863f0819e0179ce506776db9ebfa95fdc453"
+},
+{
+"path": "public/atlas/audio/ex2/nationality.mp3",
+"bytes": 53750,
+"sha256": "390d70f9f5f583c50c0b3d9396bdef7acca4f5798e280724da00b15095636e0b"
+},
+{
+"path": "public/atlas/audio/ex2/natural.mp3",
+"bytes": 67752,
+"sha256": "1d09027c0bb5a8328fb064900b144bda00ca5b1f63bbab73211453a363431196"
+},
+{
+"path": "public/atlas/audio/ex2/near.mp3",
+"bytes": 55004,
+"sha256": "2208eada901975759681f001c0d6ec26e90f8a50e72b51cb472ade06d0a22039"
+},
+{
+"path": "public/atlas/audio/ex2/need.mp3",
+"bytes": 44764,
+"sha256": "e63884c23749396462654fe300d454d992eb022f030d6732d3dbb978be8f554a"
+},
+{
+"path": "public/atlas/audio/ex2/never.mp3",
+"bytes": 52496,
+"sha256": "daea8ee1ac1a112692ba4bcac086d453f3a552dcc2544baaa6346f457ca1df4c"
+},
+{
+"path": "public/atlas/audio/ex2/new.mp3",
+"bytes": 58139,
+"sha256": "953978720977eedb857ef13de1b5ff5fccc819477198e962d0c25b9b1cd9d993"
 },
 {
 "path": "public/atlas/audio/ex2/news.mp3",
@@ -37353,9 +39648,29 @@
 "sha256": "5f8af87f6078b708995ca2f1371261af41b6d4f9f883fe7b8a35dfa96b2680cb"
 },
 {
+"path": "public/atlas/audio/ex2/next.mp3",
+"bytes": 47272,
+"sha256": "22da02a1e485a4e4488fac119fbce28f44ea580c1778d7529a79bfe2cf5a9e5f"
+},
+{
+"path": "public/atlas/audio/ex2/nice.mp3",
+"bytes": 60020,
+"sha256": "e9a5b358e82edc16226e355b6e3fe40e3d06d6f0bf9bb3527e6f8228296d01f7"
+},
+{
 "path": "public/atlas/audio/ex2/night.mp3",
 "bytes": 52496,
 "sha256": "8685b3578fb4b4eb2282f70154620df0385ed612d3f3249742a3b9650cee10af"
+},
+{
+"path": "public/atlas/audio/ex2/nine.mp3",
+"bytes": 53123,
+"sha256": "ddaabfa058ef12ced90bdba8cbead64c92f5277309f56669870b870e335cef46"
+},
+{
+"path": "public/atlas/audio/ex2/nobody.mp3",
+"bytes": 46018,
+"sha256": "679e4a344390ed9f99f38f4b054ca26f120335fa1a4dc63a1c7de2e16107c5a7"
 },
 {
 "path": "public/atlas/audio/ex2/north.mp3",
@@ -37363,9 +39678,24 @@
 "sha256": "d33ebceb2abb2cb73aa5e682ab9a94b813b915914431f3b1fcdc2310d160c080"
 },
 {
+"path": "public/atlas/audio/ex2/northeast.mp3",
+"bytes": 52496,
+"sha256": "9340eaa7bdd112820787cec8797a5210eeb40db27dcbce8858f5c06c22d323e9"
+},
+{
 "path": "public/atlas/audio/ex2/nose.mp3",
 "bytes": 39540,
 "sha256": "9a82973627cdee245ca0ad41edfc620bdd3027d2aca60e067d8d8f1ae671dbf6"
+},
+{
+"path": "public/atlas/audio/ex2/note.mp3",
+"bytes": 47899,
+"sha256": "c04f0894d5bbcfc072132bbc45cede9ed7940a86e2ff2eefa087b7d39ffdb3c2"
+},
+{
+"path": "public/atlas/audio/ex2/notebook.mp3",
+"bytes": 58139,
+"sha256": "b30d54c3d8f840d36c72b972e4f5492760d3a6edd8b02c492d664602ca7c3bf5"
 },
 {
 "path": "public/atlas/audio/ex2/nothing.mp3",
@@ -37378,9 +39708,54 @@
 "sha256": "788d2ceb1a43c9ba50286e9454449204469eb4d6961b53c77edf4ab14d791764"
 },
 {
+"path": "public/atlas/audio/ex2/now.mp3",
+"bytes": 52496,
+"sha256": "174fc44d9b82850233e8525878dfc69013ddfaca345b12dbcff0f087efae30d7"
+},
+{
+"path": "public/atlas/audio/ex2/number.mp3",
+"bytes": 47272,
+"sha256": "f05fcc5bcfa7d1d0fe92845d22e90543769eeb9acf1de4ec891132c740bdfb03"
+},
+{
+"path": "public/atlas/audio/ex2/nurse.mp3",
+"bytes": 54377,
+"sha256": "c329f45ced8ff8eea83791d98df5d5b1961fd60437f3243f0585c532a5e6eed4"
+},
+{
 "path": "public/atlas/audio/ex2/o-clock.mp3",
 "bytes": 54377,
 "sha256": "63fac4a1f28e7d329350126a127922ff1580179bdfb94df0e9693980ad8e0c56"
+},
+{
+"path": "public/atlas/audio/ex2/october.mp3",
+"bytes": 73603,
+"sha256": "9fbfbfa54406acec20a063cb615af729aff90eadcca4c82da1b80d2aece66e78"
+},
+{
+"path": "public/atlas/audio/ex2/off.mp3",
+"bytes": 56885,
+"sha256": "d3549397a8b79b70c03b8d6be84dd268bc2a2e8382876a6eba15a97dea8263f4"
+},
+{
+"path": "public/atlas/audio/ex2/office.mp3",
+"bytes": 46018,
+"sha256": "157c7826fa8b0da7ece407040b1915bea7e3c95cb67aab52a666a95da3d27726"
+},
+{
+"path": "public/atlas/audio/ex2/often.mp3",
+"bytes": 49780,
+"sha256": "9f8ff4ba1fd3c65590c6fb4e49e99e562ba06b31c84deba61da44867c1c893d4"
+},
+{
+"path": "public/atlas/audio/ex2/old.mp3",
+"bytes": 55631,
+"sha256": "2e36756e223aed4f57295f1768d58328db92660a7aa31d5bd9e2eda2e06aba17"
+},
+{
+"path": "public/atlas/audio/ex2/on.mp3",
+"bytes": 62736,
+"sha256": "ab0e21a46af7b6ae0020f021ba6751829c037a19c68faa9cbc90468896f6676e"
 },
 {
 "path": "public/atlas/audio/ex2/once.mp3",
@@ -37388,9 +39763,44 @@
 "sha256": "09beeb93117b81643c0c4fed020f76b115b84d1ecd5074138db171d656dfad46"
 },
 {
+"path": "public/atlas/audio/ex2/one.mp3",
+"bytes": 49153,
+"sha256": "b5f08e51e0509d2ff4069fce0983024552fe87fb1fb20762898d2a00566b7783"
+},
+{
+"path": "public/atlas/audio/ex2/online.mp3",
+"bytes": 53123,
+"sha256": "bc7d145aa33e6a85f4fb30a90c1a6f467a5f2db770c7f6464cad3ef5f93c03fc"
+},
+{
+"path": "public/atlas/audio/ex2/open.mp3",
+"bytes": 55631,
+"sha256": "c75bb2b5a13b07ce892b9ed86caac4eecc034bf28d186e7fe7e3aa154d08f23d"
+},
+{
 "path": "public/atlas/audio/ex2/or.mp3",
 "bytes": 56258,
 "sha256": "69910e2997faea4c4a668be30096bce8fd67f9f794444f703ad3027c0884efac"
+},
+{
+"path": "public/atlas/audio/ex2/orange.mp3",
+"bytes": 46645,
+"sha256": "39d6f0820a2f644bb36afedb34c4589da5361cccb910bae17f8ad8f0e6152c31"
+},
+{
+"path": "public/atlas/audio/ex2/organise.mp3",
+"bytes": 55631,
+"sha256": "6d031661531a024856f13e23a31488175b7a8803248fc66f887d28841548efa6"
+},
+{
+"path": "public/atlas/audio/ex2/organize.mp3",
+"bytes": 55631,
+"sha256": "a193ac5b14f49ecfbdf72e1dfa757e8ae33a63661fbf48cb79557bb429ff2e04"
+},
+{
+"path": "public/atlas/audio/ex2/other.mp3",
+"bytes": 55004,
+"sha256": "8b7f1157cdd15d23cd4ca7f6848028f84db7236e652be163e5f71294f11ef393"
 },
 {
 "path": "public/atlas/audio/ex2/our.mp3",
@@ -37398,14 +39808,34 @@
 "sha256": "eb9bb2fb4bc931ea5adf8d842c825c5df4cdccbd3884f470d4d66264e6f84e4f"
 },
 {
+"path": "public/atlas/audio/ex2/out.mp3",
+"bytes": 53750,
+"sha256": "891e8980663615feb9271aff6457e4f4546bfbbd0aee107df38a702a771c886c"
+},
+{
 "path": "public/atlas/audio/ex2/outside.mp3",
 "bytes": 62736,
 "sha256": "643eab3c9410791486f125c5c14e2a918ccd67b05dfaa6dda041f5811e1b8c40"
 },
 {
+"path": "public/atlas/audio/ex2/over.mp3",
+"bytes": 46645,
+"sha256": "d2bbdc34301f7d1fa0f3df8a02af234e4796543a7d9c4f32dfd7bf1a8d99148d"
+},
+{
+"path": "public/atlas/audio/ex2/p-m.mp3",
+"bytes": 58139,
+"sha256": "f2431ceb88f4986837d6edd2b22a8ec5f03ebe840ec3062e5f02e57aebe5023a"
+},
+{
 "path": "public/atlas/audio/ex2/paint.mp3",
 "bytes": 63363,
 "sha256": "65786c1dfd81393acb00227640f90f314a4fce61767501f8924183c1575c20e6"
+},
+{
+"path": "public/atlas/audio/ex2/painter.mp3",
+"bytes": 55004,
+"sha256": "761b69dce7d5a1ef1b340b8df2339876788ef96b41ab81de15eb8b701f6a3c93"
 },
 {
 "path": "public/atlas/audio/ex2/painting.mp3",
@@ -37418,9 +39848,69 @@
 "sha256": "f7139288f81d5f0b0b9f5929daff79a815aaea38a3c7b604edac254b4a8368c0"
 },
 {
+"path": "public/atlas/audio/ex2/palace.mp3",
+"bytes": 52496,
+"sha256": "128ab91e2f5ce5779c0dde1e6d4c226c0f14b38ce06882195054ae54c367ceaf"
+},
+{
+"path": "public/atlas/audio/ex2/pants.mp3",
+"bytes": 51660,
+"sha256": "250c61895a2b2c80c23fdeab8f4f5efaeeb6cf317a47221f0bc83fc78278dd53"
+},
+{
+"path": "public/atlas/audio/ex2/paper.mp3",
+"bytes": 58766,
+"sha256": "5c39cc0675c1a44b3bf7bb31b744230a33f48e9c693932ae766cbf888f0b742e"
+},
+{
+"path": "public/atlas/audio/ex2/pardon.mp3",
+"bytes": 51660,
+"sha256": "f2305be8887be4bb31fc6106d4a906ab9b2d353bf9a0007dcf48beb8d1c08da3"
+},
+{
+"path": "public/atlas/audio/ex2/parent.mp3",
+"bytes": 59393,
+"sha256": "ed6d1f3c241eb1218b838144e2ff2fd48f87934c82480f501438a33b2474c410"
+},
+{
+"path": "public/atlas/audio/ex2/park.mp3",
+"bytes": 57512,
+"sha256": "5b4e50bec48031ed4d849e07a53353d238caf2e425bb9f714b4eee3f67a6c70f"
+},
+{
+"path": "public/atlas/audio/ex2/part-time.mp3",
+"bytes": 59393,
+"sha256": "6e85d8db3ad202624ef4b90f85d4bf326e9c42daecdf2a568288e136adcd3ecb"
+},
+{
+"path": "public/atlas/audio/ex2/partner.mp3",
+"bytes": 56885,
+"sha256": "0e332b3806d18564778ff3c8761e906c358de94030da631398f3ccf1e582323f"
+},
+{
+"path": "public/atlas/audio/ex2/party.mp3",
+"bytes": 56258,
+"sha256": "b6308e8ffd8c963e27f5794bd4176c5365fab0608e32890ce9f2b9309da8b704"
+},
+{
 "path": "public/atlas/audio/ex2/pasta.mp3",
 "bytes": 51034,
 "sha256": "bbd11e9b7501b23205e4d7b1ebb210bd4689b4caae6b073cfb1c69dc144dbe97"
+},
+{
+"path": "public/atlas/audio/ex2/path.mp3",
+"bytes": 49780,
+"sha256": "0296dc298480961683b7f3331067eb48f03c50a8b330b09a52a5fa53af045721"
+},
+{
+"path": "public/atlas/audio/ex2/pay.mp3",
+"bytes": 49780,
+"sha256": "08fdd03d28d305fff8fcb2464de314e5b29ac3fec2da666ad824bcf82a1355d0"
+},
+{
+"path": "public/atlas/audio/ex2/pc.mp3",
+"bytes": 59393,
+"sha256": "ec4b1547e53d261967728b1c08e70c4ec2d4c6e612c7b2e6c224c64b06715acf"
 },
 {
 "path": "public/atlas/audio/ex2/pen.mp3",
@@ -37428,9 +39918,59 @@
 "sha256": "492c307d5a34083b27e0675482374d84cc156465a0fafec0a40bfa11c8f0bb9f"
 },
 {
+"path": "public/atlas/audio/ex2/pencil.mp3",
+"bytes": 58139,
+"sha256": "a986d4f0c6e06ca87f7e19b53c6f69147178ebe0474d80596e49644127002a6a"
+},
+{
+"path": "public/atlas/audio/ex2/people.mp3",
+"bytes": 51034,
+"sha256": "1f5157d005af061dfebc877d3068178ecda6358187f0778e8370f90cc3696b7c"
+},
+{
+"path": "public/atlas/audio/ex2/person.mp3",
+"bytes": 51034,
+"sha256": "9bf0422f7b1ea169a55b4d480c2f16e2ee8c06feca331ae8d4804f8ca200f56c"
+},
+{
+"path": "public/atlas/audio/ex2/personal.mp3",
+"bytes": 58139,
+"sha256": "242ff65c92f241e87b3534b40b835d39c8b9573979df1f174417f1cb96e90d1f"
+},
+{
 "path": "public/atlas/audio/ex2/pet.mp3",
 "bytes": 48526,
 "sha256": "1552a8b1857daaf4252d4a20cfbfa05de96f69ddbc209f2366d6f666036548d5"
+},
+{
+"path": "public/atlas/audio/ex2/phone.mp3",
+"bytes": 54377,
+"sha256": "ff8eccfee58d838a2d6c018c33d3760a9fcc6e1e358885f7603d3909c5e47102"
+},
+{
+"path": "public/atlas/audio/ex2/photo.mp3",
+"bytes": 60020,
+"sha256": "ec16dc87f299953a368662792e481bf46bfb09035003ac735519687e69ce827c"
+},
+{
+"path": "public/atlas/audio/ex2/photocopier.mp3",
+"bytes": 58139,
+"sha256": "9b61c6a30eeb5fb94bf6b1f96ba23eb14cdff29e902deef9eb9f9ebf2be0eb84"
+},
+{
+"path": "public/atlas/audio/ex2/photograph.mp3",
+"bytes": 62736,
+"sha256": "19a1c7fbcff238da515016f90056ac7f429ff4fd1f934787452166f656ff47fc"
+},
+{
+"path": "public/atlas/audio/ex2/piano.mp3",
+"bytes": 52496,
+"sha256": "f5bef25488c2981d497641c1421e5076b6d00023a3beff7ed2559daba00b9d1e"
+},
+{
+"path": "public/atlas/audio/ex2/picnic.mp3",
+"bytes": 52496,
+"sha256": "241b94b058d90cec8a3b38736e0ce1f4b73b6b07a9e435196966a5bddf50e79e"
 },
 {
 "path": "public/atlas/audio/ex2/picture.mp3",
@@ -37438,9 +39978,19 @@
 "sha256": "08520fa7b9689ef548c1e3cad01e21bece02ffbd8dc266ee27134d706082a44c"
 },
 {
+"path": "public/atlas/audio/ex2/piece.mp3",
+"bytes": 53123,
+"sha256": "02e6156dbf5ce449e11bef66b20bdee47c76ade3c3ac549ef7952a7efdea0ba4"
+},
+{
 "path": "public/atlas/audio/ex2/pig.mp3",
 "bytes": 47899,
 "sha256": "70ee9b3ea8d3b2cb420dde0ce055cea9e11707b889a4ee44ed1ea3ee83fdd162"
+},
+{
+"path": "public/atlas/audio/ex2/pink.mp3",
+"bytes": 56258,
+"sha256": "fa66f1a7bf826a617ed71eb786f4757047b6210aa556b32bdba01ea668ca7545"
 },
 {
 "path": "public/atlas/audio/ex2/pizza.mp3",
@@ -37448,9 +39998,34 @@
 "sha256": "ffc2ea93e1224c27b1008bcb168e1e9f5543fb8f88536d7937e446ba926b77af"
 },
 {
+"path": "public/atlas/audio/ex2/place.mp3",
+"bytes": 60647,
+"sha256": "9f57d57cd7e8f199926213951607e40d31fc6e2ef097c284a1af8f7c23f54892"
+},
+{
+"path": "public/atlas/audio/ex2/plan.mp3",
+"bytes": 56885,
+"sha256": "a967099049a3da6bedb0a9c143f3d22dcfa9b733fe4ea7d84ddd2a7d83eea3d6"
+},
+{
 "path": "public/atlas/audio/ex2/plane.mp3",
 "bytes": 56885,
 "sha256": "581cb457c93b01d2925af208052e97dc43342604ee2607e69ffcfaf36104e2b6"
+},
+{
+"path": "public/atlas/audio/ex2/plant.mp3",
+"bytes": 54377,
+"sha256": "1b6ed4dc87617ab790a2c937239bc9f1a27ec9da53a5a709e0fd3607de8db1fb"
+},
+{
+"path": "public/atlas/audio/ex2/plastic.mp3",
+"bytes": 63363,
+"sha256": "81b26027f99b981e750f7b739b78da8344b2703ab479681ffc110af6cddcf669"
+},
+{
+"path": "public/atlas/audio/ex2/plate.mp3",
+"bytes": 53750,
+"sha256": "88d9727a2f4bfed2cc9362a329e48fecefd319986b680482bdd10ee411a81c52"
 },
 {
 "path": "public/atlas/audio/ex2/play.mp3",
@@ -37458,9 +40033,29 @@
 "sha256": "e803d5798bc59af4f506ecae99435816ef5e76566acb99112f168838b4a06152"
 },
 {
+"path": "public/atlas/audio/ex2/player.mp3",
+"bytes": 51660,
+"sha256": "23a90c43b08b81b1cee5a5501007ae904c5e93856f95b5e7bdaf239e55146080"
+},
+{
+"path": "public/atlas/audio/ex2/please.mp3",
+"bytes": 51034,
+"sha256": "de83b059a6a3aadc0fdf8ba5168464faaff197f8ade9b9b0e5db39923300f74b"
+},
+{
+"path": "public/atlas/audio/ex2/police.mp3",
+"bytes": 61274,
+"sha256": "4f16488786a82ab1ee00ae4ff645e12520cd994aa6470c65cb3ee0a08bb714d4"
+},
+{
 "path": "public/atlas/audio/ex2/policeman.mp3",
 "bytes": 44137,
 "sha256": "1210e6e18cecb4ab85ae548f6eea3f0bfa89c012006e52d15c235697cf829449"
+},
+{
+"path": "public/atlas/audio/ex2/polite.mp3",
+"bytes": 60647,
+"sha256": "f0de16eea36abd19279383595f7bfad8845d03c427204f69886b1dac3fc35329"
 },
 {
 "path": "public/atlas/audio/ex2/pool.mp3",
@@ -37471,6 +40066,26 @@
 "path": "public/atlas/audio/ex2/poor.mp3",
 "bytes": 52496,
 "sha256": "493e4728e22b1924cf2049f248c03073af7e4665a451e039ee7532c4541d1194"
+},
+{
+"path": "public/atlas/audio/ex2/portugal.mp3",
+"bytes": 65871,
+"sha256": "911b6b8e80f0d6ee09382388eebeac62d1bc55017b1de5a5033e16b80f40b4df"
+},
+{
+"path": "public/atlas/audio/ex2/portuguese.mp3",
+"bytes": 53750,
+"sha256": "704eb519e8973ce246a903b96a624466b9713d7dbd31c33fb1558ddf1adb4876"
+},
+{
+"path": "public/atlas/audio/ex2/possible.mp3",
+"bytes": 54377,
+"sha256": "07b8307784d7e73356509c607f026885c9f98a8f6338558c5a97bee678a960f2"
+},
+{
+"path": "public/atlas/audio/ex2/post-office.mp3",
+"bytes": 53123,
+"sha256": "befa8df92f23759d2efdfbcd3a4385c8a22cede226c6be39641aaabccf5062a8"
 },
 {
 "path": "public/atlas/audio/ex2/postcard.mp3",
@@ -37498,6 +40113,51 @@
 "sha256": "8a4db4f117183cbbd0ba8412e9ce97b009cd33c05065d91e700e775bd11f071a"
 },
 {
+"path": "public/atlas/audio/ex2/problem.mp3",
+"bytes": 63363,
+"sha256": "29e175aabc86dedbef0189ce6b612b89a0a7f188125be72dec8dea36198e02d3"
+},
+{
+"path": "public/atlas/audio/ex2/pronounce.mp3",
+"bytes": 56885,
+"sha256": "0c57a266fdc38edc0b817f8f6b2d18159ab5dd6d24c91ccfd15d98facf4d7b16"
+},
+{
+"path": "public/atlas/audio/ex2/pronunciation.mp3",
+"bytes": 58139,
+"sha256": "c7cd9b856c7a961b3b96f9049549d289fc57fde766e24d2c64fe8f8c7eac6b7b"
+},
+{
+"path": "public/atlas/audio/ex2/protect.mp3",
+"bytes": 63363,
+"sha256": "289167216fd5525a21e1d4e94c5f7e3deb17e516306fe4c1f5ca0ee221548244"
+},
+{
+"path": "public/atlas/audio/ex2/proud.mp3",
+"bytes": 50407,
+"sha256": "6631cb4bf30df9b48152b8e5ce97fdc514ad169e29585b0967a2f4f1d1204e77"
+},
+{
+"path": "public/atlas/audio/ex2/provide.mp3",
+"bytes": 58766,
+"sha256": "d3796f3cf0e752942ec28deea91bc2ef5362a4c026b45302785f8d4e562c6f1c"
+},
+{
+"path": "public/atlas/audio/ex2/pupil.mp3",
+"bytes": 51660,
+"sha256": "9388ad47d6f1b1eb319a82e519e395be6ce1e55cf22aec8abddc613904abb3a0"
+},
+{
+"path": "public/atlas/audio/ex2/puppy.mp3",
+"bytes": 55004,
+"sha256": "a5641a4ed181d5a0294769aca3264c9fea3e13b371ff7077f720efc87251aa7f"
+},
+{
+"path": "public/atlas/audio/ex2/purple.mp3",
+"bytes": 55631,
+"sha256": "4f70ec195c7b945c220fc12aee264fe17820e8a39c541deaeda1223a2440645f"
+},
+{
 "path": "public/atlas/audio/ex2/put.mp3",
 "bytes": 45391,
 "sha256": "e6808b06164b9f9e9af7ca7d2c878c50642844c7d7e067a4c240da403f3e997c"
@@ -37508,9 +40168,34 @@
 "sha256": "557030c210930bfd6d967cc68e0c8c459d1e7fba5257cfacac5217c9d5889c11"
 },
 {
+"path": "public/atlas/audio/ex2/quick.mp3",
+"bytes": 49780,
+"sha256": "62aed518bcc6be3560b2b4d23330e8077359b86bb98f93f22b816f188102a65b"
+},
+{
 "path": "public/atlas/audio/ex2/quickly.mp3",
 "bytes": 59393,
 "sha256": "f51b8eb19b4a9b5b895a7c758475bb7418d32400bf37a7efbf2d8880d3d67ff6"
+},
+{
+"path": "public/atlas/audio/ex2/quiet.mp3",
+"bytes": 50407,
+"sha256": "a952fd727938fa9f43a310371f8f7274ee45a737ff076c46a5aa06fe7751906f"
+},
+{
+"path": "public/atlas/audio/ex2/rabbit.mp3",
+"bytes": 60020,
+"sha256": "30fb96e487fff864e62c3f8a1b67521bfff94701979e7725b2b10f9e04187c5b"
+},
+{
+"path": "public/atlas/audio/ex2/radio.mp3",
+"bytes": 55004,
+"sha256": "bbf4a39f680b93e96f41af9a23defb4962405dd94d37a81aceabf75e6d45819d"
+},
+{
+"path": "public/atlas/audio/ex2/rain.mp3",
+"bytes": 56258,
+"sha256": "eaf63de098474b628861f7e78704800926d9ee0d52280e670de25030bdb8f34c"
 },
 {
 "path": "public/atlas/audio/ex2/rainy.mp3",
@@ -37518,9 +40203,29 @@
 "sha256": "32314af5472cb48bf23f847664233ff07439bcd0fb2e8802168dccb299b05bd5"
 },
 {
+"path": "public/atlas/audio/ex2/read.mp3",
+"bytes": 52496,
+"sha256": "a15de29a89f5c8f9246edf57eefea85572bf5413c47b545edd530a9a24345324"
+},
+{
+"path": "public/atlas/audio/ex2/reader.mp3",
+"bytes": 63363,
+"sha256": "5ec0149735a41f02157a900cb33846eaefbb587127a5bf4e112f8b0340aec983"
+},
+{
 "path": "public/atlas/audio/ex2/reading.mp3",
 "bytes": 57512,
 "sha256": "e3ddfb79217227eaf66fbf5b3952f75d9f1ba67fdf1723892e0f1bc91f23de13"
+},
+{
+"path": "public/atlas/audio/ex2/ready.mp3",
+"bytes": 47272,
+"sha256": "6f522ce274ec0ca705902634943a22f2e0e2afa9b506377452f52301b3bbef21"
+},
+{
+"path": "public/atlas/audio/ex2/real.mp3",
+"bytes": 63363,
+"sha256": "58063cbc5ce5cf050fc42fdc0eea125eb9eea582354dfa6dba55e0fda371113b"
 },
 {
 "path": "public/atlas/audio/ex2/really.mp3",
@@ -37528,9 +40233,44 @@
 "sha256": "01123a3ad3c07ca39f7bc493f647ffcd22ee0ee57e0a2ff5c70c7bd210272e56"
 },
 {
+"path": "public/atlas/audio/ex2/reason.mp3",
+"bytes": 52496,
+"sha256": "0c02b3e55c49f8b5fb1a7606cb8b82c5695fa9341171341648dba68e7acd05e8"
+},
+{
+"path": "public/atlas/audio/ex2/record.mp3",
+"bytes": 56885,
+"sha256": "b19cd1a8996be0ffb434e82e54555ff861de18d5093a95933aaff51f128218f8"
+},
+{
+"path": "public/atlas/audio/ex2/recorder.mp3",
+"bytes": 56885,
+"sha256": "4918de7c4a127abfefc6f302f8fea04108cf4eb73397221217eaa6090f02fc0d"
+},
+{
+"path": "public/atlas/audio/ex2/red.mp3",
+"bytes": 53123,
+"sha256": "2f1191d334e09bad94bc06400ca3c30e21bf836ed4089ece54b43db415308a72"
+},
+{
+"path": "public/atlas/audio/ex2/refuse.mp3",
+"bytes": 58139,
+"sha256": "7db1a70de94824be7997d859f4d72f05ce934ca0a760902a6e095cf2ad4ec19f"
+},
+{
+"path": "public/atlas/audio/ex2/relax.mp3",
+"bytes": 54377,
+"sha256": "6bf711e4dfec1158a9dbd2b5b52fccdde5bbb866e86a414d24128c8f8254ed1f"
+},
+{
 "path": "public/atlas/audio/ex2/remember.mp3",
 "bytes": 51660,
 "sha256": "596962062be0f4df0cd3d40a4e5069b285e8a843fd72ae788378d144b1892733"
+},
+{
+"path": "public/atlas/audio/ex2/repeat.mp3",
+"bytes": 59393,
+"sha256": "945138fa78e3fd769135ec3c3ac4325228feedb64a156e2cb83802970d433147"
 },
 {
 "path": "public/atlas/audio/ex2/rest.mp3",
@@ -37543,9 +40283,29 @@
 "sha256": "6748b300d5972f10918e0f4ec359340b912904fe9a2300f5171205b3c63ca459"
 },
 {
+"path": "public/atlas/audio/ex2/result.mp3",
+"bytes": 57512,
+"sha256": "b2b220087727a9f95909f9a3da27dafc70c6605750a2257705817cf191a30b7f"
+},
+{
+"path": "public/atlas/audio/ex2/rice.mp3",
+"bytes": 55004,
+"sha256": "43b0ba4ddd28c1f012a405a5b8a4287ee542288b847e2da5ed852c13564d40cf"
+},
+{
+"path": "public/atlas/audio/ex2/rich.mp3",
+"bytes": 53123,
+"sha256": "56db3cc00ff24ceecb984bd76d45cc6d98fbede6480326a46a6899b047fb9d32"
+},
+{
 "path": "public/atlas/audio/ex2/ride.mp3",
 "bytes": 55004,
 "sha256": "71655729e33ed8f72cca92d17a16f4af07bc21bf692c04fa83a5ecfb83bd9e6d"
+},
+{
+"path": "public/atlas/audio/ex2/right.mp3",
+"bytes": 50407,
+"sha256": "24cfca7fec9203f643588b2ad69ef1fdb7cfe6ca8f986cbc9b3e87af5e846630"
 },
 {
 "path": "public/atlas/audio/ex2/river.mp3",
@@ -37558,14 +40318,119 @@
 "sha256": "1877df7f7a69e68593aac500986a2ab187d5e1825076b7dc48f178be827cb683"
 },
 {
+"path": "public/atlas/audio/ex2/rome.mp3",
+"bytes": 55004,
+"sha256": "021bfb464db80256bce521971cf53bfcd87541d1097cac131a570fae0896c155"
+},
+{
 "path": "public/atlas/audio/ex2/room.mp3",
 "bytes": 56885,
 "sha256": "b7fee3fcac6b30c6b369e0e4a82ab347573408f5c4b49db16bd599d4205cedcc"
 },
 {
+"path": "public/atlas/audio/ex2/rude.mp3",
+"bytes": 51034,
+"sha256": "5a410f77b7a0bd475f604f1137eab13d8b67518409aebc11f6cb205b5793a933"
+},
+{
+"path": "public/atlas/audio/ex2/rule.mp3",
+"bytes": 55004,
+"sha256": "fd323c8b3739fdc99d42ae02d586662f71c997b0e00182aae98a993957663470"
+},
+{
+"path": "public/atlas/audio/ex2/ruler.mp3",
+"bytes": 58139,
+"sha256": "76eabafcaf3f32b2045aab863474b47d43cc58663c5f59f61e83aff69bb7b724"
+},
+{
+"path": "public/atlas/audio/ex2/run.mp3",
+"bytes": 55631,
+"sha256": "c4a7bdc48260564b2c49f2283b947d7079bdd513afc5bcadc3af12fb450dbc3f"
+},
+{
+"path": "public/atlas/audio/ex2/russian.mp3",
+"bytes": 65244,
+"sha256": "e80e81d8f2b4c030f6c9c6bfd8a4884e417cc57c78c36f45817b35f0f331a968"
+},
+{
+"path": "public/atlas/audio/ex2/salad.mp3",
+"bytes": 51034,
+"sha256": "2e199e9ef2595837ca37fc334f6ae7722eb5963998914c41f0bf29790fa3ee96"
+},
+{
+"path": "public/atlas/audio/ex2/salt.mp3",
+"bytes": 39540,
+"sha256": "ee44fb3d057f1b21d0a0cad62d7e52fc5a79b7b98c6f08bd252bbec1f0b1301d"
+},
+{
+"path": "public/atlas/audio/ex2/same.mp3",
+"bytes": 60647,
+"sha256": "717e98025c1948466ddf46b440f1e102bca1091d4b06356b2c39e5a55f932dad"
+},
+{
+"path": "public/atlas/audio/ex2/sandwich.mp3",
+"bytes": 56258,
+"sha256": "49972a99b10a807b09faac7b472eb82913abb89e308d935bd1476ab9e0f2f825"
+},
+{
 "path": "public/atlas/audio/ex2/saturday.mp3",
 "bytes": 60647,
 "sha256": "fd188b79216c215bf131d6b73e6db8ac83922b852b57bbb8c8ce6000100656bd"
+},
+{
+"path": "public/atlas/audio/ex2/sausage.mp3",
+"bytes": 55004,
+"sha256": "bc8e4991ddb5e93ca7d2f8672ab58c29aaf83203966a78337be9ad5cf95d98dc"
+},
+{
+"path": "public/atlas/audio/ex2/save.mp3",
+"bytes": 53123,
+"sha256": "6090f774c71f0179275e9a711ef1a298236fa8086221f8856049788edffab6ae"
+},
+{
+"path": "public/atlas/audio/ex2/saw.mp3",
+"bytes": 58139,
+"sha256": "aaf7f1f5d271de7884e18e485d0263e1f82af74fb50ed8ab25cdcfbcf7f9d49a"
+},
+{
+"path": "public/atlas/audio/ex2/say.mp3",
+"bytes": 50407,
+"sha256": "9544d85f2618fd2f9520ee7e130356f2c39c1ddbec920515ff41aaa023407df0"
+},
+{
+"path": "public/atlas/audio/ex2/scared.mp3",
+"bytes": 45391,
+"sha256": "0f2e15168fdf4e231c21fa3efee01b7c43c09ea2b4e538dbf1ef621bcebd764a"
+},
+{
+"path": "public/atlas/audio/ex2/scary.mp3",
+"bytes": 49780,
+"sha256": "8e102acd2250e6e6dfda76db4632ae345ff57e29bf5aa6b7cc812955d3452f75"
+},
+{
+"path": "public/atlas/audio/ex2/school.mp3",
+"bytes": 55004,
+"sha256": "dce8af4cdd6baa8e99269cdd228fac7c013d106f59700f3f7ee8cc2513187c1b"
+},
+{
+"path": "public/atlas/audio/ex2/science.mp3",
+"bytes": 49780,
+"sha256": "ccbef7c86f795201850810679689446381baa8099c3691cb556ef7704d2ba6a1"
+},
+{
+"path": "public/atlas/audio/ex2/screen.mp3",
+"bytes": 55631,
+"sha256": "1e29a3f1840b0403382cfa31bf2539711dc7c6879a5436fa4676f06bfae97c14"
+},
+{
+"path": "public/atlas/audio/ex2/sea.mp3",
+"bytes": 54377,
+"sha256": "f547d606c2ef67d7c3959d69e36fc91b3cea042b7286f7a1e0ef85eb5739d10f"
+},
+{
+"path": "public/atlas/audio/ex2/seat.mp3",
+"bytes": 52496,
+"sha256": "0d5af25b8184c55612841793a0018c79234e54995e39795cdaadd1f3041414d0"
 },
 {
 "path": "public/atlas/audio/ex2/second.mp3",
@@ -37578,14 +40443,49 @@
 "sha256": "434ec61ad3a31d9d49698ec8a6d82289dd9569e7a22debde3607d5a66265fe0d"
 },
 {
+"path": "public/atlas/audio/ex2/sell.mp3",
+"bytes": 52496,
+"sha256": "145e37df2d7b3c38f751617a6b0e96627133dd5736b3f3a13c430ef2e334df10"
+},
+{
 "path": "public/atlas/audio/ex2/send.mp3",
 "bytes": 49153,
 "sha256": "279c68cda7e3ae3ce820b793626941b5b125c7e9ce4d62ef069f2d691f5ba88c"
 },
 {
+"path": "public/atlas/audio/ex2/sentence.mp3",
+"bytes": 54377,
+"sha256": "fac19d62bd7e420716a7eb80dd6bafc4114a5eabde4881ed7813bdd8d4d54bf3"
+},
+{
 "path": "public/atlas/audio/ex2/september.mp3",
 "bytes": 64617,
 "sha256": "7929c4ebaab40afe81ca69d35eace5f7f6ce8dac34e1876bb21b6b3567e946c0"
+},
+{
+"path": "public/atlas/audio/ex2/serious.mp3",
+"bytes": 49153,
+"sha256": "e79891e9f63b781323e7007502bce1e05024b3522779e19fd68290b02c2a3f6d"
+},
+{
+"path": "public/atlas/audio/ex2/seventeen.mp3",
+"bytes": 48526,
+"sha256": "93bb7ec416e1857d19687452efc90c0c332c742681c529acb11a43faf59bb6db"
+},
+{
+"path": "public/atlas/audio/ex2/seventh.mp3",
+"bytes": 50407,
+"sha256": "8d54a0c6f0ef6fc1a96c0cfe0cf8f3276ae457830498fbac5884b1b27ecc81f3"
+},
+{
+"path": "public/atlas/audio/ex2/sheep.mp3",
+"bytes": 56885,
+"sha256": "5e0083e792e10f96d16012dc7c73bb1446c0a1ba79c8be9d0995a8f2f42b0cd9"
+},
+{
+"path": "public/atlas/audio/ex2/shirt.mp3",
+"bytes": 49153,
+"sha256": "6a62fd4c03f64e0452873fd74650532d6f221632b5f1c1a6456b60f6e050bc59"
 },
 {
 "path": "public/atlas/audio/ex2/shoe.mp3",
@@ -37598,9 +40498,54 @@
 "sha256": "bb22049ca2b631508f02daab6ab6d58d9cd56e909bbb9268ffe1819f30839b14"
 },
 {
+"path": "public/atlas/audio/ex2/shopping.mp3",
+"bytes": 53123,
+"sha256": "69d03f9c4295c2261cf4d048cd9bb089e7e776d2f0de1609acc982ddbb18f2f0"
+},
+{
+"path": "public/atlas/audio/ex2/short.mp3",
+"bytes": 57512,
+"sha256": "69e7d9decf44fe07521c616e0a1d3b492638643b1cec4d3238a4ed61931de80a"
+},
+{
+"path": "public/atlas/audio/ex2/show.mp3",
+"bytes": 52496,
+"sha256": "93922cf9ab059e83b5020d5542a137ad083e7ff87417da50ba8e0ab455a579c5"
+},
+{
+"path": "public/atlas/audio/ex2/shower.mp3",
+"bytes": 52496,
+"sha256": "2822c76f56531f2f31e7336167d27a3ea1e62d69428fbd079ec4f04fbccb2e5a"
+},
+{
 "path": "public/atlas/audio/ex2/side.mp3",
 "bytes": 47272,
 "sha256": "eabe92569a0d3a7701bcb2e2bf44a3018792d5d226027548d2982b5278961f55"
+},
+{
+"path": "public/atlas/audio/ex2/simple.mp3",
+"bytes": 52496,
+"sha256": "69c1312e0494c491cc387d3c374156e5877ecf36c80dc243282d5f45545f3a31"
+},
+{
+"path": "public/atlas/audio/ex2/since.mp3",
+"bytes": 55631,
+"sha256": "16a10594dd1e97fd11538a6b8783dd5b93f9a3da084fb1750460f25f448b94cd"
+},
+{
+"path": "public/atlas/audio/ex2/sing.mp3",
+"bytes": 55004,
+"sha256": "d5b3c6453cf4ff6f9cb419ff7b63c269c89193262ecf95f74de0285d71a8ca4b"
+},
+{
+"path": "public/atlas/audio/ex2/singer.mp3",
+"bytes": 62736,
+"sha256": "67284d72ce6297d650b63be577cfe743ae1421e94e836c9e942eb9c95dca9067"
+},
+{
+"path": "public/atlas/audio/ex2/single.mp3",
+"bytes": 53123,
+"sha256": "7c67b51be7784dac3826b35964cde352d3b8b3e37d759d3122f635f5f041291b"
 },
 {
 "path": "public/atlas/audio/ex2/sister.mp3",
@@ -37608,14 +40553,74 @@
 "sha256": "cfcee338bcabc40a1fb52f3aab8ba8d11575c666d143d8ff97d3523d9e576ffb"
 },
 {
+"path": "public/atlas/audio/ex2/sit.mp3",
+"bytes": 44137,
+"sha256": "67ab9b7355cc0f495c45a6c9e75204b601bb330e9b1f2a0756ddf60b836d4a68"
+},
+{
+"path": "public/atlas/audio/ex2/sixteen.mp3",
+"bytes": 58139,
+"sha256": "002e7b555c271988ac1cf7d242964fa913a59fede1daaaafd2d7e3b7c0435193"
+},
+{
 "path": "public/atlas/audio/ex2/sixty.mp3",
 "bytes": 53123,
 "sha256": "664ead5e0ba23560ad342d00eba482d70a5729c6baa3110ac17cc9fd470683e5"
 },
 {
+"path": "public/atlas/audio/ex2/size.mp3",
+"bytes": 54377,
+"sha256": "253c535f7863d8b0e659bfe6fdeb1d8ff7ab43eb02c51ed424eabf0a58f8606a"
+},
+{
+"path": "public/atlas/audio/ex2/ski.mp3",
+"bytes": 56885,
+"sha256": "7a7efdca797af1b06129fbadf8f6da55d92abb649c1ccb1dfb7602a818274bd2"
+},
+{
+"path": "public/atlas/audio/ex2/skill.mp3",
+"bytes": 48526,
+"sha256": "e6124081d4f1491433087b92c675105c84bffac7ef3ad747b601ba79886510ee"
+},
+{
 "path": "public/atlas/audio/ex2/skirt.mp3",
 "bytes": 44137,
 "sha256": "97f993953ea37fb0ab0b2cd2d79bdfe7e673df33fb46d12c5d4d79914d5ba93c"
+},
+{
+"path": "public/atlas/audio/ex2/sky.mp3",
+"bytes": 44764,
+"sha256": "0c9a38dfcbd50265b26df9204def11320af22b71f05c0b1afd59f7f9db26f01f"
+},
+{
+"path": "public/atlas/audio/ex2/sleep.mp3",
+"bytes": 61900,
+"sha256": "5a652173771e3e3b76f696a862c06f19b6bb774b63cc34ba61d0525fb2fb44bd"
+},
+{
+"path": "public/atlas/audio/ex2/slice.mp3",
+"bytes": 54377,
+"sha256": "895c34e6740d7b8f5d08e525ce89cbf3f75f29ce8914aa830d2647b1e790807e"
+},
+{
+"path": "public/atlas/audio/ex2/slow.mp3",
+"bytes": 52496,
+"sha256": "1dde358fa8d7273188a9c2101d0834b771a3fcbf6e3680eaab57e08bbb403159"
+},
+{
+"path": "public/atlas/audio/ex2/slowly.mp3",
+"bytes": 57512,
+"sha256": "0a13ef0e0eff2e1e507993fe58ec7a2376c737195cc6496fd94674b45a1684b6"
+},
+{
+"path": "public/atlas/audio/ex2/small.mp3",
+"bytes": 51034,
+"sha256": "b706b5d36b2dce27e3597582c167b2197f6e7e8602a79461278dda911bd6ac53"
+},
+{
+"path": "public/atlas/audio/ex2/smart.mp3",
+"bytes": 49780,
+"sha256": "b8f3d9a8488ecea3a7d59db24816273d681b30e71c6b08978e9759f9554e9f18"
 },
 {
 "path": "public/atlas/audio/ex2/smell.mp3",
@@ -37628,9 +40633,59 @@
 "sha256": "90840fbcd9a7ad3273c7f7fba79a3625c4d53c11161795ff01f013e462fdad13"
 },
 {
+"path": "public/atlas/audio/ex2/snack.mp3",
+"bytes": 51660,
+"sha256": "668a84561eaa26c153c3c05ac937f9a1199f087634a6a41f2bb13bdd84d02e90"
+},
+{
+"path": "public/atlas/audio/ex2/snake.mp3",
+"bytes": 65244,
+"sha256": "5ed8ed2d17ba0b90c7779f3e800ba07a5269cd314f907f93b17ac8243359cc56"
+},
+{
+"path": "public/atlas/audio/ex2/sneaker.mp3",
+"bytes": 60020,
+"sha256": "78d7a536fe86dce21f299e801c73a698705745a8481b01e12d2c973c5a0150ed"
+},
+{
+"path": "public/atlas/audio/ex2/snow.mp3",
+"bytes": 53750,
+"sha256": "c5551eed030c2f32c2f6d141b513793d55a57484626cdb7063769b9bf944ee22"
+},
+{
+"path": "public/atlas/audio/ex2/so.mp3",
+"bytes": 57512,
+"sha256": "f53b24ca30cb106815c0420c518158baadd1a4857dc1e7c1fd4c1aa2a68f7c02"
+},
+{
+"path": "public/atlas/audio/ex2/social.mp3",
+"bytes": 61900,
+"sha256": "0d495858e7673bef653068ae584f45bce16c9505d7de04f33dc07d321aa87e39"
+},
+{
 "path": "public/atlas/audio/ex2/sock.mp3",
 "bytes": 51660,
 "sha256": "c4a15e2834f2b3b68540209a6629f5ddf9ffc1e4e36121b00620236cb69469e2"
+},
+{
+"path": "public/atlas/audio/ex2/sofa.mp3",
+"bytes": 42256,
+"sha256": "d621534895aab16cdb5b1f88d5d13b8d34eb5cb8f3c126032c737f0c2a997aae"
+},
+{
+"path": "public/atlas/audio/ex2/some.mp3",
+"bytes": 50407,
+"sha256": "c4fce0ffafcad57c553bf4b397b4b3383fc0a3ec47c86afeeb4c00a204af0605"
+},
+{
+"path": "public/atlas/audio/ex2/somebody.mp3",
+"bytes": 43510,
+"sha256": "00181548cfa6f49feaa562b36f1165a18779ba4cbbdfebaf590d1f5c7c180b49"
+},
+{
+"path": "public/atlas/audio/ex2/someone.mp3",
+"bytes": 51660,
+"sha256": "17f0e64dcbb39e9b61bb79084d4ec84ff2e6e3b7155682f01d6f54767490fbb6"
 },
 {
 "path": "public/atlas/audio/ex2/something.mp3",
@@ -37643,9 +40698,44 @@
 "sha256": "d2c87a46cb3bbbf09951a4271c3cde49effd5bde2fed8713fb843af1938b8668"
 },
 {
+"path": "public/atlas/audio/ex2/son.mp3",
+"bytes": 53750,
+"sha256": "a7964d68b8192ea0f7ec4a60677df403ed6c8f5b69bc305d4f687d939b6b595a"
+},
+{
 "path": "public/atlas/audio/ex2/soon.mp3",
 "bytes": 56885,
 "sha256": "1dc34bf42bd77026029425169a7b9314350084c8c63605da8c0ac8ba5a4541ed"
+},
+{
+"path": "public/atlas/audio/ex2/sorry.mp3",
+"bytes": 62736,
+"sha256": "c8e297a53fa9a9bea1a6aa099e31c30e4301d65f1780df33799886bafd447641"
+},
+{
+"path": "public/atlas/audio/ex2/sound.mp3",
+"bytes": 56885,
+"sha256": "b67ae27e938e0e4114840141f9d8b1592818e54b8a73ee46cf090782b5a38783"
+},
+{
+"path": "public/atlas/audio/ex2/soup.mp3",
+"bytes": 65871,
+"sha256": "fa5be33703f2bb49e1612d5c42b363b0764dabc1a238e40237b2a01d461a61be"
+},
+{
+"path": "public/atlas/audio/ex2/south.mp3",
+"bytes": 49153,
+"sha256": "7273f8329e246c3e3e6e144ad4d5be346ab5eb45bf542063f806c1b6e753c488"
+},
+{
+"path": "public/atlas/audio/ex2/space.mp3",
+"bytes": 59393,
+"sha256": "9d1c21055a527a0a34456ce38538a06eec4c9b509a67a3e77d79dfa0feac2bcd"
+},
+{
+"path": "public/atlas/audio/ex2/spaghetti.mp3",
+"bytes": 54377,
+"sha256": "807034035b1bdc087f2d155027a2dbf279469ad324928c027adf3d9139162f89"
 },
 {
 "path": "public/atlas/audio/ex2/spain.mp3",
@@ -37653,9 +40743,49 @@
 "sha256": "f3b6d5ac6d8cf32bd35f9d9b315ffb1eeae2e9b556e7e202edcc72f9854d6186"
 },
 {
+"path": "public/atlas/audio/ex2/spanish.mp3",
+"bytes": 56258,
+"sha256": "47a0a05bef8aaafb83c5b3e056ae92867ce2a9ad4e2628a05f4065deaebc1b4b"
+},
+{
+"path": "public/atlas/audio/ex2/speak.mp3",
+"bytes": 49153,
+"sha256": "5335ee3c544fa9284c6b2b2c8f7af1757b2a17ee0dc1574237a5fa0b859fc8cd"
+},
+{
+"path": "public/atlas/audio/ex2/special.mp3",
+"bytes": 57512,
+"sha256": "f7e4e9d96a12628c9b6d74ba829015fa1763770d84923c983690331c42a40d80"
+},
+{
+"path": "public/atlas/audio/ex2/spell.mp3",
+"bytes": 52496,
+"sha256": "9c9f4d95adf07f9aeed579cd5b9c2a536996c390c9119b3c44a9b244ec93400e"
+},
+{
+"path": "public/atlas/audio/ex2/spend.mp3",
+"bytes": 51034,
+"sha256": "1b789c63d77c6c06e665fb01a74ea6333edaa4ddf2eec5ada5a04deb2d2f340f"
+},
+{
+"path": "public/atlas/audio/ex2/sport.mp3",
+"bytes": 51660,
+"sha256": "0a4170731482265427f81c1f3497c88c1e6421acbb7080dd1ba554acb4624d12"
+},
+{
 "path": "public/atlas/audio/ex2/spring.mp3",
 "bytes": 52496,
 "sha256": "5b2b2838be366fb0385e411372c40f6b93764b4ed7cda67faf824a924d75323f"
+},
+{
+"path": "public/atlas/audio/ex2/stadium.mp3",
+"bytes": 56885,
+"sha256": "339919bf2f5288715f9a5b770205a10b2b5f99c00d29efca35392c4bcfb59c5b"
+},
+{
+"path": "public/atlas/audio/ex2/stand.mp3",
+"bytes": 45391,
+"sha256": "a2f42aee42858ef28aee503e5fadf1205cd98f88074483f8ce87125c906c4151"
 },
 {
 "path": "public/atlas/audio/ex2/star.mp3",
@@ -37683,6 +40813,26 @@
 "sha256": "8d2be6a9293401ab50bed22241582dd69177e356ab46d8c3a0d9496e3151f1c3"
 },
 {
+"path": "public/atlas/audio/ex2/story.mp3",
+"bytes": 51660,
+"sha256": "db576adf53d3ff0456e603a845f733ec58bb512ee3c732633867842ad610e295"
+},
+{
+"path": "public/atlas/audio/ex2/strange.mp3",
+"bytes": 50407,
+"sha256": "669653356601b05b04c588787edf1c147db8283dcd6d1d5a7936ea8fbece6d87"
+},
+{
+"path": "public/atlas/audio/ex2/strawberry.mp3",
+"bytes": 64617,
+"sha256": "2ae37463c75ee0295da670fae1787a52f8958af5abda33669299a7c6171eb635"
+},
+{
+"path": "public/atlas/audio/ex2/street.mp3",
+"bytes": 58139,
+"sha256": "3bc3db065be7042b84229adcbca02b6548055d7cdd9660ad21f4bd90dd470fcf"
+},
+{
 "path": "public/atlas/audio/ex2/strong.mp3",
 "bytes": 56885,
 "sha256": "ecd11589f2e8743f2025ded1c49d319c96b20c77f8d1b9d6683782674766097a"
@@ -37693,9 +40843,39 @@
 "sha256": "8363742ddb8b3387145b3be9bb3d73c5a116cf014a941dcc15927d35cd4c69e5"
 },
 {
+"path": "public/atlas/audio/ex2/study.mp3",
+"bytes": 55631,
+"sha256": "7960d06cf1b56ed3e0ec8cf3b26a39a4a6146a2c373dd56d3eccadbe8aa73018"
+},
+{
+"path": "public/atlas/audio/ex2/style.mp3",
+"bytes": 61900,
+"sha256": "79c93d2c74db6b020a45146e6dc9cbd2a88a9ab09556e5df9f3651259d42d560"
+},
+{
+"path": "public/atlas/audio/ex2/subject.mp3",
+"bytes": 61900,
+"sha256": "29bb6fad745d4613a774ad0dfe574817bcfc8296f0fcec91819c764df1272029"
+},
+{
+"path": "public/atlas/audio/ex2/succeed.mp3",
+"bytes": 49153,
+"sha256": "6ab589fb940a9c51a68588813491a29c2b5a38f2d1aa90fc083d90f0d6a7a1cc"
+},
+{
+"path": "public/atlas/audio/ex2/successful.mp3",
+"bytes": 61274,
+"sha256": "7d05374dc671d25aabd5958d5d6d2d56c3bd49486720592022af16ac81db63a7"
+},
+{
 "path": "public/atlas/audio/ex2/sugar.mp3",
 "bytes": 46645,
 "sha256": "0a33be6689718e84be782937b66ff44fa64d706c1fe88a2b2559490a6a14f16c"
+},
+{
+"path": "public/atlas/audio/ex2/summer.mp3",
+"bytes": 53750,
+"sha256": "6995b9b91dae0b9ff8cd7258bdf08584ae7584cbb52b6859c9cadf5cf1ec96c9"
 },
 {
 "path": "public/atlas/audio/ex2/sun.mp3",
@@ -37703,9 +40883,34 @@
 "sha256": "05a862ce7a5aa6db4734df9e9ca43b1eb7750008f26512571c95bc487d27fd93"
 },
 {
+"path": "public/atlas/audio/ex2/sunday.mp3",
+"bytes": 60647,
+"sha256": "74e1d29984d6988cfc813bd0c86beefb7728e96e364b9f211640a55e88978efc"
+},
+{
+"path": "public/atlas/audio/ex2/sunny.mp3",
+"bytes": 56885,
+"sha256": "388ff87cb28399919816b43dd829ee23f6d586e5ec8e2c7a7cfebd341c237269"
+},
+{
 "path": "public/atlas/audio/ex2/supermarket.mp3",
 "bytes": 60647,
 "sha256": "f80fb517e38c76f1106dbef453bdc85e1d00c9979274a8410a04732f7541704c"
+},
+{
+"path": "public/atlas/audio/ex2/supper.mp3",
+"bytes": 58766,
+"sha256": "b22e2099acd7c16d6f61c972582e4ec759e11da4b509c9f57b8018938ca6af70"
+},
+{
+"path": "public/atlas/audio/ex2/sure.mp3",
+"bytes": 53123,
+"sha256": "2f91f4fe6091169f3d6ad00b6a2a24e3ff3568c0786121c002b894a9f3495002"
+},
+{
+"path": "public/atlas/audio/ex2/surfing.mp3",
+"bytes": 61274,
+"sha256": "807946c83b2f0fa0eba4486737ac2cb961af70c6fcb27064c402cded060ede8a"
 },
 {
 "path": "public/atlas/audio/ex2/sweater.mp3",
@@ -37713,9 +40918,39 @@
 "sha256": "ee52ecb83be674cffd697bf7c2f87ebf4e62781d14390c8da8778b5579816204"
 },
 {
+"path": "public/atlas/audio/ex2/sweden.mp3",
+"bytes": 65244,
+"sha256": "a6b59c250c8ba37e242aa37b3dbb63a0d2cca2e8622197a86c3f07458f1ae478"
+},
+{
+"path": "public/atlas/audio/ex2/swedish.mp3",
+"bytes": 58139,
+"sha256": "65947337a0ed26fe491a40d8d335d5466d6f908229409635a3ca269dfd324fca"
+},
+{
 "path": "public/atlas/audio/ex2/sweet.mp3",
 "bytes": 53123,
 "sha256": "3c2e69c5fd6167b9f5bc61a5d7c1f1d74abd1ecf2d20e7b865c35eca93336956"
+},
+{
+"path": "public/atlas/audio/ex2/swim.mp3",
+"bytes": 58139,
+"sha256": "0ddbfe7779fa380919288fc07791123911fc72752057400f8f6e5f06391c3f42"
+},
+{
+"path": "public/atlas/audio/ex2/swimming.mp3",
+"bytes": 47899,
+"sha256": "f460e57593facd464d42f8a271b81f0f9be506b0efbe861f2ff5b30cf50dbaa1"
+},
+{
+"path": "public/atlas/audio/ex2/switzerland.mp3",
+"bytes": 58766,
+"sha256": "3c6721599857c31646768c21045e14326a04deee7ad0bee9677442ec7e9fe498"
+},
+{
+"path": "public/atlas/audio/ex2/system.mp3",
+"bytes": 55004,
+"sha256": "dc2de3305770ede04b14969cd88a23f230ec105bde90aa2563cf0d48e7488e04"
 },
 {
 "path": "public/atlas/audio/ex2/t-shirt.mp3",
@@ -37723,9 +40958,29 @@
 "sha256": "b52a3e1a8cf1e25ff7a1f2f35abe3d7095948f939557535d51e0647dff0c1318"
 },
 {
+"path": "public/atlas/audio/ex2/table.mp3",
+"bytes": 49780,
+"sha256": "a36301a88b4a792e04b63e6775b53b79276803160b43dc561eeea1634ee8e00b"
+},
+{
+"path": "public/atlas/audio/ex2/take.mp3",
+"bytes": 63363,
+"sha256": "8bee3c65868f670915d62a905eed4135626a44978f97c9c6d5b71da8996e197d"
+},
+{
+"path": "public/atlas/audio/ex2/talk.mp3",
+"bytes": 47272,
+"sha256": "a5a0204eb15607ffa87aa4a5c2ef482029200c41f801cc45b3fa4886747e22aa"
+},
+{
 "path": "public/atlas/audio/ex2/tall.mp3",
 "bytes": 57512,
 "sha256": "0427ab9e25a35174aa8652af165969ec85db19e0c7662508528766f7410d632b"
+},
+{
+"path": "public/atlas/audio/ex2/taste.mp3",
+"bytes": 46645,
+"sha256": "c629aca381f4b876863cbe76dc08fc4d3d8f2da3c95c8319c7af234b41518874"
 },
 {
 "path": "public/atlas/audio/ex2/taxi.mp3",
@@ -37733,9 +40988,29 @@
 "sha256": "6a1a9daf010b06329f207276e63f1a9721222efe8076ebda88a61fb5be6a8d63"
 },
 {
+"path": "public/atlas/audio/ex2/tea.mp3",
+"bytes": 61274,
+"sha256": "eaeb7e6b4b43e088ad9c4b610903ab12e17dd79a3f46d903cd54dd31294d6142"
+},
+{
+"path": "public/atlas/audio/ex2/teach.mp3",
+"bytes": 53750,
+"sha256": "42067c1fd72667ac15be253f124588a2ccb927095c4653e2d0796d2e27b92704"
+},
+{
 "path": "public/atlas/audio/ex2/teacher.mp3",
 "bytes": 54377,
 "sha256": "2a2402fc5747fd85159119a81fdf607f8d6c02bb83d72e7577aa4b2e002a068e"
+},
+{
+"path": "public/atlas/audio/ex2/team.mp3",
+"bytes": 49153,
+"sha256": "16fd986a78486f5d065cdbcea61dff2cc52bd600f71cd9c4deebef5c804328dd"
+},
+{
+"path": "public/atlas/audio/ex2/technology.mp3",
+"bytes": 58139,
+"sha256": "31350d176da4e3663201a87ea019e33d556277478283345ae3facbb08c8bfd75"
 },
 {
 "path": "public/atlas/audio/ex2/telephone.mp3",
@@ -37743,9 +41018,44 @@
 "sha256": "2c77af73be27fe957c6da012ae310e92e7d68a64bc5f1201f2585e22de95d1f6"
 },
 {
+"path": "public/atlas/audio/ex2/television.mp3",
+"bytes": 55004,
+"sha256": "1ee3b999c83ca7f9ac7aea3f59bec35640ea31bdb7f96850d59d6cf34f3351fe"
+},
+{
 "path": "public/atlas/audio/ex2/tell.mp3",
 "bytes": 46645,
 "sha256": "082e7a9f88aeadb9aacd013f871f206d84a684179eda24f80e286c6929eb614b"
+},
+{
+"path": "public/atlas/audio/ex2/tennis.mp3",
+"bytes": 61900,
+"sha256": "d0156afe5cdae3dd193a56e3e5bc14dea875045b7f537096dc37db0b96f744ca"
+},
+{
+"path": "public/atlas/audio/ex2/terrible.mp3",
+"bytes": 58139,
+"sha256": "74d9c20b2c8ee4f623d12f80483a2ed0bf94475d10cb5dcd1ae6da696cb1d392"
+},
+{
+"path": "public/atlas/audio/ex2/test.mp3",
+"bytes": 53750,
+"sha256": "e9d63e0359011659ac9b3329580254cc74878f92d8f69784dec4f8668b05fe1a"
+},
+{
+"path": "public/atlas/audio/ex2/text.mp3",
+"bytes": 54377,
+"sha256": "e576672c231940f83285ca8fd5bfd6f37b39fc466fb4dcf741eb18b14314a54a"
+},
+{
+"path": "public/atlas/audio/ex2/than.mp3",
+"bytes": 50407,
+"sha256": "d82a25b19900541c08151545583cca3afd2262ca3f801678249d8495ef64ce6f"
+},
+{
+"path": "public/atlas/audio/ex2/thanks.mp3",
+"bytes": 60647,
+"sha256": "51df52eb6df1d17bec8ed27cf52975fd6d6ca673df790da296679cccbaac1962"
 },
 {
 "path": "public/atlas/audio/ex2/that.mp3",
@@ -37758,6 +41068,26 @@
 "sha256": "2ff5249d247b2a0e496af4ad389380fbce26c55513369f4a90ccd0c8f47c2837"
 },
 {
+"path": "public/atlas/audio/ex2/these.mp3",
+"bytes": 55631,
+"sha256": "ef71e5284ec88a3ddcc7a9bf8cb91d4d79c3296593adec06263f2b0de1b739ee"
+},
+{
+"path": "public/atlas/audio/ex2/they.mp3",
+"bytes": 58139,
+"sha256": "b777acb6eb3810cb923b6bc14254f7738d84c5bc8898978760aca64c767abb5a"
+},
+{
+"path": "public/atlas/audio/ex2/thing.mp3",
+"bytes": 51660,
+"sha256": "887f37a98bc7afd23407fb5e5cbde1f99e46c5503ac310f4676f2c9650b035af"
+},
+{
+"path": "public/atlas/audio/ex2/think.mp3",
+"bytes": 51660,
+"sha256": "7fba96a34545bc60c31a8c26960eaccac94c9558836788a386d00b3638c475e6"
+},
+{
 "path": "public/atlas/audio/ex2/third.mp3",
 "bytes": 47272,
 "sha256": "53a2883b2fc959d73a54a84a5a5346faf5a053c31a941707f36fd91b9a7f4ee3"
@@ -37766,6 +41096,21 @@
 "path": "public/atlas/audio/ex2/thirsty.mp3",
 "bytes": 55631,
 "sha256": "d2237ae944dd5aacc44f484f7f485f47ea37e26be13ced915f9a10635af2c3c2"
+},
+{
+"path": "public/atlas/audio/ex2/thirty.mp3",
+"bytes": 46645,
+"sha256": "65d358664445535b98ee20b7fbe6e469b589f2617ab1bcc84aef6806e3736bb8"
+},
+{
+"path": "public/atlas/audio/ex2/thousand.mp3",
+"bytes": 54377,
+"sha256": "2346a9c6587768ec8bf7c45bca980fae5c939ccf520454c629f1062b088eff44"
+},
+{
+"path": "public/atlas/audio/ex2/thursday.mp3",
+"bytes": 44764,
+"sha256": "9ed11daac8676e23e24d1fe811b695ee1eebb724033f0f07030ab70766b8af72"
 },
 {
 "path": "public/atlas/audio/ex2/ticket.mp3",
@@ -37778,14 +41123,44 @@
 "sha256": "900936b629e3bbc8376d2a355e9c87f29234cf6eba9d502e103d673f3ee76f7b"
 },
 {
+"path": "public/atlas/audio/ex2/till.mp3",
+"bytes": 53123,
+"sha256": "69a40810522b442f3fa3dfd8492d24a841a8bda522cb7a459420c6f3dc740a40"
+},
+{
+"path": "public/atlas/audio/ex2/time.mp3",
+"bytes": 60647,
+"sha256": "15503eabca353d5423584ab9fb986a1d2096c6663381c8cf93957f743e45752a"
+},
+{
+"path": "public/atlas/audio/ex2/tip.mp3",
+"bytes": 51660,
+"sha256": "edb69d26066b767475c458a9c992e82b59a7fa9e3c45999b4c8c93a0acdae376"
+},
+{
 "path": "public/atlas/audio/ex2/tired.mp3",
 "bytes": 51034,
 "sha256": "6a1647a2b0123e498e33332bf9b98265512f3f1e9b65ce24bdbb8de0fd12fd66"
 },
 {
+"path": "public/atlas/audio/ex2/toast.mp3",
+"bytes": 47272,
+"sha256": "1791efc84c2cce1d825c4beec8fe9b681bd46e15a3aa672d6fca11bf16077cf7"
+},
+{
 "path": "public/atlas/audio/ex2/today.mp3",
 "bytes": 58139,
 "sha256": "fbd97dbe9ae16f5ea2c57a29b7a9f836502177e986903b096cd8166286918f16"
+},
+{
+"path": "public/atlas/audio/ex2/together.mp3",
+"bytes": 48526,
+"sha256": "49b8478916d21bee5de38f5086f6c86fbd0ffee3da74c4dab94c4d68965e42a5"
+},
+{
+"path": "public/atlas/audio/ex2/toilet.mp3",
+"bytes": 57512,
+"sha256": "0e44b1a57d424652fd900b7f1a925903cfb33878b9a2eb0f6a933cd9b5020911"
 },
 {
 "path": "public/atlas/audio/ex2/tomato.mp3",
@@ -37808,9 +41183,39 @@
 "sha256": "f9a902eee39acfc14b7e4dcbe042bedd335e710735404b48c7774faf72e39ecd"
 },
 {
+"path": "public/atlas/audio/ex2/tool.mp3",
+"bytes": 56258,
+"sha256": "56f8625700b60bc27b857753a47d576fc64bf169d4c6651a9184bfe5c085edec"
+},
+{
+"path": "public/atlas/audio/ex2/tooth.mp3",
+"bytes": 47272,
+"sha256": "0bee1c37a4cd9d19548322a8e30f7bd4702d3dc7759f7ac601b3a3c25e7d645f"
+},
+{
+"path": "public/atlas/audio/ex2/toothbrush.mp3",
+"bytes": 58766,
+"sha256": "a039d324362b5e953e8838060bf28756f15cc4392c9d1f2e51a611baab5f40df"
+},
+{
 "path": "public/atlas/audio/ex2/toothpaste.mp3",
 "bytes": 58139,
 "sha256": "614d78e7c687173457021c476457f6c626a1c863b419073a93e96cbe806b5046"
+},
+{
+"path": "public/atlas/audio/ex2/top.mp3",
+"bytes": 57512,
+"sha256": "b00ca54258ed59e010b75b5463a294983e73490ece7b30e14119c02b780b3b28"
+},
+{
+"path": "public/atlas/audio/ex2/tour.mp3",
+"bytes": 55631,
+"sha256": "12300090cd99019247212c7045be052cbf7670b3b4a5248b60f8332cbbdad2d3"
+},
+{
+"path": "public/atlas/audio/ex2/towards.mp3",
+"bytes": 47272,
+"sha256": "0a38f0214c44773b6b6801f5575d75541c7a598bb90360e2113756c3457c7027"
 },
 {
 "path": "public/atlas/audio/ex2/town.mp3",
@@ -37818,9 +41223,54 @@
 "sha256": "f98684e7edef4eb6be218f822b6f6456cf0d078f957dc577b3cc0c203f25b520"
 },
 {
+"path": "public/atlas/audio/ex2/toy.mp3",
+"bytes": 55004,
+"sha256": "1e86954a99216c3f51b98d04557c009d22e3278f6af7767d7c9b546b1bdea6bb"
+},
+{
+"path": "public/atlas/audio/ex2/train.mp3",
+"bytes": 42256,
+"sha256": "ec151ca573422824ff53d9e4ad9158494033b6ccf46b1548854594ae06231edb"
+},
+{
+"path": "public/atlas/audio/ex2/trainer.mp3",
+"bytes": 47899,
+"sha256": "157c73fc33f86fd1eeb0dbdcb8651c1bf8541bec6cd5435122760140144d7950"
+},
+{
+"path": "public/atlas/audio/ex2/training.mp3",
+"bytes": 61274,
+"sha256": "4a6017136350573325add696977d11038ddba5830473feb7a57d9a0a217645fc"
+},
+{
+"path": "public/atlas/audio/ex2/travel.mp3",
+"bytes": 58139,
+"sha256": "0db6570a6a694f3994988ecc64a6554c0c1131dd25886cf97b48e4e1cf5cbc25"
+},
+{
+"path": "public/atlas/audio/ex2/traveler.mp3",
+"bytes": 51660,
+"sha256": "6238c018c7a51172f3e301a9afcd9728000fe6f50d958dd1c9aa8f1c872f3fd9"
+},
+{
+"path": "public/atlas/audio/ex2/tree.mp3",
+"bytes": 60020,
+"sha256": "1c03e3a3c7362755296d578f3360c3a70c12f5b5f1a2d0a90422ae88d727b19d"
+},
+{
+"path": "public/atlas/audio/ex2/trip.mp3",
+"bytes": 56258,
+"sha256": "d5b2a06cfa96e2382983d93dfbaf6602e75b88c42e3abd193e212cc9919a2c1c"
+},
+{
 "path": "public/atlas/audio/ex2/trousers.mp3",
 "bytes": 56885,
 "sha256": "3f97f69bc4404f342a8081cb8c1273e4bf6d628e1fe113284067994d6e1937cb"
+},
+{
+"path": "public/atlas/audio/ex2/true.mp3",
+"bytes": 54377,
+"sha256": "67b4867bc2ab30afbb349b7d5022a8154f668e3ae0b76bcb92358895b45fdaa1"
 },
 {
 "path": "public/atlas/audio/ex2/try.mp3",
@@ -37833,9 +41283,64 @@
 "sha256": "6eb093a4971637c3c9cc8065e997d302ee3b5534e03edd82365f54c7659d6e41"
 },
 {
+"path": "public/atlas/audio/ex2/turn.mp3",
+"bytes": 54377,
+"sha256": "2776346e7bd9235ac537365175305196d1b562afca93ed529928f1d8db257740"
+},
+{
+"path": "public/atlas/audio/ex2/twelve.mp3",
+"bytes": 55631,
+"sha256": "a0664018f584f270f012cea96e5a13fe7420e1b71c6906b4200498f1241f5fee"
+},
+{
+"path": "public/atlas/audio/ex2/twice.mp3",
+"bytes": 53750,
+"sha256": "34fb10a7ec289500c49b7860a96b10e8494c2a4d45da6aac45505ba9dcaa5411"
+},
+{
+"path": "public/atlas/audio/ex2/typing.mp3",
+"bytes": 56258,
+"sha256": "869f2b446caa142b6fb1f351a76bc055b1d81ba32149946c93f0231cbc799e82"
+},
+{
 "path": "public/atlas/audio/ex2/umbrella.mp3",
 "bytes": 55004,
 "sha256": "4fc60b3d7a01183caf888ad2b882c04b0fac342e200f342839ca09a056634a44"
+},
+{
+"path": "public/atlas/audio/ex2/uncle.mp3",
+"bytes": 49780,
+"sha256": "25717a468fe73869c65c9f808c845ae6a3f3301dcf90d1ed09f4fe02ea86bd58"
+},
+{
+"path": "public/atlas/audio/ex2/under.mp3",
+"bytes": 57512,
+"sha256": "f5ec82e634f174df9321935fb5423ca81dbe011b27509a4f06c3064db3a1cfd0"
+},
+{
+"path": "public/atlas/audio/ex2/underground.mp3",
+"bytes": 67752,
+"sha256": "51dd3b38b94e791b01a27db61da6b8419a6b5335b60ca5e54997083830411906"
+},
+{
+"path": "public/atlas/audio/ex2/understand.mp3",
+"bytes": 46018,
+"sha256": "9f01efc7e0c2dcf88c222e120dfda69fd895530bf5d168828884e9ef03c7ec14"
+},
+{
+"path": "public/atlas/audio/ex2/university.mp3",
+"bytes": 57512,
+"sha256": "66841115e2cd99235cd28df66db5e360d01cf97fd7ce4d44c53f6ae3a3d9da1b"
+},
+{
+"path": "public/atlas/audio/ex2/until.mp3",
+"bytes": 60020,
+"sha256": "e6e1c7695b459456bc646df5e4e22324019c911d2e561e307d7a315235180c14"
+},
+{
+"path": "public/atlas/audio/ex2/up.mp3",
+"bytes": 42883,
+"sha256": "bf2560c865f59a4883d794ec85ed0b814bb2ebbaf0271086ea9f2be5a147ede3"
 },
 {
 "path": "public/atlas/audio/ex2/upstairs.mp3",
@@ -37848,9 +41353,79 @@
 "sha256": "c4ac86548c6591d550c3a04ab3e482ef9bb8e5f3fc69895104649cc5963628cf"
 },
 {
+"path": "public/atlas/audio/ex2/useful.mp3",
+"bytes": 50407,
+"sha256": "ffad88f55fefba8f09f3b944cec0cc4dbfe2ab58b2fc2dab9aed8c3947a48430"
+},
+{
+"path": "public/atlas/audio/ex2/user.mp3",
+"bytes": 53123,
+"sha256": "ab5aad30f54a41eff59ebdc18fb0a123cb82bafa1193d34b4f21c30a1c834154"
+},
+{
+"path": "public/atlas/audio/ex2/usually.mp3",
+"bytes": 47272,
+"sha256": "24b28c9dd8c58b28fcc31b04b9c114ccbfcb11a2b5c019ddbeff278d73828a93"
+},
+{
+"path": "public/atlas/audio/ex2/vacation.mp3",
+"bytes": 56258,
+"sha256": "e4275cfb2753fdc154e031ce5dc6786190e92fe4a82c4cdc5d62e80933862a38"
+},
+{
+"path": "public/atlas/audio/ex2/vase.mp3",
+"bytes": 67752,
+"sha256": "d4d731d7671cf3d5712648d3ef5c8e456ceb5f549c46cd3f2825218bc5e1dfc1"
+},
+{
+"path": "public/atlas/audio/ex2/vegetable.mp3",
+"bytes": 45391,
+"sha256": "43784694d65feae86b36249718c38d46b0cab6216217d1661124849c12a072fc"
+},
+{
+"path": "public/atlas/audio/ex2/very.mp3",
+"bytes": 45391,
+"sha256": "826eb1bd487462bf9f7da2954d0963715970ec554f36e7e475a1e2ebe0b527c1"
+},
+{
+"path": "public/atlas/audio/ex2/video.mp3",
+"bytes": 63363,
+"sha256": "d249818a6a47e438541ca31f303aaabd4ff35566e0d55e815e82bcac1a4295b0"
+},
+{
 "path": "public/atlas/audio/ex2/village.mp3",
 "bytes": 60020,
 "sha256": "892556e9a9c82a85628adf3db81391a3d3b6a60cba2760c1ff5d6937d632aa1a"
+},
+{
+"path": "public/atlas/audio/ex2/violin.mp3",
+"bytes": 61900,
+"sha256": "7cdb25e8347a378c2d9534e262609a1721029bfedf2743416fd704a5b7f13e9e"
+},
+{
+"path": "public/atlas/audio/ex2/visit.mp3",
+"bytes": 53123,
+"sha256": "3bbbee6e1e8bb4edba35f988f566d8967b44a1ddcb6ae8f1699bcf85e39a5834"
+},
+{
+"path": "public/atlas/audio/ex2/vocabulary.mp3",
+"bytes": 60647,
+"sha256": "9837159fd38d8d6e83c882f03d31e6dad4028c6b575e7eb9dd943d014c9fb10a"
+},
+{
+"path": "public/atlas/audio/ex2/voice.mp3",
+"bytes": 51660,
+"sha256": "1156f3387bf3ec1b01823e35a311782163d92083465cf72fba4d5d439f8cf4d1"
+},
+{
+"path": "public/atlas/audio/ex2/wait.mp3",
+"bytes": 55631,
+"sha256": "1208699c8b562d510da4846c557f81219f3a43da4aeedef5f0d7fc72970e05cb"
+},
+{
+"path": "public/atlas/audio/ex2/waiter.mp3",
+"bytes": 53123,
+"sha256": "254bb2952d8ed1af53d32dba6e7eb6f1b6655d1744e85d3e14b5b5c22db638a2"
 },
 {
 "path": "public/atlas/audio/ex2/waitress.mp3",
@@ -37863,9 +41438,74 @@
 "sha256": "2513ae6f202f44b45bf9f4659d768761a1609b59e32d2d660c52fb73eae0946d"
 },
 {
+"path": "public/atlas/audio/ex2/walk.mp3",
+"bytes": 56885,
+"sha256": "00970ffeb31217d16ba040d1b7f5b0cdaec22c881838d6f1fa99a5126d4d5fc2"
+},
+{
+"path": "public/atlas/audio/ex2/walking.mp3",
+"bytes": 59393,
+"sha256": "4447d12c35f1528252486b40f003d4b3120304ef5b782ad95ee5a5dadc0e22ff"
+},
+{
+"path": "public/atlas/audio/ex2/wall.mp3",
+"bytes": 52496,
+"sha256": "808783027059691625fdeeb78d2156aac978f1eee3624eb6b9d59e40e7404015"
+},
+{
+"path": "public/atlas/audio/ex2/want.mp3",
+"bytes": 60647,
+"sha256": "3b8cfafd7ba0c237f5e80ed84a825cf19adbe99b71713ea668723df6dec5ab50"
+},
+{
+"path": "public/atlas/audio/ex2/war.mp3",
+"bytes": 50407,
+"sha256": "5cbe7bcff692cddd0e010c479dd686e31f7e3d38b96bd8639daf9c6274ae6296"
+},
+{
+"path": "public/atlas/audio/ex2/wardrobe.mp3",
+"bytes": 52496,
+"sha256": "9ce1c22951bdfa26bbb977411d33bf6242b6fb498c89d1e09e1200f525f39be5"
+},
+{
+"path": "public/atlas/audio/ex2/warm.mp3",
+"bytes": 45391,
+"sha256": "e6ac86d85d831eed7d104a6ca1701a021d82c24bcd9dcd013cfc2c6b35c81515"
+},
+{
+"path": "public/atlas/audio/ex2/wash.mp3",
+"bytes": 49153,
+"sha256": "b556c594296460095dcc13b689643bac6c7d04b4a282e636c9034b24ad24f80c"
+},
+{
 "path": "public/atlas/audio/ex2/watch.mp3",
 "bytes": 63363,
 "sha256": "8b32aa71d3b6ef177407ea6fdeb11cff0b761a26cc32471b338ee0a897e3fe2d"
+},
+{
+"path": "public/atlas/audio/ex2/water.mp3",
+"bytes": 46018,
+"sha256": "a2c7b421a747fa0fae73d5ead01f250ded8508d862127365aa6b02f16bd1aed0"
+},
+{
+"path": "public/atlas/audio/ex2/way.mp3",
+"bytes": 50407,
+"sha256": "7a368a30977d193b7271617194a7228732bdc54cf7a31274d78f807035942f3e"
+},
+{
+"path": "public/atlas/audio/ex2/weak.mp3",
+"bytes": 47272,
+"sha256": "16db0ca0c0bc07d52ce186783e722f80c49de2ae23ac51a74342159beaeed1ba"
+},
+{
+"path": "public/atlas/audio/ex2/wear.mp3",
+"bytes": 59393,
+"sha256": "dcc613f6a34ee02e00dec22d611a6dcd527f1a2aa350cdc2d1e0b79f68b57e71"
+},
+{
+"path": "public/atlas/audio/ex2/weather.mp3",
+"bytes": 53123,
+"sha256": "7426bbf55e8154e69382b63970b2565db6f9a2b100bdf0e7672b4b3cbbc32206"
 },
 {
 "path": "public/atlas/audio/ex2/website.mp3",
@@ -37873,14 +41513,54 @@
 "sha256": "f4ffb3c1c4850c10b8319b85797fccf88385f43ffac75d8dbbef4a02c1ba4df4"
 },
 {
+"path": "public/atlas/audio/ex2/wednesday.mp3",
+"bytes": 55631,
+"sha256": "00f0d2f1230534a2f5aca6adda9d4d097dcb7bdf9f5f012a9ba13ff606d0396b"
+},
+{
+"path": "public/atlas/audio/ex2/week.mp3",
+"bytes": 58139,
+"sha256": "10a3a48f47f7d942cc31df564c35bbcf3022ed8cb41e22203a77d7beaac546c5"
+},
+{
+"path": "public/atlas/audio/ex2/weekday.mp3",
+"bytes": 44764,
+"sha256": "8de2edfcc8e5b8e1fad4aa124136bf76d1ad3ffd0965c1c75f9ba87e74dba34d"
+},
+{
 "path": "public/atlas/audio/ex2/weekend.mp3",
 "bytes": 48526,
 "sha256": "f72eb8a6f834311db6eafcb301c971c6b9631a7e8a0f81e88eba147a659f2a40"
 },
 {
+"path": "public/atlas/audio/ex2/welcome.mp3",
+"bytes": 56885,
+"sha256": "3de80c3befbb16c336f50719ea720cf85a6a54989fde4375615380b0a1c2a6f3"
+},
+{
+"path": "public/atlas/audio/ex2/west.mp3",
+"bytes": 53123,
+"sha256": "027094a5323dcb58ea944db48f58667e1392270d375a5071413f813f7f64616a"
+},
+{
+"path": "public/atlas/audio/ex2/wet.mp3",
+"bytes": 46645,
+"sha256": "b41848899f503eca76267baf5bf18cae360c6eda40a97ce4a6759373c0e7dca7"
+},
+{
 "path": "public/atlas/audio/ex2/when.mp3",
 "bytes": 51034,
 "sha256": "8903139737948ad26f770595abfba03b6e229c7c3f3d421684214401c3b6b661"
+},
+{
+"path": "public/atlas/audio/ex2/which.mp3",
+"bytes": 61274,
+"sha256": "822aeaeb49aa585f2260364fecb8ac8e6cbe4952be0f7202d94ca56df7184a92"
+},
+{
+"path": "public/atlas/audio/ex2/white.mp3",
+"bytes": 47272,
+"sha256": "26aab6ec03041b285dc5c52249781b7680db6aae7dc53693e33b70f45814c76d"
 },
 {
 "path": "public/atlas/audio/ex2/why.mp3",
@@ -37898,9 +41578,24 @@
 "sha256": "9e3a32935feb72812d14fb7dc64087165b1b0106b89ce3899b4dae1bc3fd667b"
 },
 {
+"path": "public/atlas/audio/ex2/wild.mp3",
+"bytes": 60020,
+"sha256": "83e9482d5a0a018cc0d13711db30a83aca0a87242d8ffbff4aa6940bb20dd5af"
+},
+{
+"path": "public/atlas/audio/ex2/win.mp3",
+"bytes": 60647,
+"sha256": "ab652945acc8be4416d085c8c0d101f2ac4008c4f25a23e224161dc1d73aa04c"
+},
+{
 "path": "public/atlas/audio/ex2/window.mp3",
 "bytes": 47899,
 "sha256": "804d93d0c95e3f137b08144cd3aab7807a867be6786f71f326cc8ae87bf711f9"
+},
+{
+"path": "public/atlas/audio/ex2/wine.mp3",
+"bytes": 55004,
+"sha256": "1d1549c0fd5f0c1a0eac3eb451352386b7f4b99967004125cf9adcfc4ceb5f64"
 },
 {
 "path": "public/atlas/audio/ex2/winter.mp3",
@@ -37908,9 +41603,24 @@
 "sha256": "ed0b76fc57e00a3c6883a2301cac7734cfcc7ee074c57205abd8b23094dd7543"
 },
 {
+"path": "public/atlas/audio/ex2/with.mp3",
+"bytes": 48526,
+"sha256": "5507edcb2d57f2778286bdcce81672d85d5d28a8d2dc8d8518c715723e4a51ce"
+},
+{
 "path": "public/atlas/audio/ex2/without.mp3",
 "bytes": 55631,
 "sha256": "c854efda4c056634fc9cc098f7bf6d0e849bdd2da4990e23dd13712472db9d7b"
+},
+{
+"path": "public/atlas/audio/ex2/woman.mp3",
+"bytes": 62736,
+"sha256": "bd6a59f825c954b549af81b764f8a784c117524827069ac433acd0fd9f85c2a8"
+},
+{
+"path": "public/atlas/audio/ex2/women.mp3",
+"bytes": 47899,
+"sha256": "724f8921d23bc5d3efd10b3e1263d8b47e58d324474521bad2af5dc31512e5f6"
 },
 {
 "path": "public/atlas/audio/ex2/wonderful.mp3",
@@ -37928,9 +41638,29 @@
 "sha256": "127ba284d40c3dcdecfa1def2aa9694f3556ed13735d2957a944d28ded4ec864"
 },
 {
+"path": "public/atlas/audio/ex2/world.mp3",
+"bytes": 61900,
+"sha256": "54b4d2f53fd08dcb4a9a3db7c86bda5c780b65565daf6b8a95e2408564bcb27f"
+},
+{
+"path": "public/atlas/audio/ex2/write.mp3",
+"bytes": 57512,
+"sha256": "c131976e7d280aa9a727dd4c85a5607459f3e2c9c55953b3dc215c2b9f94babb"
+},
+{
+"path": "public/atlas/audio/ex2/writer.mp3",
+"bytes": 61274,
+"sha256": "1ecf3ae75e78166c6e8bccc29cc2b705e78681f60b48ec44a3d14468b1120760"
+},
+{
 "path": "public/atlas/audio/ex2/writing.mp3",
 "bytes": 53750,
 "sha256": "fa5ed73680e597009d8995a2229527c540c67b354862bce424a6fc815ef4d074"
+},
+{
+"path": "public/atlas/audio/ex2/wrong.mp3",
+"bytes": 56885,
+"sha256": "2724489a3ca99fe5c9fe9fb5cf0c5d9e8d86f37f6572818c756246367658ed53"
 },
 {
 "path": "public/atlas/audio/ex2/year.mp3",
@@ -37938,9 +41668,24 @@
 "sha256": "5ffaa029492ae92d73e91fc6d8266e70a9336860414fbdcfd3c95ec00ff77950"
 },
 {
+"path": "public/atlas/audio/ex2/yellow.mp3",
+"bytes": 53123,
+"sha256": "0ac6593015e519323cfd1a50a007508f21d49da4d39b00aa5588c63fbe7b6a69"
+},
+{
 "path": "public/atlas/audio/ex2/yesterday.mp3",
 "bytes": 62736,
 "sha256": "68278d35b2e07ee31e698b86a7628a5e19c43b78867d43c753334c6b5cfd534a"
+},
+{
+"path": "public/atlas/audio/ex2/yet.mp3",
+"bytes": 53123,
+"sha256": "8353d1726d990d5d075a0f77ca6b7297157b0b23b25a8f6d72569b6046d60cb7"
+},
+{
+"path": "public/atlas/audio/ex2/young.mp3",
+"bytes": 51034,
+"sha256": "3ebc57ecebd508ee3472f7bb14afec45d3915ce84f3766d498cc86b3b3fa8d07"
 },
 {
 "path": "public/atlas/audio/ex2/your.mp3",
@@ -37951,6 +41696,11 @@
 "path": "public/atlas/audio/ex2/yourself.mp3",
 "bytes": 53750,
 "sha256": "0386ceeffa62ac18f8075892325b9a64d11ff36d69ea3b3546a0ff80ccff57ae"
+},
+{
+"path": "public/atlas/audio/ex2/zero.mp3",
+"bytes": 70887,
+"sha256": "c580eb209fcfbb22bb440c6fd0c80a4103ddb204a9c418f2c1fb8a01a2f4f4ab"
 },
 {
 "path": "public/atlas/audio/uk/a-m.mp3",
@@ -110935,32 +114685,32 @@
 {
 "path": "public/atlas/entries/0.json",
 "bytes": 89349,
-"sha256": "facf13e472f3ddbd707fb03d9cb84aa78357035b5d3a7ccf3315d2e0775b1a1a"
+"sha256": "a4df8110dddae31f0d1166cca9e4950f5b115106db94d8c02f473ee5984aed95"
 },
 {
 "path": "public/atlas/entries/1.json",
 "bytes": 88324,
-"sha256": "b2bc884c1b428fe4b325bc194a88d3c7a15b864b96270428e086082aa4859d6e"
+"sha256": "d65662ecf94a63584ea2618e8f14a0eee23d7e05b8c9444cce8b7f96750f22f7"
 },
 {
 "path": "public/atlas/entries/10.json",
 "bytes": 89886,
-"sha256": "53b36a1048ac3be36be10cc768fc98e11ccf875e1cf6804a2e040e8bd782ed6d"
+"sha256": "7a9e5298b5bfb821fdd41f68493adebe217d610aac38131423aa8eaa309b85e4"
 },
 {
 "path": "public/atlas/entries/11.json",
 "bytes": 90229,
-"sha256": "efd0034afd0ddea736cd9817b5115e7afa71a51f546344ee128ad086cf6e8f71"
+"sha256": "12bd0992f95eabc57f9e07bcd50f4f20be083c1c3595e72115f48256ea4d4958"
 },
 {
 "path": "public/atlas/entries/12.json",
 "bytes": 90015,
-"sha256": "e8561c8c03827d07d2811d7c1acb265ac743a97acf0daa6612f475ed12036ae7"
+"sha256": "877384202541ce49e843bac2977945d60dd1281ba97ed5423e6504b7b43698bc"
 },
 {
 "path": "public/atlas/entries/13.json",
 "bytes": 90160,
-"sha256": "a06a78c810d71c0e8417f046d597619c7b2b9fa7c41a3ad2faac945987affb74"
+"sha256": "140ca99ce646357af73aee196f4c929b8092b6661e7237893c0335f6484f481b"
 },
 {
 "path": "public/atlas/entries/14.json",
@@ -110980,7 +114730,7 @@
 {
 "path": "public/atlas/entries/17.json",
 "bytes": 90821,
-"sha256": "52b05462231c4b2a270547c7021569f1ddce31b8a8aff28e83439bb43b611be3"
+"sha256": "2e66b20d673db0713e5835b51bf723ec971051c058a646f2db9442c06aaf4db9"
 },
 {
 "path": "public/atlas/entries/18.json",
@@ -110995,7 +114745,7 @@
 {
 "path": "public/atlas/entries/2.json",
 "bytes": 89824,
-"sha256": "993abd096ce4ff031d0b00f920fc0661354c3dc66bd4bf809f8d64f2aaf2bad7"
+"sha256": "e87d8f87b7b5d98c4f3b3c731b384150df521226e909b2c34c57479e50a242f2"
 },
 {
 "path": "public/atlas/entries/20.json",
@@ -111050,7 +114800,7 @@
 {
 "path": "public/atlas/entries/3.json",
 "bytes": 89550,
-"sha256": "5a6fb1e39718467cfb750febe558c798795ed9c31f59e30bf1ba2ac6d87117fe"
+"sha256": "a3ade50426aac90ff1db0a8cb3ee3f02800ed4cd5b78e00661796dca8a62075b"
 },
 {
 "path": "public/atlas/entries/30.json",
@@ -111105,7 +114855,7 @@
 {
 "path": "public/atlas/entries/4.json",
 "bytes": 90629,
-"sha256": "786d70716bb16a373628e0e1b5930120cef0cf2af8ab15f4925b945114b86076"
+"sha256": "61e47c3aac6cfa568f603a4bcc1c4388089fc8c757eddca62b4e062ae80e95c4"
 },
 {
 "path": "public/atlas/entries/40.json",
@@ -111160,7 +114910,7 @@
 {
 "path": "public/atlas/entries/5.json",
 "bytes": 89135,
-"sha256": "bf528ca32580f299746572ad3ac79e4338a79e798b1e16901e57e2d59694685b"
+"sha256": "1fd43fc8860301b980f22a1379504ff7ebef5436be398226e0f2df42a31452ef"
 },
 {
 "path": "public/atlas/entries/50.json",
@@ -111215,7 +114965,7 @@
 {
 "path": "public/atlas/entries/6.json",
 "bytes": 92084,
-"sha256": "0ce7a7a082028fa88343091f97e5a420726424c23a7cd31993cb101287a93538"
+"sha256": "26fb2d1234cef787c54cf4e83268122615d67c2e2a4199a1654241fc7998c69d"
 },
 {
 "path": "public/atlas/entries/60.json",
@@ -111270,7 +115020,7 @@
 {
 "path": "public/atlas/entries/7.json",
 "bytes": 88959,
-"sha256": "07b1c08622a90f6edfbb62f25c78b4943979ff1bc8aa1065ebbf1419edf9fbb7"
+"sha256": "ff1eec49d593b33d9e29679b1ca4d9e4eb79b781de098f47bdd5bf4bb5e70341"
 },
 {
 "path": "public/atlas/entries/70.json",
@@ -111290,12 +115040,12 @@
 {
 "path": "public/atlas/entries/8.json",
 "bytes": 91334,
-"sha256": "68e28e51ab17cd39ec92d9bf45469195ac4d726b76dcb99c8fd9e82d02e5054a"
+"sha256": "63a79e239bf16b3e936daf02aa43734c66313125dad699ca68ee836a30d7529e"
 },
 {
 "path": "public/atlas/entries/9.json",
 "bytes": 92667,
-"sha256": "c8416b0c19ccf157419d2c4084199dcbd3057caef53ff2ac973d554e91a6f45f"
+"sha256": "3946d75cf847034e7f270932091319b7430bd7241eeb4b5b1e6d5ea43e7dbae9"
 },
 {
 "path": "public/atlas/img/a-m.webp",
@@ -147790,7 +151540,7 @@
 {
 "path": "public/atlas/index.json",
 "bytes": 510383,
-"sha256": "090f9361d3ce5641459d775f24438df947b6427b589161ea0b6f788307a4d353"
+"sha256": "514b9eb3b257511d6823eadd27a03f9cfa33f4bb5629236820f558cbda5de37d"
 },
 {
 "path": "public/atlas/thumb/a-m.webp",
@@ -184764,8 +188514,8 @@
 },
 {
 "path": "src/pages/Today.tsx",
-"bytes": 13101,
-"sha256": "748c2d0c377f4a343badaa79fa5e12d825b327da272b8c94573c7ed641dfee93"
+"bytes": 13095,
+"sha256": "0ea5052ba1383d1e49d6a3bb5658fea29946894c6ac74bf33df46a626f0bf8a0"
 },
 {
 "path": "src/store/session.ts",
@@ -184789,8 +188539,8 @@
 },
 {
 "path": "src/store/store.ts",
-"bytes": 10371,
-"sha256": "e44b948ec515b7ced5d6f158683e4e9bf72feb6cdc99200874dd7c38d7784446"
+"bytes": 10372,
+"sha256": "1ff96ed0972aad3e48216754eb8e10eaf3125280b2f50336001972265b56ee12"
 },
 {
 "path": "src/styles/app.css",
@@ -184839,8 +188589,8 @@
 },
 {
 "path": "src/ui/Splash.tsx",
-"bytes": 9011,
-"sha256": "720e4ab8aaee2eb2d34edc618548211175e1f7f250e1bd14f7d23033d75e0e76"
+"bytes": 9165,
+"sha256": "7d784577efe234b65eeb3bc505add9e27971e2a5f47c8c76a9eebac625261a9a"
 },
 {
 "path": "src/ui/Toast.tsx",

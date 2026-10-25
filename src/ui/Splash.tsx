@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { playFile, preloadFiles } from "../lib/sound";
+import { duck, playFile, preloadFiles } from "../lib/sound";
 import { dayKey, store } from "../store/store";
 
 const SEEN_KEY = "word-atlas:splash";
@@ -217,6 +217,9 @@ export function Splash({ onDone }: { onDone: () => void }) {
       void playFile("splash-burst.mp3", 0.55);
       void playFile("splash-door.mp3", 0.6, 0.12);
       void playFile("splash-voice.mp3", 0.95, 0.35);
+      // Let the welcome line sit above the music that fades in with the doors.
+      duck(true);
+      window.setTimeout(() => duck(false), 3200);
     }
     setPhase("open");
     window.setTimeout(onDone, reduce ? 300 : 1900);

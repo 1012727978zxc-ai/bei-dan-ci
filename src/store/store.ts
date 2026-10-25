@@ -67,14 +67,14 @@ export const defaultSettings: Settings = {
   autoplay: true,
   dailyNew: 10,
   retention: 0.9,
-  theme: "system",
+  theme: "dark",
   sfx: true,
   spell: true,
   startLevel: 0,
   onboarded: false,
   dataset: "open",
-  ambience: "off",
-  ambienceVolume: 0.5,
+  ambience: "stars",
+  ambienceVolume: 0.45,
   splash: true,
 };
 

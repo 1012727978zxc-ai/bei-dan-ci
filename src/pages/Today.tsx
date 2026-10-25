@@ -218,7 +218,7 @@ function GalaxyPanel({ learned, total }: { learned: number; total: number }) {
         <h3>
           已点亮 <b>{learned.toLocaleString()}</b> 颗星
         </h3>
-        <p>{learned ? `还有 ${(total - learned).toLocaleString()} 颗在等你。金色的，是今天新点亮的。` : `${total.toLocaleString()} 个词是 ${total.toLocaleString()} 颗星。学会一个，就点亮一颗。`}</p>
+        <p>{learned ? `还有 ${(total - learned).toLocaleString()} 颗在等你。金色是今天新点亮的。` : `${total.toLocaleString()} 个词是 ${total.toLocaleString()} 颗星。学会一个，就点亮一颗。`}</p>
         <span className="btn btn-glass">
           进入星图 <ArrowRight size={18} />
         </span>

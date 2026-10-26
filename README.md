@@ -1,60 +1,76 @@
 <div align="center">
 
-<img src="docs/assets/banner.jpg" alt="词光 Word Atlas：一词一画，点亮雅思" width="100%">
+<a href="https://0xlei.tech/words/"><img src="docs/assets/cover-v2.jpg" alt="词光 Word Atlas — 一词一画，点亮雅思" width="100%"></a>
 
 # 词光 · Word Atlas
 
-**一词一画，点亮雅思。**
+**把单词变成画面，让复习有迹可循。**
 
-7,298 个雅思核心词，每个词一幅原创插画、两条原创例句、英美发音和一套刚刚好的复习节奏。<br>
-免费，开源，无需注册，打开网页就能背。
+7,298 个雅思词条 · 原创插画 · 英美发音 · FSRS 间隔复习
 
-[**打开词光 →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ 看宣传片](docs/assets/launch.mp4) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [**在 X 关注更新 →**](https://x.com/yangleiocx3) &nbsp;·&nbsp; [English](README.en.md)
+[**立即体验 ↗**](https://0xlei.tech/words/)　 /　 [48 秒介绍](docs/assets/launch.mp4)　 /　 [下载词库](data/)　 /　 [English](README.en.md)
 
-![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-7%2C298-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE) ![GitHub stars](https://img.shields.io/github/stars/designfuchen/word-atlas?style=flat&color=E8B65A) [![Follow on X](https://img.shields.io/badge/X-@yangleiocx3-111?logo=x&logoColor=white)](https://x.com/yangleiocx3)
-
-<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="词光宣传片精华：每本单词书都从 abandon 开始" width="100%"></a>
-
-<sub>每本单词书都从 abandon 开始，也停在 abandon。▶ 点击画面看 48 秒完整宣传片（有声音）</sub>
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-17283B?style=flat-square)](LICENSE)
+[![Dataset: CC BY 4.0](https://img.shields.io/badge/Dataset-CC_BY_4.0-AD5038?style=flat-square)](CONTENT_LICENSE.md)
+[![Follow on X](https://img.shields.io/badge/X-@yangleiocx3-17283B?style=flat-square&logo=x&logoColor=white)](https://x.com/yangleiocx3)
 
 </div>
 
 ---
 
-## 为什么做词光
+词光是一款以插画和语境为核心的雅思背词应用。看画面理解词义，听发音建立联系，再用主动回忆和间隔复习巩固记忆。无需账号，学习进度保存在自己的设备上。
 
-背单词最难的不是“看过”，而是“想得起来”。
+> **版本说明**：这个仓库提供词光的开源基础版及配套数据集。在线网站独立迭代，功能与仓库可能不同；仓库里的代码和内容分别遵循下方的 MIT / CC BY 4.0 授权。
 
-纸质单词书把 7,000 个词排成一张清单，大多数人翻到第一页就停下了。词光换了个做法：给每个词一幅画，让你先**看见**它；用主动回忆让你**想起**它；再用 FSRS 算法在你快要忘记的时候让你和它**重逢**。你学会的每一个词，都会在自己的词汇星图上点亮一颗星。
+[产品预览](#产品预览) · [学习方式](#学习方式) · [本地运行](#本地运行) · [开放数据](#开放数据) · [参与贡献](#参与贡献)
 
-这是一个个人项目。所有释义、例句、插画和录音都是为这个项目新做的，制作成本由作者自己承担，然后全部开源，任何人都可以免费使用、修改和再分发。
+## 产品预览
 
-## 一眼看懂
+### 一本可以听、可以练的单词图鉴
 
-| 数量 | 内容 |
-|---:|---|
-| **7,298** | 雅思核心词条，CEFR A1–C2 分级，19 个雅思高频话题 |
-| **7,298** | 幅原创插画，统一的复古图鉴画风，画的就是例句里的场景 |
-| **14,596** | 条原创例句：一条日常短句帮你记住，一条雅思语境长句帮你会用 |
-| **22,905** | 段录音：英音、美音单词发音，以及例句朗读 |
-| **0** | 账号、广告、追踪。进度只保存在你自己的设备上 |
-
-<img src="docs/assets/today-desktop.jpg" alt="今日页" width="100%">
-
-## 看一看，听一听
-
-7,298 幅插画、22,905 段录音、24 段界面声音，都是为词光专门做的。下面是一小部分。
-
-### 🖼 每个词一幅画
-
-画面讲的就是例句里的那件事，同一种复古图鉴画风贯穿全部 7,298 个词。
+<img src="docs/assets/atlas-desktop.jpg" alt="开源版桌面图鉴：插画词卡和词汇浏览" width="100%">
 
 <table>
-<tr><td align="center" width="25%"><img src="public/atlas/img/abandon.webp" alt="abandon" width="100%"><br><b>abandon</b> 遗弃；抛弃<br><sub><i>We had to abandon our car in the snow.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/volcano.webp" alt="volcano" width="100%"><br><b>volcano</b> 火山<br><sub><i>We watched steam rising from the volcano across the lake.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/orchestra.webp" alt="orchestra" width="100%"><br><b>orchestra</b> 管弦乐队<br><sub><i>The orchestra began playing as the lights dimmed.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/telescope.webp" alt="telescope" width="100%"><br><b>telescope</b> 望远镜<br><sub><i>We watched the moon through a telescope on the balcony.</i></sub></td></tr>
-<tr><td align="center" width="25%"><img src="public/atlas/img/migrate.webp" alt="migrate" width="100%"><br><b>migrate</b> 迁徙；移居<br><sub><i>These birds migrate south when the weather turns cold.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/festival.webp" alt="festival" width="100%"><br><b>festival</b> 节日；庆祝活动<br><sub><i>Our town holds a lantern festival every autumn.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/lighthouse.webp" alt="lighthouse" width="100%"><br><b>lighthouse</b> 灯塔<br><sub><i>The lighthouse beam swept across the dark sea.</i></sub></td><td align="center" width="25%"><img src="public/atlas/img/astronaut.webp" alt="astronaut" width="100%"><br><b>astronaut</b> 宇航员；航天员<br><sub><i>The astronaut floated gently through the small space station.</i></sub></td></tr>
+<tr>
+<td width="50%"><img src="docs/assets/today-mobile.jpg" alt="手机端今日学习页" width="100%"></td>
+<td width="50%"><img src="docs/assets/word-mobile.jpg" alt="手机端词卡，展示插画、英美发音与例句" width="100%"></td>
+</tr>
+<tr><td align="center">每日计划，把注意力放在今天</td><td align="center">插画、词义、发音，在一张词卡里</td></tr>
 </table>
 
-### 🔊 每个词都会读
+<sub>以上为仓库开源版的实际界面。页首为品牌概念插画。</sub>
+
+### 学过的词，汇成自己的星图
+
+<img src="docs/assets/galaxy.jpg" alt="词汇星图界面：按话题组织单词，展示学习进度" width="100%">
+
+19 个话题组成词汇星图。拖动旋转、滚动缩放，点击星星打开词卡；学习状态用不同亮度呈现。采用 WebGL2 渲染，不支持的设备提供降级显示。
+
+<details>
+<summary><b>看 48 秒宣传片</b></summary>
+
+<a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="点击观看词光宣传片" width="100%"></a>
+
+[播放完整视频（含声音）](docs/assets/launch.mp4)
+
+</details>
+
+## 学习方式
+
+| 环节 | 你会做什么 |
+| :--- | :--- |
+| **看见** | 每个词配一幅插画、中英释义、两条原创例句，以及搭配、词族和用法提示。 |
+| **听见** | 切换英音、美音，听日常例句朗读；部分词条另含第二条例句录音。 |
+| **想起** | 看义选词、看图补句、听音辨词、拼写，逐步练习主动回忆。 |
+| **复习** | FSRS 根据学习记录安排复习，目标记忆率可调。只有首次作答计入正确率。 |
+| **积累** | 星图展示学习进度；打字练习独立统计；支持导出和恢复本地进度。 |
+
+**本地优先。** 无需注册；看过的词条与媒体可缓存供离线使用。换设备前，请先导出进度备份。
+
+<details>
+<summary><b>听发音、例句与环境声样本</b></summary>
+
+
 
 拿 *abandon* 举例，点开就能听（在线播放）：
 
@@ -66,7 +82,7 @@
 
 全部 7,298 个词都有英音、美音和例句朗读，还有 1,011 个重点词的第二条例句也配了朗读。
 
-### 🎧 整个应用都有声音
+### 环境声与交互声音
 
 | | |
 |---|---|
@@ -78,57 +94,53 @@
 
 全部素材都在仓库里：插画在 `public/atlas/img/`，录音在 `public/atlas/audio/`，这两类按 CC BY 4.0 开放；界面声音和配乐在 `public/sfx/`，随应用一起提供。
 
-## 每个词都有什么
 
-| | |
-|---|---|
-| 🖼 **一幅插画** | 画面讲的就是第一条例句里的事。抽象词也用具体场景表达，比如 *abandon* 是雪地里被丢下的车。 |
-| 🔊 **英美发音** | 英音、美音分别合成，例句也会读（AI 语音，ElevenLabs）。 |
-| ✍️ **两条原创例句** | 日常句 + 雅思语境句（教育、环境、科技、城市……），都配自然的中文翻译。 |
-| 📚 **中英释义** | 最多 3 个常用义项，按雅思使用频率排序，附简明英文解释。 |
-| 🧩 **搭配、词族、近反义** | 高频搭配带中文，词族之间可以互相跳转。 |
-| 💡 **一条提示** | 易混词、用法陷阱或记忆方法，不编造词源。 |
+</details>
 
-<img src="docs/assets/mosaic.jpg" alt="7,298 幅插画里的一小部分" width="100%">
+## 本地运行
 
-## 词汇星图
+需要 **Node.js 20+** 和 npm。仓库含完整图片与录音，首次下载可能较久。
 
-<img src="docs/assets/galaxy.jpg" alt="词汇星图：640 颗已点亮的星" width="100%">
+```bash
+git clone --depth 1 https://github.com/designfuchen/word-atlas.git
+cd word-atlas
+npm ci
+npm run dev
+```
 
-7,298 个词就是 7,298 颗星。19 个话题各成一条旋臂，简单的词在中心，难的在外缘。没学的是星尘，学习中的会发光，掌握了的燃成白色，今天新点亮的是金色。拖动旋转、滚动缩放，点任意一颗星就能打开它的词卡。
+打开 **http://localhost:5188**。
 
-星图用 WebGL2 自定义着色器渲染，不支持的设备会自动降级。
+```bash
+npm test             # 单元测试
+npm run check:atlas  # 词库结构与媒体校验
+npm run build        # 构建到 dist/
+```
 
-## 怎么帮你记住
+子路径部署：`ATLAS_BASE=/words/ npm run build`。完整说明见 [部署文档](docs/deployment.md)。
 
-- **主动回忆**：看义选词、看图补句、听音辨词、拼写，四种题型从“认得”走到“会写”。
-- **FSRS 间隔复习**：和新版 Anki 同款的开源记忆算法，只在你快要遗忘时安排复习，目标记忆率可调。
-- **诚实的统计**：只有第一次作答计分。答错的词会换个题型再练，但重试不会抬高正确率。
-- **从你的水平开始**：选 A2 / B1 / B2 / C1 起点，跳过已经熟悉的词。
-- **打字工作室**：单词、例句抄写、整句听写三种模式，WPM 和准确率单独统计，不影响记忆数据。
-- **声音设计**：每个操作都有温和的木琴、纸张和铃声音效；一段星空音乐和 6 段环境声（雨天图书馆、清晨海岸、夜晚壁炉……）陪你专注，读单词时自动压低。
-- **开屏仪式**：星尘汇聚成“词光”，大门打开，“欢迎打开雅思大门”。每天一次，可以关掉。
-- **离线可用**：看过的词、插画和音频都缓存在本地，没网也能复习。
-- **分享卡片**：任何一个词、每天的学习成果，都能一键生成图片。
-- **备份恢复**：进度可以导出成文件，换设备时导入即可。
+**技术栈**：React 19 · TypeScript · Vite · ts-fsrs · WebGL2
 
-<table>
-<tr>
-<td width="62%"><img src="docs/assets/atlas-desktop.jpg" alt="图鉴"></td>
-<td><img src="docs/assets/word-mobile.jpg" alt="手机词卡"></td>
-</tr>
-</table>
+## 开放数据
 
-## 一份可以自由使用的词库
+不仅可以直接使用应用，也可以把词库用于自己的学习工具、Anki 牌组或研究项目。
 
-`data/` 里是完整词库，内容采用 **CC BY 4.0**：注明出处即可自由使用、修改、商用。
+| 资源 | 开源版内容 | 入口 |
+| :--- | :--- | :--- |
+| 词条 | **7,298** 条，CEFR A1–C2、19 个话题 | [JSON](data/word-atlas.json) · [CSV](data/word-atlas.csv) |
+| 例句 | **14,596** 条，日常与雅思语境，附中文翻译 | [字段说明](docs/dataset.md) |
+| 插画 | **7,298** 幅，512 px WebP，另有缩略图 | [图片目录](public/atlas/img/) |
+| 录音 | **22,905** 段，英音、美音与例句朗读 | [音频目录](public/atlas/audio/) |
 
-| 文件 | 内容 |
-|---|---|
-| [`data/word-atlas.json`](data/word-atlas.json) | 完整结构化数据 |
-| [`data/word-atlas.csv`](data/word-atlas.csv) | 表格版，可直接导入 Excel / Anki |
-| `public/atlas/img/` | 7,298 幅 512 px WebP 插画（另有 256 px 缩略图） |
-| `public/atlas/audio/` | `uk/` `us/` 单词发音，`ex/` `ex2/` 例句朗读，MP3 |
+```python
+import json
+from pathlib import Path
+
+words = json.loads(Path("data/word-atlas.json").read_text(encoding="utf-8"))
+b2_environment = [w for w in words if w["cefr"] == "B2" and w["topic"] == "environment"]
+```
+
+<details>
+<summary><b>查看一条词条的数据结构</b></summary>
 
 ```json
 {
@@ -149,76 +161,32 @@
 }
 ```
 
-三行代码就能用起来：
+</details>
 
-```python
-import json
-words = json.load(open("data/word-atlas.json", encoding="utf-8"))
-b2_env = [w for w in words if w["cefr"] == "B2" and w["topic"] == "environment"]
-```
+### 内容来源与局限
 
-可以拿它做 Anki 牌组、背词小程序、浏览器插件、AI 应用的评测集，或者你自己的研究。字段说明见 [docs/dataset.md](docs/dataset.md)。
+释义、例句、插画和录音为本项目生成：文字与插画使用生成式 AI，语音使用 ElevenLabs。内容经过自动结构与一致性校验，**尚未逐条人工审校**，可能出现释义、例句、插画或发音错误。它不是官方雅思词表，也不承诺提分。
 
-## 本地运行
-
-需要 Node.js 20+。
-
-```bash
-git clone https://github.com/designfuchen/word-atlas.git
-cd word-atlas
-npm ci
-npm run dev
-```
-
-打开 `http://localhost:5188`。同一 Wi-Fi 下的手机可以访问终端里显示的 Network 地址。
-
-```bash
-npm test            # 单元测试
-npm run check:atlas # 校验词库结构与媒体文件
-npm run build       # 生产构建，输出到 dist/
-```
-
-部署就是把 `dist/` 放到任意静态托管。子路径部署用 `ATLAS_BASE=/words/ npm run build`，见 [docs/deployment.md](docs/deployment.md)。
-
-## 内容是怎么做出来的
-
-词表来自常见的雅思阅读核心词，去重后 7,298 个词条。词条内容全部是本项目新写的：
-
-1. **文字**：大语言模型按统一的词典编写规范，逐词生成释义、例句、搭配和提示，再做结构和一致性校验。
-2. **插画**：图像模型按统一画风逐词绘制，画面对应第一条例句。
-3. **声音**：英音、美音和例句朗读由 ElevenLabs 合成；界面音效和环境声同样为本项目生成。
-
-生成脚本在 [`scripts/atlas/`](scripts/atlas)，完整流程见 [docs/pipeline.md](docs/pipeline.md)，记忆模型见 [docs/learning-model.md](docs/learning-model.md)。
-
-> **诚实说明**：内容经过了结构、引用和一致性的自动校验，但没有逐条人工审校，可能有个别不准确的释义、例句或插画。发现问题欢迎提 Issue，或者直接修改 `data/` 提 PR。这不是官方雅思词表，也不承诺提分。
-
-## 关注更新
-
-词光的新功能、背词方法和幕后制作，都会先发在 X：[@yangleiocx3](https://x.com/yangleiocx3)。<br>
-觉得有用，点个 Star，也欢迎来 X 打个招呼、提建议。
-
-[![Follow @yangleiocx3 on X](https://img.shields.io/badge/在%20X%20关注-@yangleiocx3-111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yangleiocx3)
+[内容生成流程](docs/pipeline.md) · [记忆模型](docs/learning-model.md) · [生成脚本](scripts/atlas/)
 
 ## 参与贡献
 
-- **纠错**：在 Issue 里写清楚词条 id 和问题，或者直接提 PR。每一处纠错都会让下一个人背得更准。
-- **新功能**：先开 Issue 讨论，保持“无账号、本地优先、安静好看”的方向。
-- **代码**：TypeScript 严格模式，`npm test` 和 `npm run check:atlas` 需要通过。
+发现问题时，请附上**词条 ID、复现步骤和预期结果**。内容纠错如有词典或其他可靠依据，也请一并提供。
 
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+- [报告问题](https://github.com/designfuchen/word-atlas/issues/new/choose)：词条纠错、界面问题或使用建议。
+- [贡献指南](CONTRIBUTING.md)：数据同步、代码规范和提交前检查。
+- [安全政策](SECURITY.md)：安全问题的反馈方式。
 
 ## 授权
 
-- 代码：[MIT](LICENSE)
-- 词库文本、插画、录音：[CC BY 4.0](CONTENT_LICENSE.md)，署名 “Word Atlas contributors（词光）”
-- 字体 Fraunces：SIL Open Font License；记忆算法 [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs)：MIT
+| 范围 | 许可 |
+| :--- | :--- |
+| 应用代码 | [MIT](LICENSE) |
+| 词库文本、插画与词条录音 | [CC BY 4.0](CONTENT_LICENSE.md)，署名 Word Atlas contributors（词光） |
+| 第三方依赖与字体 | 遵循各自许可，详见相应文件 |
 
-## Star 趋势
+---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=designfuchen/word-atlas&type=Date)](https://star-history.com/#designfuchen/word-atlas&Date)
+由 [@designfuchen](https://github.com/designfuchen) 制作。产品进展与制作过程见 [X · @yangleiocx3](https://x.com/yangleiocx3)。
 
-<div align="center">
-
-如果词光帮到了你，点一颗 ⭐️，也算帮它点亮一颗星。
-
-</div>
+如果词光对你有用，欢迎 Star，或把它分享给正在学英语的朋友。

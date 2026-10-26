@@ -7,7 +7,7 @@
 **One word, one picture. Light up your IELTS vocabulary.**<br>
 7,298 core words · 14,596 original example sentences · 7,298 illustrations · UK & US audio · FSRS spaced repetition
 
-[**Open the app →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ Launch film](docs/assets/launch.mp4) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [中文](README.md)
+[**Open the app →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ Launch film](docs/assets/launch.mp4) &nbsp;·&nbsp; [Download the dataset](data/) &nbsp;·&nbsp; [**Follow on X →**](https://x.com/yangleiocx3) &nbsp;·&nbsp; [中文](README.md)
 
 <a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="Word Atlas launch film highlights" width="100%"></a>
 
@@ -75,6 +75,12 @@ npm run build      # static site in dist/; ATLAS_BASE=/sub/path/ for sub-path ho
 The headword list is a common IELTS reading core list (7,298 unique entries). All entry content is newly written for this project: definitions, examples, collocations and tips by a large language model under one lexicographic spec; illustrations by an image model in one art direction; audio by ElevenLabs. The pipeline lives in [`scripts/atlas/`](scripts/atlas) and is described in [docs/pipeline.md](docs/pipeline.md).
 
 Everything passed automated structure and consistency checks, but it has **not** been proofread entry by entry. If you find a mistake, please open an issue or send a pull request against `data/`. This is not an official IELTS list and makes no score guarantees.
+
+## Follow along
+
+New features, study methods and behind-the-scenes notes are posted first on X: [@yangleiocx3](https://x.com/yangleiocx3). If Word Atlas helps you, star the repo and say hi on X.
+
+[![Follow @yangleiocx3 on X](https://img.shields.io/badge/Follow-@yangleiocx3-111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yangleiocx3)
 
 ## License
 

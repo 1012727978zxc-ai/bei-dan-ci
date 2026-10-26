@@ -9,9 +9,9 @@
 7,298 个雅思核心词，每个词一幅原创插画、两条原创例句、英美发音和一套刚刚好的复习节奏。<br>
 免费，开源，无需注册，打开网页就能背。
 
-[**打开词光 →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ 看宣传片](docs/assets/launch.mp4) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [English](README.en.md)
+[**打开词光 →**](https://0xlei.tech/words/) &nbsp;·&nbsp; [▶ 看宣传片](docs/assets/launch.mp4) &nbsp;·&nbsp; [下载词库](data/) &nbsp;·&nbsp; [**在 X 关注更新 →**](https://x.com/yangleiocx3) &nbsp;·&nbsp; [English](README.en.md)
 
-![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-7%2C298-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE) ![GitHub stars](https://img.shields.io/github/stars/designfuchen/word-atlas?style=flat&color=E8B65A)
+![MIT](https://img.shields.io/badge/code-MIT-1E2640) ![CC BY 4.0](https://img.shields.io/badge/content-CC%20BY%204.0-C4573A) ![words](https://img.shields.io/badge/words-7%2C298-7F9B77) ![FSRS](https://img.shields.io/badge/scheduler-FSRS%206-D9A03A) ![no login](https://img.shields.io/badge/login-not%20required-6F93AE) ![GitHub stars](https://img.shields.io/github/stars/designfuchen/word-atlas?style=flat&color=E8B65A) [![Follow on X](https://img.shields.io/badge/X-@yangleiocx3-111?logo=x&logoColor=white)](https://x.com/yangleiocx3)
 
 <a href="docs/assets/launch.mp4"><img src="docs/assets/launch-preview.webp" alt="词光宣传片精华：每本单词书都从 abandon 开始" width="100%"></a>
 
@@ -191,6 +191,13 @@ npm run build       # 生产构建，输出到 dist/
 生成脚本在 [`scripts/atlas/`](scripts/atlas)，完整流程见 [docs/pipeline.md](docs/pipeline.md)，记忆模型见 [docs/learning-model.md](docs/learning-model.md)。
 
 > **诚实说明**：内容经过了结构、引用和一致性的自动校验，但没有逐条人工审校，可能有个别不准确的释义、例句或插画。发现问题欢迎提 Issue，或者直接修改 `data/` 提 PR。这不是官方雅思词表，也不承诺提分。
+
+## 关注更新
+
+词光的新功能、背词方法和幕后制作，都会先发在 X：[@yangleiocx3](https://x.com/yangleiocx3)。<br>
+觉得有用，点个 Star，也欢迎来 X 打个招呼、提建议。
+
+[![Follow @yangleiocx3 on X](https://img.shields.io/badge/在%20X%20关注-@yangleiocx3-111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yangleiocx3)
 
 ## 参与贡献
 

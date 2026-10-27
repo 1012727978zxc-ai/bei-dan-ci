@@ -2,7 +2,7 @@
 
 <a href="https://0xlei.tech/words/"><img src="docs/assets/cover-v2.jpg" alt="词光 Word Atlas — 一词一画，点亮雅思" width="100%"></a>
 
-# 词光 · Word Atlas
+# 宝宝喜欢背单词
 
 **把单词变成画面，让复习有迹可循。**
 

@@ -125,7 +125,7 @@ function Shell({ privateAvailable }: { privateAvailable: boolean }) {
     <div className={`app ${focus ? "is-focus" : ""}`}>
       {!focus && (
         <header className="topbar">
-          <a className="topbar-logo" href="#/" aria-label="词光 Word Atlas 首页">
+          <a className="topbar-logo" href="#/" aria-label="宝宝喜欢背单词首页">
             <Logo />
           </a>
           <nav className="topnav" aria-label="主导航">

@@ -20,7 +20,7 @@ export function Onboarding() {
       <div className="onboard-card">
         <img className="onboard-art" src={`${import.meta.env.BASE_URL}brand/hero.webp`} alt="" />
         <div className="onboard-body">
-          <p className="eyebrow">欢迎来到词光</p>
+          <p className="eyebrow">欢迎来到宝宝喜欢背单词</p>
           <h1 className="display">
             {atlas.count.toLocaleString()} 颗星，
             <br />

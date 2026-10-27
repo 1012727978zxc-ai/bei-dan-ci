@@ -40,7 +40,7 @@ interface P {
 
 const ease = (t: number) => 1 - Math.pow(1 - Math.min(1, Math.max(0, t)), 3);
 
-/** Sample bright pixels of the logo, the Chinese name and the wordmark as particle targets. */
+/** Sample bright pixels of the logo and the Chinese name as particle targets. */
 function targets(w: number, h: number, count: number) {
   const c = document.createElement("canvas");
   c.width = w;
@@ -70,15 +70,11 @@ function targets(w: number, h: number, count: number) {
   g.lineTo(cx, cy + R * 0.1);
   g.closePath();
   g.fill();
-  const zh = Math.min(w * 0.3, s * 0.24);
+  const zh = Math.min(w * 0.13, s * 0.14);
   g.font = `700 ${zh}px "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC", serif`;
   g.textAlign = "center";
   g.textBaseline = "middle";
-  g.fillText("词光", cx, cy + R + zh * 0.78);
-  const en = Math.max(18, zh * 0.24);
-  g.font = `700 ${en}px "Fraunces Variable", Georgia, serif`;
-  g.letterSpacing = `${en * 0.34}px`;
-  g.fillText("WORD ATLAS", cx, cy + R + zh * 1.52);
+  g.fillText("宝宝喜欢背单词", cx, cy + R + zh * 0.78);
   const data = g.getImageData(0, 0, w, h).data;
   // Take every lit pixel, then a random subset: no visible sampling grid.
   const all: [number, number][] = [];
@@ -244,8 +240,7 @@ export function Splash({ onDone }: { onDone: () => void }) {
       <canvas ref={canvas} className="splash-canvas" aria-hidden="true" />
       {reduce && (
         <div className="splash-static">
-          <b>词光</b>
-          <small>WORD ATLAS</small>
+          <b>宝宝喜欢背单词</b>
         </div>
       )}
       <div className="splash-copy">

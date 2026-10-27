@@ -15,11 +15,10 @@ export function Mark({ size = 28 }: { size?: number }) {
 
 export function Logo({ compact = false }: { compact?: boolean }) {
   return (
-    <span className="logo">
+    <span className={`logo${compact ? " logo-compact" : ""}`}>
       <Mark />
       <span className="logo-text">
         <b>宝宝喜欢背单词</b>
-        
       </span>
     </span>
   );
